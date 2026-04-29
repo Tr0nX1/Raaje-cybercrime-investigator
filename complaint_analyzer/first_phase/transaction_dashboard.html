@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layered Transaction Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: rgba(20, 24, 39, 0.65);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --accent-blue: #3b82f6;
+      --accent-blue-glow: rgba(59, 130, 246, 0.2);
+      --accent-purple: #8b5cf6;
+      --success-text: #10b981;
+      --success-bg: rgba(16, 185, 129, 0.15);
+      --success-border: rgba(16, 185, 129, 0.3);
+      --danger-text: #ef4444;
+      --danger-bg: rgba(239, 68, 68, 0.15);
+      --layer-bg: rgba(245, 158, 11, 0.15);
+      --layer-text: #f59e0b;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      background-image: 
+        radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.05), transparent 30%),
+        radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.05), transparent 30%);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    .dashboard-title {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 2rem;
+      text-align: center;
+      background: linear-gradient(90deg, #f8fafc, #94a3b8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .layers-container {
+      display: flex;
+      flex-direction: column;
+      gap: 3rem;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .layer-section {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 20px;
+      padding: 24px 0 24px 24px;
+      position: relative;
+    }
+
+    .layer-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      padding-right: 24px;
+    }
+
+    .layer-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .layer-badge-main {
+      background: var(--layer-bg);
+      color: var(--layer-text);
+      padding: 6px 14px;
+      border-radius: 12px;
+      font-size: 0.875rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+
+    .cards-row {
+      display: flex;
+      gap: 24px;
+      overflow-x: auto;
+      padding-bottom: 16px;
+      padding-right: 24px;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(255,255,255,0.2) transparent;
+    }
+
+    .cards-row::-webkit-scrollbar {
+      height: 8px;
+    }
+    .cards-row::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    .cards-row::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.2);
+      border-radius: 10px;
+    }
+
+    /* Card Container */
+    .transaction-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      width: 600px; /* Fixed width for horizontal scrolling */
+      min-width: 600px;
+      flex-shrink: 0;
+      scroll-snap-align: start;
+      padding: 24px;
+      box-shadow: 0 4px 24px -1px rgba(0, 0, 0, 0.3), 
+                  inset 0 1px 0 rgba(255, 255, 255, 0.05);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .transaction-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+    }
+
+    .transaction-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px -4px rgba(0, 0, 0, 0.5),
+                  0 0 20px var(--accent-blue-glow);
+    }
+
+    /* Header */
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .badge {
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+
+    .badge-status {
+      background: var(--success-bg);
+      color: var(--success-text);
+      border: 1px solid var(--success-border);
+    }
+    
+    .badge-status.danger {
+      background: var(--danger-bg);
+      color: var(--danger-text);
+      border-color: rgba(239, 68, 68, 0.3);
+    }
+
+    .badge-status.warning {
+      background: rgba(245, 158, 11, 0.15);
+      color: #f59e0b;
+      border-color: rgba(245, 158, 11, 0.3);
+    }
+
+    .datetime {
+      color: var(--text-secondary);
+      font-size: 0.8125rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Main Flow Container */
+    .flow-container {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .entity-node {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .entity-type {
+      font-size: 0.7rem;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+
+    .entity-bank {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .entity-account {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1rem;
+      color: var(--accent-blue);
+      letter-spacing: 1px;
+    }
+
+    .entity-meta {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      font-family: 'JetBrains Mono', monospace;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Flow Arrow */
+    .flow-arrow {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      color: var(--text-secondary);
+    }
+
+    .arrow-line {
+      display: flex;
+      align-items: center;
+      width: 60px;
+    }
+
+    .arrow-line::before {
+      content: '';
+      flex: 1;
+      height: 2px;
+      background: linear-gradient(90deg, var(--card-border), var(--accent-purple));
+    }
+
+    .arrow-icon {
+      color: var(--accent-purple);
+      margin-left: -4px;
+    }
+
+    /* Footer / Financials */
+    .card-footer {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      padding-top: 16px;
+      border-top: 1px solid var(--card-border);
+    }
+
+    .amount-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .amount-label {
+      font-size: 0.7rem;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .amount-value {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .amount-value.disputed {
+      color: var(--danger-text);
+      text-shadow: 0 0 10px rgba(239, 68, 68, 0.4);
+    }
+
+    .transaction-id {
+      grid-column: 1 / -1;
+      margin-top: 8px;
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .mono-text {
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--text-primary);
+    }
+
+    .loading-state {
+      text-align: center;
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      padding: 4rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 class="dashboard-title">Forensic Analysis: Layered Flow</h1>
+  
+  <div class="layers-container" id="layers-container">
+    <div class="loading-state">Fetching transaction data...</div>
+  </div>
+
+  <script>
+    // Fetch and process data
+    async function loadData() {
+      try {
+        const response = await fetch('Refined_TOON_Report.json');
+        if (!response.ok) throw new Error('Failed to load data');
+        const data = await response.json();
+        
+        const transactions = data.layered_transactions || [];
+        if (transactions.length === 0) {
+          document.getElementById('layers-container').innerHTML = '<div class="loading-state">No layered transactions found.</div>';
+          return;
+        }
+
+        // Group by layer
+        const layers = {};
+        transactions.forEach(txn => {
+          const layerNum = txn.layer || 'Unknown';
+          if (!layers[layerNum]) {
+            layers[layerNum] = [];
+          }
+          layers[layerNum].push(txn);
+        });
+
+        // Sort layers numerically
+        const sortedLayerKeys = Object.keys(layers).sort((a, b) => {
+          if(a === 'Unknown') return 1;
+          if(b === 'Unknown') return -1;
+          return parseInt(a) - parseInt(b);
+        });
+
+        renderDashboard(layers, sortedLayerKeys);
+
+      } catch (error) {
+        console.error('Error loading data:', error);
+        document.getElementById('layers-container').innerHTML = `<div class="loading-state" style="color: var(--danger-text)">Error loading data. Make sure server is running and JSON file is present.</div>`;
+      }
+    }
+
+    function renderDashboard(layers, sortedKeys) {
+      const container = document.getElementById('layers-container');
+      container.innerHTML = ''; // clear loading
+
+      sortedKeys.forEach(layerKey => {
+        const txns = layers[layerKey];
+        
+        // Create layer section
+        const section = document.createElement('div');
+        section.className = 'layer-section';
+        
+        const layerHeader = document.createElement('div');
+        layerHeader.className = 'layer-header';
+        layerHeader.innerHTML = `
+          <div class="layer-title">
+            <span class="layer-badge-main">Layer ${layerKey}</span>
+            <span style="font-size: 0.875rem; color: var(--text-secondary); font-weight: normal">${txns.length} Transaction${txns.length > 1 ? 's' : ''}</span>
+          </div>
+        `;
+        
+        const cardsRow = document.createElement('div');
+        cardsRow.className = 'cards-row';
+
+        // Add cards
+        txns.forEach(txn => {
+          cardsRow.appendChild(createCardElement(txn));
+        });
+
+        section.appendChild(layerHeader);
+        section.appendChild(cardsRow);
+        container.appendChild(section);
+      });
+    }
+
+    function createCardElement(data) {
+      const card = document.createElement('div');
+      card.className = 'transaction-card';
+
+      const statusRaw = (data.remarks || '').toUpperCase();
+      let statusClass = 'badge-status';
+      let statusText = statusRaw || 'PENDING';
+      
+      if (statusText === 'SUCCESS') statusClass += '';
+      else if (statusText.includes('FAIL') || statusText.includes('REJECT')) statusClass += ' danger';
+      else statusClass += ' warning';
+
+      // formatting currency
+      const formatAmount = (amt) => {
+        if (!amt) return '0.00';
+        return amt.includes('₹') ? amt : `₹${amt}`;
+      };
+
+      card.innerHTML = `
+        <div class="card-header">
+          <div class="header-left">
+            <div class="datetime">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              <span>${data.datetime || 'N/A'}</span>
+            </div>
+          </div>
+          <span class="badge ${statusClass}">${statusText}</span>
+        </div>
+
+        <div class="flow-container">
+          <div class="entity-node">
+            <span class="entity-type">Source • ${data.source_type || 'Unknown'}</span>
+            <span class="entity-bank" title="${data.bank || 'Unknown'}">${data.bank || 'Unknown'}</span>
+            <span class="entity-account">${data.source_account || 'N/A'}</span>
+            <span class="entity-meta" title="${data.source_utr || 'N/A'}">UTR: ${data.source_utr || 'N/A'}</span>
+          </div>
+
+          <div class="flow-arrow">
+            <div class="arrow-line">
+              <svg class="arrow-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
+            </div>
+          </div>
+
+          <div class="entity-node">
+            <span class="entity-type">Destination</span>
+            <span class="entity-bank" title="${data.action_by || 'Unknown'}">${data.action_by || 'Unknown'}</span>
+            <span class="entity-account">${data.destination_account || 'N/A'}</span>
+            <span class="entity-meta" title="${data.destination_ifsc || 'N/A'}">IFSC: ${data.destination_ifsc || 'N/A'}</span>
+          </div>
+        </div>
+
+        <div class="card-footer">
+          <div class="amount-group">
+            <span class="amount-label">Total Amount</span>
+            <span class="amount-value">${formatAmount(data.amount)}</span>
+          </div>
+          <div class="amount-group">
+            <span class="amount-label">Disputed Amount</span>
+            <span class="amount-value disputed">${formatAmount(data.disputed_amount)}</span>
+          </div>
+          
+          <div class="transaction-id">
+            <span>UTR: <span class="mono-text">${data.transaction_utr || 'N/A'}</span></span>
+            <span>S.No: <span class="mono-text">${data.sno || 'N/A'}</span></span>
+          </div>
+        </div>
+      `;
+      return card;
+    }
+
+    // Init
+    window.addEventListener('DOMContentLoaded', loadData);
+  </script>
+</body>
+</html>

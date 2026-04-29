@@ -1,0 +1,66 @@
+{
+  "source_file": "input files\\sb 9110 statement_0001.pdf",
+  "extraction_method": "ocr",
+  "account": {
+    "holder_name": "INDIAN OVERSERS",
+    "account_number": "321601000009110",
+    "bank_name": null,
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": null,
+    "closing_balance": 16.31,
+    "total_credits": 0.0,
+    "total_debits": 16.31
+  },
+  "transactions": [
+    {
+      "date": "2025-09-20",
+      "description": "30, 924 . S8CR",
+      "type": "unknown",
+      "amount": 31.57,
+      "balance": 31.57,
+      "category": "other",
+      "holder_name": "INDIAN OVERSERS",
+      "account_number": "321601000009110",
+      "has_debit_col": null,
+      "has_credit_col": null,
+      "validation_warning": null,
+      "raw_text": "20-09-2025 16:31.57",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-09-20",
+      "description": "5,910.07CR",
+      "type": "debit",
+      "amount": 16.31,
+      "balance": 16.31,
+      "category": "other",
+      "holder_name": "INDIAN OVERSERS",
+      "account_number": "321601000009110",
+      "has_debit_col": null,
+      "has_credit_col": null,
+      "validation_warning": null,
+      "raw_text": "20-09-2025 . 16.31:57",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "Row-level balance mismatch: 1 transaction(s) where amount \u00b1{:.2f} doesn't match balance delta",
+    "AI Audit complete. Header Status: needs_review/deterministic"
+  ],
+  "raw_header_text": "20-09-2025\n16:31:57\nINDIAN OVERSERS\nBANK ,\nBALANPUR\nPage\nREP27\nPRAHLADJI NAGAJI MAKWANAREGISTER\nReport\nTo\nService OutLet\n3216\nPALANPUR\nAccount Number\n321601000009110/INR\nPRAHLADJI NAGAJI MaktwaNA\nReport for\nthe  Period\n07-12-20247020-09-2025\n20-09-2025 16: 31:57\nINDIAN OVERSEAS\nBANK ,\nPALANPUR\nPage\nRZP27\nPRAHLADUI NAGAJI HIKHANAREGISTER\nReport for the Perlod\n07-12-2024T020-09-2025\nDace\nTran\nRef\nNum\nParticulars\nDebft\nAnt\nCredit\nAnt\nBalance Amt\nContra\nId"
+}

@@ -1,0 +1,24 @@
+{
+  "source_file": "input files\\Statement_XXXX XXXX 3925_18Sep2025_13_03.pdf",
+  "extraction_method": "failed",
+  "account": {
+    "holder_name": null,
+    "account_number": null,
+    "bank_name": null,
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": null,
+    "closing_balance": null,
+    "total_credits": 0.0,
+    "total_debits": 0.0
+  },
+  "transactions": [],
+  "warnings": [
+    "PDF is password-protected \u2014 provide password to extract (PDFPasswordIncorrect)"
+  ],
+  "raw_header_text": null
+}

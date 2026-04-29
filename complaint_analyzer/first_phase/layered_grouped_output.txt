@@ -1,0 +1,4357 @@
+Layer: 5
+
+From Account Number: 001425000000051
+To Account Number: 0014250000000
+Bank Name: Paytm
+Total Amount: Rs. 4,822.00
+Total Recovered Amount: Rs. 4,822.00
+
+#1 Transaction ID: 258663325599
+Transaction Type: Layered
+Transaction Amount: Rs. 815.00
+Disputed Amount: Rs. 815.00
+Transaction Date: 17/06/2025 02:35:09 PM
+
+#2 Transaction ID: 834258111255
+Transaction Type: Layered
+Transaction Amount: Rs. 2,549.00
+Disputed Amount: Rs. 2,549.00
+Transaction Date: 17/06/2025 11:51:11 AM
+
+#3 Transaction ID: 363461157129
+Transaction Type: Layered
+Transaction Amount: Rs. 1,458.00
+Disputed Amount: Rs. 1,458.00
+Transaction Date: 18/06/2025 11:22:23 AM
+
+====================================================================================================
+
+Layer: INCONSISTENT (6, 5, 4, 3)
+
+From Account Number: 002261100000025
+To Account Number: 0022611000000
+Bank Name: PhonePe
+Total Amount: Rs. 3,322.00
+Total Recovered Amount: Rs. 2,594.85
+
+#1 Transaction ID: 553768436897
+Transaction Type: Layered
+Transaction Amount: Rs. 890.00
+Disputed Amount: Rs. 890.00
+Transaction Date: 20/06/2025 04:57:47 PM
+
+#2 Transaction ID: 211706355292
+Transaction Type: Layered
+Transaction Amount: Rs. 850.00
+Disputed Amount: Rs. 850.00
+Transaction Date: 19/05/2025 12:21:05 PM
+
+#3 Transaction ID: 763106671510
+Transaction Type: Layered
+Transaction Amount: Rs. 582.00
+Disputed Amount: Rs. 165.56
+Transaction Date: 17/05/2025 05:00:57 PM
+
+#4 Transaction ID: 557958844334
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/08/2025 06:38:18 PM
+
+#5 Transaction ID: 521820681692
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 189.29
+Transaction Date: 06/08/2025 10:34:18 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 002261100000025
+To Account Number: 4346517406
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 850.00
+Total Recovered Amount: Rs. 850.00
+
+#1 Transaction ID: YESPH51401705542
+Transaction Type: Layered
+Transaction Amount: Rs. 850.00
+Disputed Amount: Rs. 850.00
+Transaction Date: 20/05/2025 05:29:00 AM
+
+====================================================================================================
+
+Layer: 8
+
+From Account Number: 0103SL00IPAY5540487053
+To Account Number: 0103SL00IPAY
+Bank Name: Others
+Total Amount: Rs. 1,782.90
+Total Recovered Amount: Rs. 1,782.90
+
+#1 Transaction ID: 554048705304
+Transaction Type: Layered
+Transaction Amount: Rs. 1,782.90
+Disputed Amount: Rs. 1,782.90
+Transaction Date: 23/06/2025 12:56:00 PM
+
+====================================================================================================
+
+Layer: 8
+
+From Account Number: 0103SL00IPAY5540926273
+To Account Number: 0103SL00IPAY
+Bank Name: Others
+Total Amount: Rs. 1,890.00
+Total Recovered Amount: Rs. 1,890.00
+
+#1 Transaction ID: 554092627338
+Transaction Type: Layered
+Transaction Amount: Rs. 1,890.00
+Disputed Amount: Rs. 1,890.00
+Transaction Date: 23/06/2025 12:58:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0103SL00IPAY6855592798
+To Account Number: 0103SL00IPAY
+Bank Name: PINE LABS
+Total Amount: Rs. 825.00
+Total Recovered Amount: Rs. 825.00
+
+#1 Transaction ID: 685559279819
+Transaction Type: Layered
+Transaction Amount: Rs. 825.00
+Disputed Amount: Rs. 825.00
+Transaction Date: 17/06/2025 12:23:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0103SL00IPAY8350295506
+To Account Number: 0103SL00IPAY
+Bank Name: PINE LABS
+Total Amount: Rs. 3,510.00
+Total Recovered Amount: Rs. 3,510.00
+
+#1 Transaction ID: 835029550625
+Transaction Type: Layered
+Transaction Amount: Rs. 3,510.00
+Disputed Amount: Rs. 3,510.00
+Transaction Date: 20/06/2025 12:25:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 0000000351158
+Bank Name: Central Bank of India
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 494833077319
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 17/05/2025 11:18:37 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 0000004146704
+Bank Name: State Bank of India
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 109067478868
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 18/05/2025 10:09:37 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 0022611000000
+Bank Name: Yes Bank
+Total Amount: Rs. 1,432.00
+Total Recovered Amount: Rs. 1,015.56
+
+#1 Transaction ID: 763106671510
+Transaction Type: Layered
+Transaction Amount: Rs. 582.00
+Disputed Amount: Rs. 165.56
+Transaction Date: 17/05/2025 05:00:57 PM
+
+#2 Transaction ID: 211706355292
+Transaction Type: Layered
+Transaction Amount: Rs. 850.00
+Disputed Amount: Rs. 850.00
+Transaction Date: 19/05/2025 12:21:05 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 110210301603
+Bank Name: Canara Bank
+Total Amount: Rs. 830.00
+Total Recovered Amount: Rs. 830.00
+
+#1 Transaction ID: 427502632494
+Transaction Type: Layered
+Transaction Amount: Rs. 830.00
+Disputed Amount: Rs. 830.00
+Transaction Date: 20/05/2025 11:05:27 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 1836104000039
+Bank Name: IDBI Bank
+Total Amount: Rs. 2,300.00
+Total Recovered Amount: Rs. 713.70
+
+#1 Transaction ID: 958054535255
+Transaction Type: Layered
+Transaction Amount: Rs. 2,300.00
+Disputed Amount: Rs. 713.70
+Transaction Date: 20/05/2025 06:56:33 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 20355329498
+Bank Name: Fino Payments Bank
+Total Amount: Rs. 1,870.00
+Total Recovered Amount: Rs. 1,870.00
+
+#1 Transaction ID: 093169829732
+Transaction Type: Layered
+Transaction Amount: Rs. 1,870.00
+Disputed Amount: Rs. 1,870.00
+Transaction Date: 17/05/2025 07:01:12 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 5010080901499
+Bank Name: HDFC Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 144252587594
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 17/05/2025 11:11:50 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 50489613065
+Bank Name: Indian Bank
+Total Amount: Rs. 700.00
+Total Recovered Amount: Rs. 700.00
+
+#1 Transaction ID: 148377156761
+Transaction Type: Layered
+Transaction Amount: Rs. 700.00
+Disputed Amount: Rs. 700.00
+Transaction Date: 19/05/2025 11:50:58 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 0108000102437420
+To Account Number: 9266334738
+Bank Name: Airtel Payments Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 524039918550
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 18/05/2025 10:56:14 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 029310194513
+To Account Number: 0000004323316
+Bank Name: State Bank of India
+Total Amount: Rs. 6,000.00
+Total Recovered Amount: Rs. 6,000.00
+
+#1 Transaction ID: 515422183162
+Transaction Type: Layered
+Transaction Amount: Rs. 6,000.00
+Disputed Amount: Rs. 6,000.00
+Transaction Date: 14/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 029310194513
+To Account Number: 789501000094
+Bank Name: ICICI Bank
+Total Amount: Rs. 6,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 168755804067
+Transaction Type: Layered
+Transaction Amount: Rs. 6,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 14/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0293201700105918
+To Account Number: 0000003831679
+Bank Name: State Bank of India
+Total Amount: Rs. 1,500.00
+Total Recovered Amount: Rs. 1,427.37
+
+#1 Transaction ID: 517149540138
+Transaction Type: Layered
+Transaction Amount: Rs. 1,500.00
+Disputed Amount: Rs. 1,427.37
+Transaction Date: 20/06/2025 03:55:24 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0293201700105918
+To Account Number: 0022611000000
+Bank Name: Yes Bank
+Total Amount: Rs. 890.00
+Total Recovered Amount: Rs. 890.00
+
+#1 Transaction ID: 553768436897
+Transaction Type: Layered
+Transaction Amount: Rs. 890.00
+Disputed Amount: Rs. 890.00
+Transaction Date: 20/06/2025 04:57:47 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0293201700105918
+To Account Number: 5496020100134
+Bank Name: Union Bank of India
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 517512500613
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 24/06/2025 01:07:41 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0293201700105918
+To Account Number: 60534084590
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 699.00
+Total Recovered Amount: Rs. 699.00
+
+#1 Transaction ID: 553884285969
+Transaction Type: Layered
+Transaction Amount: Rs. 699.00
+Disputed Amount: Rs. 699.00
+Transaction Date: 21/06/2025 10:23:32 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 0293201700105918
+To Account Number: 9170100542268
+Bank Name: Axis Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 452.99
+
+#1 Transaction ID: 517513606270
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 452.99
+Transaction Date: 24/06/2025 02:46:08 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 110042032744
+To Account Number: 110042301785
+Bank Name: Canara Bank
+Total Amount: Rs. 7,785.00
+Total Recovered Amount: Rs. 19.49
+
+#1 Transaction ID: 095659599312
+Transaction Type: Layered
+Transaction Amount: Rs. 7,785.00
+Disputed Amount: Rs. 19.49
+Transaction Date: 27/06/2025 03:47:27 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 110210301603
+To Account Number: 0000003755595
+Bank Name: State Bank of India
+Total Amount: Rs. 9,000.00
+Total Recovered Amount: Rs. 830.00
+
+#1 Transaction ID: 172192312325
+Transaction Type: Layered
+Transaction Amount: Rs. 9,000.00
+Disputed Amount: Rs. 830.00
+Transaction Date: 22/05/2025 01:46:06 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 1102110120069249
+To Account Number: 1009041300000
+Bank Name: Jammu and Kashmir Bank
+Total Amount: Rs. 31,195.00
+Total Recovered Amount: Rs. 15,800.00
+
+#1 Transaction ID: 505301189155
+Transaction Type: Layered
+Transaction Amount: Rs. 31,195.00
+Disputed Amount: Rs. 15,800.00
+Transaction Date: 22/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 1102110120069249
+To Account Number: 5020002297363
+Bank Name: Bandhan Bank
+Total Amount: Rs. 19,200.00
+Total Recovered Amount: Rs. 19,200.00
+
+#1 Transaction ID: 505224945340
+Transaction Type: Layered
+Transaction Amount: Rs. 19,200.00
+Disputed Amount: Rs. 19,200.00
+Transaction Date: 21/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 1102110120069249
+To Account Number: 777701196382
+Bank Name: ICICI Bank
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 15,000.00
+
+#1 Transaction ID: 505266747114
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 15,000.00
+Transaction Date: 21/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 110224430897
+To Account Number: 242009000098
+Bank Name: HDFC Bank
+Total Amount: Rs. 2,100.00
+Total Recovered Amount: Rs. 2,100.00
+
+#1 Transaction ID: 354673721225
+Transaction Type: Layered
+Transaction Amount: Rs. 2,100.00
+Disputed Amount: Rs. 2,100.00
+Transaction Date: 02/05/2025 10:44:57 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 110224430897
+To Account Number: 4118010001567
+Bank Name: Bank of Baroda
+Total Amount: Rs. 5,000.00
+Total Recovered Amount: Rs. 4,820.92
+
+#1 Transaction ID: 512222081796
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 4,820.92
+Transaction Date: 02/05/2025 10:52:49 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 1296104000195218
+To Account Number: 1218050782161
+Bank Name: Catholic Syrian Bank LTD.
+Total Amount: Rs. 102,001.00
+Total Recovered Amount: Rs. 49,799.21
+
+#1 Transaction ID: 512808119455
+Transaction Type: Layered
+Transaction Amount: Rs. 1,02,001.00
+Disputed Amount: Rs. 49,799.21
+Transaction Date: 08/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 13431930013251
+To Account Number: 0000003790505
+Bank Name: State Bank of India
+Total Amount: Rs. 40,000.00
+Total Recovered Amount: Rs. 40,000.00
+
+#1 Transaction ID: 687526882204
+Transaction Type: Layered
+Transaction Amount: Rs. 40,000.00
+Disputed Amount: Rs. 40,000.00
+Transaction Date: 09/07/2025 12:41:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 13431930013251
+To Account Number: 50286047382
+Bank Name: Indian Bank
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 10,000.00
+
+#1 Transaction ID: 287656731900
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 10,000.00
+Transaction Date: 04/07/2025 12:42:00 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 13820200070130
+To Account Number: 1382020007013
+Bank Name: RESILIENT INNOVATIONS
+Total Amount: Rs. 22,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 516846463548
+Transaction Type: Layered
+Transaction Amount: Rs. 18,000.00
+Disputed Amount: Rs. 12,000.00
+Transaction Date: 17/06/2025 12:00:00 AM
+
+#2 Transaction ID: 516823964058
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 17/06/2025 12:00:00 AM
+
+#3 Transaction ID: 510076093102
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 10/04/2025 06:38:29 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 14826900000263
+To Account Number: 5020010204604
+Bank Name: HDFC Bank
+Total Amount: Rs. 150,000.00
+Total Recovered Amount: Rs. 65,693.00
+
+#1 Transaction ID: 524490798923
+Transaction Type: Layered
+Transaction Amount: Rs. 1,50,000.00
+Disputed Amount: Rs. 65,693.00
+Transaction Date: 01/09/2025 08:39:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 14826900000263
+To Account Number: 6558826154
+Bank Name: Indian Bank
+Total Amount: Rs. 16,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 524490763027
+Transaction Type: Layered
+Transaction Amount: Rs. 16,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 01/09/2025 04:02:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 159780821936
+To Account Number: 1382020007013
+Bank Name: Federal Bank
+Total Amount: Rs. 20,000.00
+Total Recovered Amount: Rs. 14,000.00
+
+#1 Transaction ID: 516846463548
+Transaction Type: Layered
+Transaction Amount: Rs. 18,000.00
+Disputed Amount: Rs. 12,000.00
+Transaction Date: 17/06/2025 12:00:00 AM
+
+#2 Transaction ID: 516823964058
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 17/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 159780821936
+To Account Number: 5010064520808
+Bank Name: HDFC Bank
+Total Amount: Rs. 10,000.00
+Total Recovered Amount: Rs. 10,000.00
+
+#1 Transaction ID: 553365847843
+Transaction Type: Layered
+Transaction Amount: Rs. 10,000.00
+Disputed Amount: Rs. 10,000.00
+Transaction Date: 16/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 159963813234
+To Account Number: 9230100479266
+Bank Name: Axis Bank
+Total Amount: Rs. 56,000.00
+Total Recovered Amount: Rs. 9,100.00
+
+#1 Transaction ID: 439803572343
+Transaction Type: Layered
+Transaction Amount: Rs. 56,000.00
+Disputed Amount: Rs. 9,100.00
+Transaction Date: 13/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 1836104000039376
+To Account Number: 0000003289577
+Bank Name: State Bank of India
+Total Amount: Rs. 985.00
+Total Recovered Amount: Rs. 505.60
+
+#1 Transaction ID: 804483505779
+Transaction Type: Layered
+Transaction Amount: Rs. 985.00
+Disputed Amount: Rs. 505.60
+Transaction Date: 20/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 189738907080
+To Account Number: 1862500101100
+Bank Name: Karnataka Bank Ltd
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 12,000.00
+
+#1 Transaction ID: 505614106718
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 12,000.00
+Transaction Date: 25/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 200002922454
+To Account Number: 1482690000026
+Bank Name: Yes Bank
+Total Amount: Rs. 100,000.00
+Total Recovered Amount: Rs. 100,000.00
+
+#1 Transaction ID: 524403718964
+Transaction Type: Layered
+Transaction Amount: Rs. 1,00,000.00
+Disputed Amount: Rs. 1,00,000.00
+Transaction Date: 01/09/2025 03:58:00 AM
+
+====================================================================================================
+
+Layer: 6
+
+From Account Number: 20100035163638
+To Account Number: 9320201004312
+Bank Name: Canara Bank
+Total Amount: Rs. 90,000.00
+Total Recovered Amount: Rs. 5,500.00
+
+#1 Transaction ID: 505632333495
+Transaction Type: Layered
+Transaction Amount: Rs. 90,000.00
+Disputed Amount: Rs. 5,500.00
+Transaction Date: 25/02/2025 10:37:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 20100044062202
+To Account Number: 9250200107525
+Bank Name: Axis Bank
+Total Amount: Rs. 400,000.00
+Total Recovered Amount: Rs. 9,700.00
+
+#1 Transaction ID: BDBLR62025052618734432
+Transaction Type: Layered
+Transaction Amount: Rs. 4,00,000.00
+Disputed Amount: Rs. 9,700.00
+Transaction Date: 26/05/2025 01:07:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 20355329498
+To Account Number: 1000955658
+Bank Name: Airtel Payments Bank
+Total Amount: Rs. 9,800.00
+Total Recovered Amount: Rs. 1,781.32
+
+#1 Transaction ID: 921858860497
+Transaction Type: Layered
+Transaction Amount: Rs. 9,800.00
+Disputed Amount: Rs. 1,781.32
+Transaction Date: 18/05/2025 01:34:50 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 211071614
+To Account Number: 211071614
+Bank Name: Paytm
+Total Amount: Rs. 47,000.00
+Total Recovered Amount: Rs. 28,578.92
+
+#1 Transaction ID: 290924147846
+Transaction Type: Layered
+Transaction Amount: Rs. 47,000.00
+Disputed Amount: Rs. 28,578.92
+Transaction Date: 01/09/2025 02:00:09 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 211539319997233
+To Account Number: 60396342184
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 226,764.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: TMBLR52025061600276521
+Transaction Type: Layered
+Transaction Amount: Rs. 2,26,764.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 16/06/2025 08:59:00 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 2593101009579
+To Account Number: 9180201108720
+Bank Name: Axis Bank
+Total Amount: Rs. 1,290.00
+Total Recovered Amount: Rs. 1,290.00
+
+#1 Transaction ID: 687775809410
+Transaction Type: Layered
+Transaction Amount: Rs. 1,290.00
+Disputed Amount: Rs. 1,290.00
+Transaction Date: 14/07/2025 07:43:19 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 28111100008631
+To Account Number: 159780821936
+Bank Name: IndusInd Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 24,000.00
+
+#1 Transaction ID: 516709128565
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 24,000.00
+Transaction Date: 16/06/2025 01:14:00 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 304502120002558
+To Account Number: 0067010003772
+Bank Name: Bank of Baroda
+Total Amount: Rs. 10,000.00
+Total Recovered Amount: Rs. 9,887.41
+
+#1 Transaction ID: 042552941325
+Transaction Type: Layered
+Transaction Amount: Rs. 10,000.00
+Disputed Amount: Rs. 9,887.41
+Transaction Date: 25/02/2025 09:56:24 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 31139209880
+To Account Number: 31428590152
+Bank Name: State Bank of India
+Total Amount: Rs. 30,000.00
+Total Recovered Amount: Rs. 607.48
+
+#1 Transaction ID: 423160284388
+Transaction Type: Layered
+Transaction Amount: Rs. 30,000.00
+Disputed Amount: Rs. 607.48
+Transaction Date: 15/07/2025 02:09:53 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 32680469661
+To Account Number: 0000007319764
+Bank Name: Andhra Pradesh Grameena
+Total Amount: Rs. 850.00
+Total Recovered Amount: Rs. 850.00
+
+#1 Transaction ID: 516763789816
+Transaction Type: Layered
+Transaction Amount: Rs. 850.00
+Disputed Amount: Rs. 850.00
+Transaction Date: 15/07/2025 10:49:58 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 32680469661
+To Account Number: 5020007067961
+Bank Name: HDFC Bank
+Total Amount: Rs. 17,000.00
+Total Recovered Amount: Rs. 1,176.70
+
+#1 Transaction ID: 449572541912
+Transaction Type: Layered
+Transaction Amount: Rs. 17,000.00
+Disputed Amount: Rs. 1,176.70
+Transaction Date: 15/07/2025 02:36:51 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 35501592055
+To Account Number: 5915020100144
+Bank Name: Union Bank of India
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 1,439.62
+
+#1 Transaction ID: 507065028384
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 1,439.62
+Transaction Date: 11/03/2025 08:46:39 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 0000004358638
+Bank Name: State Bank of India
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 521535173661
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 03/08/2025 08:01:51 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 0022611000000
+Bank Name: Yes Bank
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 557958844334
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/08/2025 06:38:18 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 0107122000000
+Bank Name: Uttar Pradesh Co-operative
+Total Amount: Rs. 850.00
+Total Recovered Amount: Rs. 850.00
+
+#1 Transaction ID: 521469701748
+Transaction Type: Layered
+Transaction Amount: Rs. 850.00
+Disputed Amount: Rs. 850.00
+Transaction Date: 02/08/2025 10:26:52 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 100038288418
+Bank Name: Others
+Total Amount: Rs. 6,000.00
+Total Recovered Amount: Rs. 6,000.00
+
+#1 Transaction ID: 457568329791
+Transaction Type: Layered
+Transaction Amount: Rs. 6,000.00
+Disputed Amount: Rs. 6,000.00
+Transaction Date: 03/08/2025 11:29:32 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 5010078025510
+Bank Name: HDFC Bank
+Total Amount: Rs. 2,200.00
+Total Recovered Amount: Rs. 2,200.00
+
+#1 Transaction ID: 558181274946
+Transaction Type: Layered
+Transaction Amount: Rs. 1,100.00
+Disputed Amount: Rs. 1,100.00
+Transaction Date: 03/08/2025 11:56:32 AM
+
+#2 Transaction ID: 558165358625
+Transaction Type: Layered
+Transaction Amount: Rs. 1,100.00
+Disputed Amount: Rs. 1,100.00
+Transaction Date: 03/08/2025 11:57:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 5020009199206
+Bank Name: HDFC Bank
+Total Amount: Rs. 1,100.00
+Total Recovered Amount: Rs. 1,100.00
+
+#1 Transaction ID: 558150567890
+Transaction Type: Layered
+Transaction Amount: Rs. 1,100.00
+Disputed Amount: Rs. 1,100.00
+Transaction Date: 03/08/2025 11:57:30 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 7328000100089
+Bank Name: Punjab National Bank
+Total Amount: Rs. 4,000.00
+Total Recovered Amount: Rs. 4,000.00
+
+#1 Transaction ID: 557970250267
+Transaction Type: Layered
+Transaction Amount: Rs. 4,000.00
+Disputed Amount: Rs. 4,000.00
+Transaction Date: 01/08/2025 07:27:36 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 7328001700079
+Bank Name: Punjab National Bank
+Total Amount: Rs. 5,000.00
+Total Recovered Amount: Rs. 5,000.00
+
+#1 Transaction ID: 502225492385
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 5,000.00
+Transaction Date: 02/08/2025 08:52:11 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 7769000100034
+Bank Name: Punjab National Bank
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 137778227137
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 02/08/2025 04:25:13 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 37905057219
+To Account Number: 8546845246
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 10,000.00
+Total Recovered Amount: Rs. 8,231.73
+
+#1 Transaction ID: 558489444064
+Transaction Type: Layered
+Transaction Amount: Rs. 10,000.00
+Disputed Amount: Rs. 8,231.73
+Transaction Date: 06/08/2025 08:51:26 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38008587420
+To Account Number: 0000004366535
+Bank Name: State Bank of India
+Total Amount: Rs. 981.00
+Total Recovered Amount: Rs. 529.00
+
+#1 Transaction ID: 507997332365
+Transaction Type: Layered
+Transaction Amount: Rs. 981.00
+Disputed Amount: Rs. 529.00
+Transaction Date: 20/03/2025 11:38:06 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38008587420
+To Account Number: 1382020007013
+Bank Name: Federal Bank
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 510076093102
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 10/04/2025 06:38:29 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 0014250000000
+Bank Name: Yes Bank
+Total Amount: Rs. 4,822.00
+Total Recovered Amount: Rs. 4,822.00
+
+#1 Transaction ID: 834258111255
+Transaction Type: Layered
+Transaction Amount: Rs. 2,549.00
+Disputed Amount: Rs. 2,549.00
+Transaction Date: 17/06/2025 11:51:11 AM
+
+#2 Transaction ID: 363461157129
+Transaction Type: Layered
+Transaction Amount: Rs. 1,458.00
+Disputed Amount: Rs. 1,458.00
+Transaction Date: 18/06/2025 11:22:23 AM
+
+#3 Transaction ID: 258663325599
+Transaction Type: Layered
+Transaction Amount: Rs. 815.00
+Disputed Amount: Rs. 815.00
+Transaction Date: 17/06/2025 02:35:09 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 0103SL00IPAY
+Bank Name: ICICI Bank
+Total Amount: Rs. 4,335.00
+Total Recovered Amount: Rs. 4,335.00
+
+#1 Transaction ID: 685559279819
+Transaction Type: Layered
+Transaction Amount: Rs. 825.00
+Disputed Amount: Rs. 825.00
+Transaction Date: 17/06/2025 03:21:42 PM
+
+#2 Transaction ID: 835029550625
+Transaction Type: Layered
+Transaction Amount: Rs. 3,510.00
+Disputed Amount: Rs. 3,510.00
+Transaction Date: 20/06/2025 10:37:25 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 0293201700105
+Bank Name: Punjab National Bank
+Total Amount: Rs. 4,000.00
+Total Recovered Amount: Rs. 4,000.00
+
+#1 Transaction ID: 760124466220
+Transaction Type: Layered
+Transaction Amount: Rs. 4,000.00
+Disputed Amount: Rs. 4,000.00
+Transaction Date: 20/06/2025 03:51:41 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 2230010000033
+Bank Name: Indian Overseas Bank
+Total Amount: Rs. 6,000.00
+Total Recovered Amount: Rs. 6,000.00
+
+#1 Transaction ID: 094234769244
+Transaction Type: Layered
+Transaction Amount: Rs. 6,000.00
+Disputed Amount: Rs. 6,000.00
+Transaction Date: 19/06/2025 12:19:51 PM
+
+====================================================================================================
+
+Layer: INCONSISTENT (6, 4)
+
+From Account Number: 38316797880
+To Account Number: 4347101100013
+Bank Name: Bank of India
+Total Amount: Rs. 10,000.00
+Total Recovered Amount: Rs. 6,003.01
+
+#1 Transaction ID: 474980225301
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 4,575.64
+Transaction Date: 21/06/2025 10:08:25 AM
+
+#2 Transaction ID: 474980225301
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 1,427.37
+Transaction Date: 21/06/2025 10:08:25 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 60396342184
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 16,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 644023847894
+Transaction Type: Layered
+Transaction Amount: Rs. 16,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 18/06/2025 06:05:44 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 38316797880
+To Account Number: 9180201108720
+Bank Name: Axis Bank
+Total Amount: Rs. 9,240.00
+Total Recovered Amount: Rs. 9,240.00
+
+#1 Transaction ID: 463085241110
+Transaction Type: Layered
+Transaction Amount: Rs. 9,240.00
+Disputed Amount: Rs. 9,240.00
+Transaction Date: 18/06/2025 04:33:47 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38779348097
+To Account Number: 110224430897
+Bank Name: Canara Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 48,104.59
+
+#1 Transaction ID: 512120567800
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 48,104.59
+Transaction Date: 01/05/2025 08:40:58 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38779348097
+To Account Number: 2841101000081
+Bank Name: Union Bank of India
+Total Amount: Rs. 700.00
+Total Recovered Amount: Rs. 700.00
+
+#1 Transaction ID: 702125332602
+Transaction Type: Layered
+Transaction Amount: Rs. 700.00
+Disputed Amount: Rs. 700.00
+Transaction Date: 01/05/2025 06:26:09 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38779348097
+To Account Number: 5001010139905
+Bank Name: City Union Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 50,000.00
+
+#1 Transaction ID: 031572177373
+Transaction Type: Layered
+Transaction Amount: Rs. 20,000.00
+Disputed Amount: Rs. 20,000.00
+Transaction Date: 01/05/2025 05:29:56 PM
+
+#2 Transaction ID: 478207428758
+Transaction Type: Layered
+Transaction Amount: Rs. 30,000.00
+Disputed Amount: Rs. 30,000.00
+Transaction Date: 01/05/2025 05:20:17 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38779348097
+To Account Number: 9220200592019
+Bank Name: Axis Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 592209410671
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 01/05/2025 08:19:16 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 38820619787
+To Account Number: 0000003900662
+Bank Name: State Bank of India
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 35,730.87
+
+#1 Transaction ID: 524450356015
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 35,730.87
+Transaction Date: 01/09/2025 01:56:11 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 39006623374
+To Account Number: 211071614
+Bank Name: Yes Bank
+Total Amount: Rs. 47,000.00
+Total Recovered Amount: Rs. 28,578.92
+
+#1 Transaction ID: 290924147846
+Transaction Type: Layered
+Transaction Amount: Rs. 47,000.00
+Disputed Amount: Rs. 28,578.92
+Transaction Date: 01/09/2025 02:00:09 PM
+
+====================================================================================================
+
+Layer: 7
+
+From Account Number: 434710110001339
+To Account Number: 0103SL00IPAY
+Bank Name: ICICI Bank
+Total Amount: Rs. 3,672.90
+Total Recovered Amount: Rs. 3,672.90
+
+#1 Transaction ID: 554092627338
+Transaction Type: Layered
+Transaction Amount: Rs. 1,890.00
+Disputed Amount: Rs. 1,890.00
+Transaction Date: 23/06/2025 07:06:21 AM
+
+#2 Transaction ID: 554048705304
+Transaction Type: Layered
+Transaction Amount: Rs. 1,782.90
+Disputed Amount: Rs. 1,782.90
+Transaction Date: 23/06/2025 05:06:43 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 50100645208082
+To Account Number: 0000003865147
+Bank Name: State Bank of India
+Total Amount: Rs. 6,400.00
+Total Recovered Amount: Rs. 793.05
+
+#1 Transaction ID: 385301984826
+Transaction Type: Layered
+Transaction Amount: Rs. 6,400.00
+Disputed Amount: Rs. 793.05
+Transaction Date: 16/06/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 50100645208082
+To Account Number: 60518506863
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 8,499.00
+Total Recovered Amount: Rs. 8,499.00
+
+#1 Transaction ID: 686537479087
+Transaction Type: Layered
+Transaction Amount: Rs. 8,499.00
+Disputed Amount: Rs. 8,499.00
+Transaction Date: 16/06/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 50100757697320
+To Account Number: 5020002786407
+Bank Name: Others
+Total Amount: Rs. 45,600.00
+Total Recovered Amount: Rs. 934.70
+
+#1 Transaction ID: 103836333959
+Transaction Type: Layered
+Transaction Amount: Rs. 45,600.00
+Disputed Amount: Rs. 934.70
+Transaction Date: 27/04/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 50200022973634
+To Account Number: 0014250000000
+Bank Name: PhonePe
+Total Amount: Rs. 7,000.00
+Total Recovered Amount: Rs. 5,900.00
+
+#1 Transaction ID: 023116592675
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 5,000.00
+Transaction Date: 24/02/2025 07:16:00 PM
+
+#2 Transaction ID: 288652589232
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 900.00
+Transaction Date: 21/02/2025 07:30:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 50200022973634
+To Account Number: 2010003516363
+Bank Name: Bandhan Bank
+Total Amount: Rs. 5,500.00
+Total Recovered Amount: Rs. 5,500.00
+
+#1 Transaction ID: 527233691380
+Transaction Type: Layered
+Transaction Amount: Rs. 5,500.00
+Disputed Amount: Rs. 5,500.00
+Transaction Date: 25/02/2025 07:31:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 50200022973634
+To Account Number: 9220100459233
+Bank Name: Axis Bank
+Total Amount: Rs. 4,000.00
+Total Recovered Amount: Rs. 4,000.00
+
+#1 Transaction ID: 973848478276
+Transaction Type: Layered
+Transaction Amount: Rs. 4,000.00
+Disputed Amount: Rs. 4,000.00
+Transaction Date: 23/02/2025 02:19:00 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 50200082254216
+To Account Number: 0000003268046
+Bank Name: State Bank of India
+Total Amount: Rs. 2,850.00
+Total Recovered Amount: Rs. 2,850.00
+
+#1 Transaction ID: 108122337652
+Transaction Type: Layered
+Transaction Amount: Rs. 2,850.00
+Disputed Amount: Rs. 2,850.00
+Transaction Date: 15/07/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 50200082254216
+To Account Number: 31139209880
+Bank Name: State Bank of India
+Total Amount: Rs. 20,600.00
+Total Recovered Amount: Rs. 1,283.57
+
+#1 Transaction ID: 519609397571
+Transaction Type: Layered
+Transaction Amount: Rs. 20,600.00
+Disputed Amount: Rs. 1,283.57
+Transaction Date: 15/07/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 50200085696301
+To Account Number: 110239900242
+Bank Name: Canara Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 3,100.00
+
+#1 Transaction ID: 516213100411
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 3,100.00
+Transaction Date: 11/06/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 50200102046040
+To Account Number: 38820619787
+Bank Name: State Bank of India
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 36,060.52
+
+#1 Transaction ID: 524402150938
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 36,060.52
+Transaction Date: 01/09/2025 12:00:00 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 50286047382
+To Account Number: 8810357517
+Bank Name: Airtel Payments Bank
+Total Amount: Rs. 5,000.00
+Total Recovered Amount: Rs. 5,000.00
+
+#1 Transaction ID: 287675959842
+Transaction Type: Layered
+Transaction Amount: Rs. 5,000.00
+Disputed Amount: Rs. 5,000.00
+Transaction Date: 05/07/2025 12:32:00 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 591502010014483
+To Account Number: 2310001619509
+Bank Name: AU Bank
+Total Amount: Rs. 2,615.00
+Total Recovered Amount: Rs. 370.54
+
+#1 Transaction ID: 826033450671
+Transaction Type: Layered
+Transaction Amount: Rs. 2,615.00
+Disputed Amount: Rs. 370.54
+Transaction Date: 11/03/2025 11:50:11 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 591502010014483
+To Account Number: 5018001835160
+Bank Name: Bandhan Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 507023326545
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 11/03/2025 11:43:23 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 5949540440
+To Account Number: 9250200127049
+Bank Name: Axis Bank
+Total Amount: Rs. 488,888.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 511617226835
+Transaction Type: Layered
+Transaction Amount: Rs. 4,88,888.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 26/04/2025 05:54:53 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 60396342184
+To Account Number: 0000003831679
+Bank Name: State Bank of India
+Total Amount: Rs. 51,000.00
+Total Recovered Amount: Rs. 49,996.66
+
+#1 Transaction ID: 521252849773
+Transaction Type: Layered
+Transaction Amount: Rs. 51,000.00
+Disputed Amount: Rs. 49,996.66
+Transaction Date: 16/06/2025 09:05:37 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 60396342184
+To Account Number: 60519636712
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 24743490
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 18/06/2025 06:07:41 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60407797256
+To Account Number: 38779348097
+Bank Name: State Bank of India
+Total Amount: Rs. 100,000.00
+Total Recovered Amount: Rs. 100,000.00
+
+#1 Transaction ID: 511605550970
+Transaction Type: Layered
+Transaction Amount: Rs. 1,00,000.00
+Disputed Amount: Rs. 1,00,000.00
+Transaction Date: 26/04/2025 05:20:48 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60407797256
+To Account Number: 5010063971921
+Bank Name: HDFC Bank
+Total Amount: Rs. 90,000.00
+Total Recovered Amount: Rs. 90,000.00
+
+#1 Transaction ID: 511606551463
+Transaction Type: Layered
+Transaction Amount: Rs. 90,000.00
+Disputed Amount: Rs. 90,000.00
+Transaction Date: 26/04/2025 06:01:07 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60407797256
+To Account Number: 5010075769732
+Bank Name: HDFC Bank
+Total Amount: Rs. 51,600.00
+Total Recovered Amount: Rs. 9,999.00
+
+#1 Transaction ID: 511606551522
+Transaction Type: Layered
+Transaction Amount: Rs. 51,600.00
+Disputed Amount: Rs. 9,999.00
+Transaction Date: 26/04/2025 06:04:01 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60407797256
+To Account Number: 7586231000163
+Bank Name: Canara Bank
+Total Amount: Rs. 310,000.00
+Total Recovered Amount: Rs. 99,985.14
+
+#1 Transaction ID: MAHBN72025042911482019
+Transaction Type: Layered
+Transaction Amount: Rs. 3,10,000.00
+Disputed Amount: Rs. 99,985.14
+Transaction Date: 29/04/2025 06:18:53 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60446069934
+To Account Number: 61042261288
+Bank Name: State Bank of India
+Total Amount: Rs. 25,000.00
+Total Recovered Amount: Rs. 11,111.00
+
+#1 Transaction ID: 507404018522
+Transaction Type: Layered
+Transaction Amount: Rs. 25,000.00
+Disputed Amount: Rs. 11,111.00
+Transaction Date: 15/03/2025 04:41:25 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60446069934
+To Account Number: 726505000742
+Bank Name: ICICI Bank
+Total Amount: Rs. 75,000.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 506201964628
+Transaction Type: Layered
+Transaction Amount: Rs. 75,000.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 03/03/2025 03:36:47 AM
+
+====================================================================================================
+
+Layer: 6
+
+From Account Number: 60519636712
+To Account Number: 11719988640
+Bank Name: State Bank of India
+Total Amount: Rs. 28,300.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: MAHBN72025061816220358
+Transaction Type: Layered
+Transaction Amount: Rs. 28,300.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 18/06/2025 06:09:46 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 0145010000762
+Bank Name: Indian Overseas Bank
+Total Amount: Rs. 4,000.00
+Total Recovered Amount: Rs. 4,000.00
+
+#1 Transaction ID: 505608361018
+Transaction Type: Layered
+Transaction Amount: Rs. 1,500.00
+Disputed Amount: Rs. 1,500.00
+Transaction Date: 25/02/2025 08:51:06 AM
+
+#2 Transaction ID: 505610367290
+Transaction Type: Layered
+Transaction Amount: Rs. 2,500.00
+Disputed Amount: Rs. 2,500.00
+Transaction Date: 25/02/2025 10:01:46 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 189738907080
+Bank Name: IndusInd Bank
+Total Amount: Rs. 12,000.00
+Total Recovered Amount: Rs. 12,000.00
+
+#1 Transaction ID: 505606352854
+Transaction Type: Layered
+Transaction Amount: Rs. 12,000.00
+Disputed Amount: Rs. 12,000.00
+Transaction Date: 25/02/2025 06:53:13 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 3045021200025
+Bank Name: Union Bank of India
+Total Amount: Rs. 10,200.00
+Total Recovered Amount: Rs. 10,200.00
+
+#1 Transaction ID: 505609366497
+Transaction Type: Layered
+Transaction Amount: Rs. 10,200.00
+Disputed Amount: Rs. 10,200.00
+Transaction Date: 25/02/2025 09:53:10 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 35501592055
+Bank Name: State Bank of India
+Total Amount: Rs. 4,170.00
+Total Recovered Amount: Rs. 4,170.00
+
+#1 Transaction ID: 505609363643
+Transaction Type: Layered
+Transaction Amount: Rs. 4,170.00
+Disputed Amount: Rs. 4,170.00
+Transaction Date: 25/02/2025 09:20:33 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 38008587420
+Bank Name: State Bank of India
+Total Amount: Rs. 22,000.00
+Total Recovered Amount: Rs. 4,895.00
+
+#1 Transaction ID: 505610371767
+Transaction Type: Layered
+Transaction Amount: Rs. 11,000.00
+Disputed Amount: Rs. 2,448.00
+Transaction Date: 25/02/2025 10:48:41 AM
+
+#2 Transaction ID: 505610371767
+Transaction Type: Layered
+Transaction Amount: Rs. 11,000.00
+Disputed Amount: Rs. 2,447.00
+Transaction Date: 25/02/2025 10:48:41 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 40820503424
+Bank Name: State Bank of India
+Total Amount: Rs. 2,981.00
+Total Recovered Amount: Rs. 2,981.00
+
+#1 Transaction ID: 505609363353
+Transaction Type: Layered
+Transaction Amount: Rs. 2,981.00
+Disputed Amount: Rs. 2,981.00
+Transaction Date: 25/02/2025 09:18:36 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60526233500
+To Account Number: 5010054651262
+Bank Name: HDFC Bank
+Total Amount: Rs. 14,000.00
+Total Recovered Amount: Rs. 14,000.00
+
+#1 Transaction ID: 505610371136
+Transaction Type: Layered
+Transaction Amount: Rs. 14,000.00
+Disputed Amount: Rs. 14,000.00
+Transaction Date: 25/02/2025 10:41:58 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60528940936
+To Account Number: 43887374885
+Bank Name: State Bank of India
+Total Amount: Rs. 200,000.00
+Total Recovered Amount: Rs. 13,000.00
+
+#1 Transaction ID: MAHBN72025050111706511
+Transaction Type: Layered
+Transaction Amount: Rs. 2,00,000.00
+Disputed Amount: Rs. 13,000.00
+Transaction Date: 01/05/2025 05:51:05 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60531445836
+To Account Number: 1715010000874
+Bank Name: Bank of Baroda
+Total Amount: Rs. 35,400.00
+Total Recovered Amount: Rs. 5,509.54
+
+#1 Transaction ID: 514406578429
+Transaction Type: Layered
+Transaction Amount: Rs. 35,400.00
+Disputed Amount: Rs. 5,509.54
+Transaction Date: 24/05/2025 06:58:13 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60531894723
+To Account Number: 1668120100015
+Bank Name: Union Bank of India
+Total Amount: Rs. 183,000.00
+Total Recovered Amount: Rs. 145,000.00
+
+#1 Transaction ID: 514314524098
+Transaction Type: Layered
+Transaction Amount: Rs. 1,83,000.00
+Disputed Amount: Rs. 1,45,000.00
+Transaction Date: 23/05/2025 02:29:23 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60531894723
+To Account Number: 9819000100105
+Bank Name: Punjab National Bank
+Total Amount: Rs. 40,000.00
+Total Recovered Amount: Rs. 40,000.00
+
+#1 Transaction ID: 514308504403
+Transaction Type: Layered
+Transaction Amount: Rs. 40,000.00
+Disputed Amount: Rs. 40,000.00
+Transaction Date: 23/05/2025 08:53:31 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 60538740695
+To Account Number: 5020008225421
+Bank Name: HDFC Bank
+Total Amount: Rs. 30,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 519606155553
+Transaction Type: Layered
+Transaction Amount: Rs. 30,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 15/07/2025 06:46:35 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 60539453826
+To Account Number: 32443166862
+Bank Name: State Bank of India
+Total Amount: Rs. 17,500.00
+Total Recovered Amount: Rs. 14,294.49
+
+#1 Transaction ID: 522609367397
+Transaction Type: Layered
+Transaction Amount: Rs. 9,000.00
+Disputed Amount: Rs. 5,794.49
+Transaction Date: 14/08/2025 09:01:33 AM
+
+#2 Transaction ID: 522607363294
+Transaction Type: Layered
+Transaction Amount: Rs. 8,500.00
+Disputed Amount: Rs. 8,500.00
+Transaction Date: 14/08/2025 07:33:10 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 605620110001103
+To Account Number: 9240200602386
+Bank Name: Axis Bank
+Total Amount: Rs. 499,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 508500816072
+Transaction Type: Layered
+Transaction Amount: Rs. 4,99,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 26/03/2025 12:03:08 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 61042261288
+To Account Number: 211074071
+Bank Name: Yes Bank
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 643.13
+
+#1 Transaction ID: 507430137588
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 643.13
+Transaction Date: 15/03/2025 11:33:02 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 61042261288
+To Account Number: 9180201108720
+Bank Name: Axis Bank
+Total Amount: Rs. 5,300.00
+Total Recovered Amount: Rs. 5,300.00
+
+#1 Transaction ID: 511572431256
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 10:54:16 PM
+
+#2 Transaction ID: 511679012684
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 26/04/2025 05:13:03 PM
+
+#3 Transaction ID: 511566297319
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 25/04/2025 03:16:00 PM
+
+#4 Transaction ID: 511563864785
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 11:41:22 AM
+
+#5 Transaction ID: 511567411094
+Transaction Type: Layered
+Transaction Amount: Rs. 800.00
+Disputed Amount: Rs. 800.00
+Transaction Date: 25/04/2025 05:01:48 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 6558826154
+To Account Number: 1113101100125
+Bank Name: Bank of India
+Total Amount: Rs. 3,000.00
+Total Recovered Amount: Rs. 3,000.00
+
+#1 Transaction ID: 689972934039
+Transaction Type: Layered
+Transaction Amount: Rs. 3,000.00
+Disputed Amount: Rs. 3,000.00
+Transaction Date: 01/09/2025 05:13:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 6558826154
+To Account Number: 200002922454
+Bank Name: Equitas Bank
+Total Amount: Rs. 8,985.00
+Total Recovered Amount: Rs. 6,544.55
+
+#1 Transaction ID: 524533962226
+Transaction Type: Layered
+Transaction Amount: Rs. 2,995.00
+Disputed Amount: Rs. 554.55
+Transaction Date: 02/09/2025 12:01:00 AM
+
+#2 Transaction ID: 689972848457
+Transaction Type: Layered
+Transaction Amount: Rs. 2,995.00
+Disputed Amount: Rs. 2,995.00
+Transaction Date: 01/09/2025 04:19:00 AM
+
+#3 Transaction ID: 689974769637
+Transaction Type: Layered
+Transaction Amount: Rs. 2,995.00
+Disputed Amount: Rs. 2,995.00
+Transaction Date: 01/09/2025 08:02:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 6558826154
+To Account Number: 42348054584
+Bank Name: State Bank of India
+Total Amount: Rs. 1,900.00
+Total Recovered Amount: Rs. 1,900.00
+
+#1 Transaction ID: 689972970137
+Transaction Type: Layered
+Transaction Amount: Rs. 1,900.00
+Disputed Amount: Rs. 1,900.00
+Transaction Date: 01/09/2025 05:28:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 6558826154
+To Account Number: 9180201108720
+Bank Name: Axis Bank
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 388707744898
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/09/2025 09:00:00 AM
+
+#2 Transaction ID: 290909337513
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/09/2025 09:02:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 6558826154
+To Account Number: 9240200073309
+Bank Name: Axis Bank
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 689991834675
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 01/09/2025 02:50:00 PM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 726505000742
+To Account Number: SVPL86L33704
+Bank Name: State Bank of India
+Total Amount: Rs. 200,000.00
+Total Recovered Amount: Rs. 47,652.75
+
+#1 Transaction ID: 506210474520
+Transaction Type: Layered
+Transaction Amount: Rs. 2,00,000.00
+Disputed Amount: Rs. 47,652.75
+Transaction Date: 03/03/2025 10:03:05 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 7328001700079932
+To Account Number: 3679101001246
+Bank Name: Canara Bank
+Total Amount: Rs. 18,000.00
+Total Recovered Amount: Rs. 3,813.86
+
+#1 Transaction ID: 779884167294
+Transaction Type: Layered
+Transaction Amount: Rs. 18,000.00
+Disputed Amount: Rs. 3,813.86
+Transaction Date: 02/08/2025 12:57:54 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 8018913399
+To Account Number: 1296104000195
+Bank Name: IDBI Bank
+Total Amount: Rs. 100,019.00
+Total Recovered Amount: Rs. 49,799.21
+
+#1 Transaction ID: 512806176167
+Transaction Type: Layered
+Transaction Amount: Rs. 1,00,019.00
+Disputed Amount: Rs. 49,799.21
+Transaction Date: 08/05/2025 06:58:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 8546845246
+To Account Number: 0022611000000
+Bank Name: Yes Bank
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 189.29
+
+#1 Transaction ID: 521820681692
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 189.29
+Transaction Date: 06/08/2025 10:34:18 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 8810357517
+To Account Number: 0000004413528
+Bank Name: State Bank of India
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 687355484253
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 05/07/2025 02:29:28 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 8810357517
+To Account Number: 4050424878
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 500.00
+Total Recovered Amount: Rs. 200.00
+
+#1 Transaction ID: 687679665154
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 200.00
+Transaction Date: 12/07/2025 06:02:27 PM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 8810357517
+To Account Number: 4524010000347
+Bank Name: Bank of Baroda
+Total Amount: Rs. 4,000.00
+Total Recovered Amount: Rs. 4,000.00
+
+#1 Transaction ID: 384636362748
+Transaction Type: Layered
+Transaction Amount: Rs. 4,000.00
+Disputed Amount: Rs. 4,000.00
+Transaction Date: 05/07/2025 01:35:33 PM
+
+====================================================================================================
+
+Layer: 6
+
+From Account Number: 917010054226812
+To Account Number: 0000004172263
+Bank Name: State Bank of India
+Total Amount: Rs. 1,000.00
+Total Recovered Amount: Rs. 452.99
+
+#1 Transaction ID: 554172674761
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 452.99
+Transaction Date: 24/06/2025 02:51:00 PM
+
+====================================================================================================
+
+Layer: 6
+
+From Account Number: 918020110872063
+To Account Number: 0000003192310
+Bank Name: State Bank of India
+Total Amount: Rs. 147,379.00
+Total Recovered Amount: Rs. 9,240.00
+
+#1 Transaction ID: AXNGG17097295727
+Transaction Type: Layered
+Transaction Amount: Rs. 1,47,379.00
+Disputed Amount: Rs. 9,240.00
+Transaction Date: 19/06/2025 02:01:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 918020110872063
+To Account Number: 1102110120069
+Bank Name: Ujjivan Small Finance Bank
+Total Amount: Rs. 52,000.00
+Total Recovered Amount: Rs. 50,000.00
+
+#1 Transaction ID: 505201380043
+Transaction Type: Layered
+Transaction Amount: Rs. 52,000.00
+Disputed Amount: Rs. 50,000.00
+Transaction Date: 21/02/2025 01:57:00 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 918020110872063
+To Account Number: 12611100011158
+Bank Name: DCB Bank
+Total Amount: Rs. 1,453,398.80
+Total Recovered Amount: Rs. 4,300.00
+
+#1 Transaction ID: 511617581488
+Transaction Type: Layered
+Transaction Amount: Rs. 2,57,111.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 26/04/2025 05:36:00 PM
+
+#2 Transaction ID: 511516969034
+Transaction Type: Layered
+Transaction Amount: Rs. 4,54,149.40
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 25/04/2025 04:26:00 PM
+
+#3 Transaction ID: ReferreMarks
+Transaction Type: Layered
+Transaction Amount: Rs. 4,54,149.40
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 04:26:00 PM
+
+#4 Transaction ID: 511521473733
+Transaction Type: Layered
+Transaction Amount: Rs. 2,87,989.00
+Disputed Amount: Rs. 800.00
+Transaction Date: 25/04/2025 09:43:00 PM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 918020110872063
+To Account Number: 1500102000005
+Bank Name: IDBI Bank
+Total Amount: Rs. 190,058.00
+Total Recovered Amount: Rs. 1,000.00
+
+#1 Transaction ID: 511523866028
+Transaction Type: Layered
+Transaction Amount: Rs. 1,90,058.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 11:48:00 PM
+
+====================================================================================================
+
+Layer: 6
+
+From Account Number: 918020110872063
+To Account Number: 1621503108752
+Bank Name: Tamilnad Mercantile Bank Ltd.
+Total Amount: Rs. 203,754.00
+Total Recovered Amount: Rs. 500.00
+
+#1 Transaction ID: 524402956427
+Transaction Type: Layered
+Transaction Amount: Rs. 2,03,754.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/09/2025 11:10:00 AM
+
+====================================================================================================
+
+Layer: 4
+
+From Account Number: 918020110872063
+To Account Number: 5010066222022
+Bank Name: HDFC Bank
+Total Amount: Rs. 1,540.00
+Total Recovered Amount: Rs. 1,290.00
+
+#1 Transaction ID: AXNGG19691445639
+Transaction Type: Layered
+Transaction Amount: Rs. 1,540.00
+Disputed Amount: Rs. 1,290.00
+Transaction Date: 15/07/2025 02:58:00 AM
+
+====================================================================================================
+
+Layer: INCONSISTENT (5, 4, 2, 3)
+
+From Account Number: 918020110872063
+To Account Number: 9180201108720
+Bank Name: Google Pay
+Total Amount: Rs. 66,830.00
+Total Recovered Amount: Rs. 66,830.00
+
+#1 Transaction ID: 687775809410
+Transaction Type: Layered
+Transaction Amount: Rs. 1,290.00
+Disputed Amount: Rs. 1,290.00
+Transaction Date: 14/07/2025 07:43:19 PM
+
+#2 Transaction ID: 463085241110
+Transaction Type: Layered
+Transaction Amount: Rs. 9,240.00
+Disputed Amount: Rs. 9,240.00
+Transaction Date: 18/06/2025 04:33:47 PM
+
+#3 Transaction ID: 728339653383
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 50,000.00
+Transaction Date: 20/02/2025 12:00:00 AM
+
+#4 Transaction ID: 511566297319
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 25/04/2025 03:16:00 PM
+
+#5 Transaction ID: 511563864785
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 11:41:22 AM
+
+#6 Transaction ID: 511572431256
+Transaction Type: Layered
+Transaction Amount: Rs. 1,000.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 25/04/2025 10:54:16 PM
+
+#7 Transaction ID: 511679012684
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 26/04/2025 05:13:03 PM
+
+#8 Transaction ID: 511567411094
+Transaction Type: Layered
+Transaction Amount: Rs. 800.00
+Disputed Amount: Rs. 800.00
+Transaction Date: 25/04/2025 05:01:48 PM
+
+#9 Transaction ID: 388707744898
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/09/2025 09:00:00 AM
+
+#10 Transaction ID: 290909337513
+Transaction Type: Layered
+Transaction Amount: Rs. 500.00
+Disputed Amount: Rs. 500.00
+Transaction Date: 01/09/2025 09:02:00 AM
+
+====================================================================================================
+
+Layer: 5
+
+From Account Number: 924020007330961
+To Account Number: 9240200073309
+Bank Name: Paytm
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 689991834675
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 01/09/2025 02:50:00 PM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 924020060238677
+To Account Number: 159963813234
+Bank Name: IndusInd Bank
+Total Amount: Rs. 64,205.90
+Total Recovered Amount: Rs. 18,200.00
+
+#1 Transaction ID: 516407672101
+Transaction Type: Layered
+Transaction Amount: Rs. 32,100.00
+Disputed Amount: Rs. 9,100.00
+Transaction Date: 13/06/2025 07:48:00 AM
+
+#2 Transaction ID: 516407672101
+Transaction Type: Layered
+Transaction Amount: Rs. 32,105.90
+Disputed Amount: Rs. 9,100.00
+Transaction Date: 13/06/2025 07:48:57 AM
+
+====================================================================================================
+
+Layer: 2
+
+From Account Number: 924020060238677
+To Account Number: 60538740695
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 519663081710
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 15/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 3
+
+From Account Number: 9266334738
+To Account Number: 110042032744
+Bank Name: Canara Bank
+Total Amount: Rs. 3,200.00
+Total Recovered Amount: Rs. 1,650.00
+
+#1 Transaction ID: 404121232409
+Transaction Type: Layered
+Transaction Amount: Rs. 1,600.00
+Disputed Amount: Rs. 1,000.00
+Transaction Date: 31/05/2025 10:31:00 AM
+
+#2 Transaction ID: 404121232409
+Transaction Type: Layered
+Transaction Amount: Rs. 1,600.00
+Disputed Amount: Rs. 650.00
+Transaction Date: 31/05/2025 10:31:03 AM
+
+====================================================================================================
+
+Layer: 7
+
+From Account Number: 93202010043120
+To Account Number: 0000003148032
+Bank Name: State Bank of India
+Total Amount: Rs. 30,000.00
+Total Recovered Amount: Rs. 3,419.98
+
+#1 Transaction ID: 505649614888
+Transaction Type: Layered
+Transaction Amount: Rs. 30,000.00
+Disputed Amount: Rs. 3,419.98
+Transaction Date: 25/02/2025 10:45:19 PM
+
+====================================================================================================
+
+Layer: 7
+
+From Account Number: 93202010043120
+To Account Number: 43767232838
+Bank Name: State Bank of India
+Total Amount: Rs. 20,000.00
+Total Recovered Amount: Rs. 870.02
+
+#1 Transaction ID: 505793655253
+Transaction Type: Layered
+Transaction Amount: Rs. 20,000.00
+Disputed Amount: Rs. 870.02
+Transaction Date: 26/02/2025 06:42:06 PM
+
+====================================================================================================
+
+Layer: N/A
+
+From Account Number: LIMITED -:169599337971
+To Account Number: 
+Bank Name: IndusInd Bank
+Total Amount: Rs. 312,110.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: INDBH01052171881
+Transaction Type: NEFT
+Transaction Amount: Rs. 13,000.00
+Disputed Amount: Rs. 0
+Transaction Date: 01/05/2025 04:00:AM
+
+#2 Transaction ID: 782052499431
+Transaction Type: IMPS
+Transaction Amount: Rs. 85,000.00
+Disputed Amount: Rs. 0
+Transaction Date: 24/02/2025 04:00:AM
+
+#3 Transaction ID: 728339653383
+Transaction Type: IMPS
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 0
+Transaction Date: 20/02/2025 02:00:AM
+
+#4 Transaction ID: 786247034398
+Transaction Type: IMPS
+Transaction Amount: Rs. 11,111.00
+Disputed Amount: Rs. 0
+Transaction Date: 15/03/2025 04:00:AM
+
+#5 Transaction ID: 509902986754
+Transaction Type: IMPS
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 0
+Transaction Date: 09/04/2025 04:00:AM
+
+#6 Transaction ID: 505805380037
+Transaction Type: IMPS
+Transaction Amount: Rs. 38,000.00
+Disputed Amount: Rs. 0
+Transaction Date: 27/02/2025 04:00:AM
+
+#7 Transaction ID: 139236101391
+Transaction Type: IMPS
+Transaction Amount: Rs. 99,999.00
+Disputed Amount: Rs. 0
+Transaction Date: 29/04/2025 04:00:AM
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 107978464369
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 2,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 13/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 373739162906
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 7,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 13/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 386208582503
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 20,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 07/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 386573385314
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 16,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 15/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 505503747037
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 41,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 24/02/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 505504747287
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 30,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 24/02/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 505605989532
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/02/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 505605989566
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,998.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/02/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 505901578942
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 27/02/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 506005840322
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 01/03/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 506201267977
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 02/03/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 508404211209
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/03/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 508405212370
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,998.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/03/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 509601182145
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 22,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 05/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 511604953894
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 26/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 511605954362
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 1,99,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 26/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 511605958486
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 26/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 511606958699
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,651.00
+Transaction Type: Layered
+Transaction Amount: Rs. 26/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 511803513041
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 7,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 28/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 512023342702
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,998.00
+Transaction Type: Layered
+Transaction Amount: Rs. 30/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 512023345118
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,995.00
+Transaction Type: Layered
+Transaction Amount: Rs. 30/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 512806081364
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,994.00
+Transaction Type: Layered
+Transaction Amount: Rs. 08/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 512806083778
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,856.00
+Transaction Type: Layered
+Transaction Amount: Rs. 08/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 513507488740
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,998.00
+Transaction Type: Layered
+Transaction Amount: Rs. 15/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 514307321405
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 1,85,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 23/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 514404781268
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 5,555.00
+Transaction Type: Layered
+Transaction Amount: Rs. 24/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 514505057807
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 9,700.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 515017131198
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 15,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 30/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 515106219346
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 9,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 31/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 515403993345
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 03/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 515403993428
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 8,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 03/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 516207814788
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 3,100.00
+Transaction Type: Layered
+Transaction Amount: Rs. 11/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 516405219213
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 9,100.00
+Transaction Type: Layered
+Transaction Amount: Rs. 13/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 516701754707
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 16/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 516702755007
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 16/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 516709769844
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 24,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 16/06/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 518504980365
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 04/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 518702504490
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 49,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 06/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 518703506447
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 15,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 06/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 519603545452
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 16,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 15/07/2025
+05:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 519805983267
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 2,500.00
+Transaction Type: Layered
+Transaction Amount: Rs. 17/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 520645137099
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 62,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 522004505817
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 35,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 08/08/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 524403522416
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 1,00,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 01/09/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 524404523732
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 39,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 01/09/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 794577872819
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 9,500.00
+Transaction Type: Layered
+Transaction Amount: Rs. 17/05/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 880984885538
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 50,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 02/04/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: IMPS
+Bank Name: 891410013158
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 22,000.00
+Transaction Type: Layered
+Transaction Amount: Rs. 25/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: NEFT
+Bank Name: INDBH03085225608
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 2,900.00
+Transaction Type: Layered
+Transaction Amount: Rs. 03/08/2025
+05:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: NEFT
+Bank Name: INDBH14086794537
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 74,999.00
+Transaction Type: Layered
+Transaction Amount: Rs. 14/08/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: INCONSISTENT ()
+
+From Account Number: LIMITED -:169599337971
+To Account Number: NEFT
+Bank Name: INDBH26073953313
+Total Amount: Rs. 0.00
+Total Recovered Amount: Rs. 0.00
+
+#1 Transaction ID: 19,500.00
+Transaction Type: Layered
+Transaction Amount: Rs. 26/07/2025
+04:00:AM
+Disputed Amount: Rs. 13/09/2025
+03:00:AM
+Transaction Date: 
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 02
+To Account Number: 5020009757629
+Bank Name: HDFC Bank
+Total Amount: Rs. 49,998.00
+Total Recovered Amount: Rs. 49,998.00
+
+#1 Transaction ID: 512023342702
+Transaction Type: Layered
+Transaction Amount: Rs. 49,998.00
+Disputed Amount: Rs. 49,998.00
+Transaction Date: 30/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 03
+To Account Number: 7056528179
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 20,000.00
+Total Recovered Amount: Rs. 20,000.00
+
+#1 Transaction ID: 386208582503
+Transaction Type: Layered
+Transaction Amount: Rs. 20,000.00
+Disputed Amount: Rs. 20,000.00
+Transaction Date: 07/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 05
+To Account Number: 60531894723
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 185,000.00
+Total Recovered Amount: Rs. 185,000.00
+
+#1 Transaction ID: 514307321405
+Transaction Type: Layered
+Transaction Amount: Rs. 1,85,000.00
+Disputed Amount: Rs. 1,85,000.00
+Transaction Date: 23/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 06
+To Account Number: 029310194513
+Bank Name: India Post Payments Bank
+Total Amount: Rs. 7,000.00
+Total Recovered Amount: Rs. 7,000.00
+
+#1 Transaction ID: 373739162906
+Transaction Type: Layered
+Transaction Amount: Rs. 7,000.00
+Disputed Amount: Rs. 7,000.00
+Transaction Date: 13/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 07
+To Account Number: 2010004406220
+Bank Name: Bandhan Bank
+Total Amount: Rs. 9,700.00
+Total Recovered Amount: Rs. 9,700.00
+
+#1 Transaction ID: 514505057807
+Transaction Type: Layered
+Transaction Amount: Rs. 9,700.00
+Disputed Amount: Rs. 9,700.00
+Transaction Date: 25/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 07
+To Account Number: 2115393199972
+Bank Name: Tamilnad Mercantile Bank Ltd.
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 516702755007
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 16/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 07
+To Account Number: 2651111000039
+Bank Name: Union Bank of India
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 516701754707
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 16/06/2024 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 09
+To Account Number: 6056201100011
+Bank Name: Bank of India
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 508404211209
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 25/03/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 13
+To Account Number: 9240200602386
+Bank Name: Axis Bank
+Total Amount: Rs. 9,100.00
+Total Recovered Amount: Rs. 9,100.00
+
+#1 Transaction ID: 516405219213
+Transaction Type: Layered
+Transaction Amount: Rs. 9,100.00
+Disputed Amount: Rs. 9,100.00
+Transaction Date: 13/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 14
+To Account Number: 9240200602386
+Bank Name: Axis Bank
+Total Amount: Rs. 16,000.00
+Total Recovered Amount: Rs. 16,000.00
+
+#1 Transaction ID: 386573385314
+Transaction Type: Layered
+Transaction Amount: Rs. 16,000.00
+Disputed Amount: Rs. 16,000.00
+Transaction Date: 15/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 16
+To Account Number: 200002922454
+Bank Name: Equitas Bank
+Total Amount: Rs. 100,000.00
+Total Recovered Amount: Rs. 100,000.00
+
+#1 Transaction ID: 524403522416
+Transaction Type: Layered
+Transaction Amount: Rs. 1,00,000.00
+Disputed Amount: Rs. 1,00,000.00
+Transaction Date: 01/09/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 17
+To Account Number: 60528910649
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 35,000.00
+Total Recovered Amount: Rs. 35,000.00
+
+#1 Transaction ID: 522004505817
+Transaction Type: Layered
+Transaction Amount: Rs. 35,000.00
+Disputed Amount: Rs. 35,000.00
+Transaction Date: 08/08/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 19
+To Account Number: 0108000102437
+Bank Name: Punjab National Bank
+Total Amount: Rs. 9,500.00
+Total Recovered Amount: Rs. 9,500.00
+
+#1 Transaction ID: 794577872819
+Transaction Type: Layered
+Transaction Amount: Rs. 9,500.00
+Disputed Amount: Rs. 9,500.00
+Transaction Date: 17/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 2171881
+To Account Number: 60528940936
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 13,000.00
+Total Recovered Amount: Rs. 13,000.00
+
+#1 Transaction ID: INDBH01052171881
+Transaction Type: Layered
+Transaction Amount: Rs. 13,000.00
+Disputed Amount: Rs. 13,000.00
+Transaction Date: 01/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 22
+To Account Number: 3216010000091
+Bank Name: Indian Overseas Bank
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 506005840322
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 01/03/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 28
+To Account Number: 8848091945
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 8,999.00
+Total Recovered Amount: Rs. 8,999.00
+
+#1 Transaction ID: 515403993428
+Transaction Type: Layered
+Transaction Amount: Rs. 8,999.00
+Disputed Amount: Rs. 8,999.00
+Transaction Date: 03/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 31
+To Account Number: 1349570179
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 85,000.00
+Total Recovered Amount: Rs. 85,000.00
+
+#1 Transaction ID: 782052499431
+Transaction Type: Layered
+Transaction Amount: Rs. 85,000.00
+Disputed Amount: Rs. 85,000.00
+Transaction Date: 24/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 32
+To Account Number: 5020010204604
+Bank Name: HDFC Bank
+Total Amount: Rs. 39,999.00
+Total Recovered Amount: Rs. 39,999.00
+
+#1 Transaction ID: 524404523732
+Transaction Type: Layered
+Transaction Amount: Rs. 39,999.00
+Disputed Amount: Rs. 39,999.00
+Transaction Date: 01/09/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 32
+To Account Number: 60526233500
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 505605989532
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 25/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 37
+To Account Number: 110216608184
+Bank Name: Canara Bank
+Total Amount: Rs. 41,000.00
+Total Recovered Amount: Rs. 41,000.00
+
+#1 Transaction ID: 505503747037
+Transaction Type: Layered
+Transaction Amount: Rs. 41,000.00
+Disputed Amount: Rs. 41,000.00
+Transaction Date: 24/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 37
+To Account Number: 1261110001175
+Bank Name: DCB Bank
+Total Amount: Rs. 38,000.00
+Total Recovered Amount: Rs. 38,000.00
+
+#1 Transaction ID: 505805380037
+Transaction Type: Layered
+Transaction Amount: Rs. 38,000.00
+Disputed Amount: Rs. 38,000.00
+Transaction Date: 27/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 38
+To Account Number: 1343193001325
+Bank Name: HDFC Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 50,000.00
+
+#1 Transaction ID: 880984885538
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 50,000.00
+Transaction Date: 02/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 3953313
+To Account Number: 2007021000312
+Bank Name: UCO Bank
+Total Amount: Rs. 19,500.00
+Total Recovered Amount: Rs. 19,500.00
+
+#1 Transaction ID: INDBH26073953313
+Transaction Type: Layered
+Transaction Amount: Rs. 19,500.00
+Disputed Amount: Rs. 19,500.00
+Transaction Date: 26/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 40
+To Account Number: 9250200107525
+Bank Name: Axis Bank
+Total Amount: Rs. 49,998.00
+Total Recovered Amount: Rs. 49,998.00
+
+#1 Transaction ID: 513507488740
+Transaction Type: Layered
+Transaction Amount: Rs. 49,998.00
+Disputed Amount: Rs. 49,998.00
+Transaction Date: 15/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 41
+To Account Number: 5949540440
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 7,000.00
+Total Recovered Amount: Rs. 7,000.00
+
+#1 Transaction ID: 511803513041
+Transaction Type: Layered
+Transaction Amount: Rs. 7,000.00
+Disputed Amount: Rs. 7,000.00
+Transaction Date: 28/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 42
+To Account Number: 60111824630
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 505901578942
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 28/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 44
+To Account Number: 2811110000863
+Bank Name: DCB Bank
+Total Amount: Rs. 24,000.00
+Total Recovered Amount: Rs. 24,000.00
+
+#1 Transaction ID: 516709769844
+Transaction Type: Layered
+Transaction Amount: Rs. 24,000.00
+Disputed Amount: Rs. 24,000.00
+Transaction Date: 16/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 45
+To Account Number: 9240200731870
+Bank Name: Axis Bank
+Total Amount: Rs. 22,000.00
+Total Recovered Amount: Rs. 22,000.00
+
+#1 Transaction ID: 509601182145
+Transaction Type: Layered
+Transaction Amount: Rs. 22,000.00
+Disputed Amount: Rs. 22,000.00
+Transaction Date: 06/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 46
+To Account Number: 5020008569630
+Bank Name: HDFC Bank
+Total Amount: Rs. 9,000.00
+Total Recovered Amount: Rs. 9,000.00
+
+#1 Transaction ID: 515106219346
+Transaction Type: Layered
+Transaction Amount: Rs. 9,000.00
+Disputed Amount: Rs. 9,000.00
+Transaction Date: 31/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 47
+To Account Number: 60537626860
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 15,000.00
+
+#1 Transaction ID: 518703506447
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 15,000.00
+Transaction Date: 24/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 5225608
+To Account Number: 9240200602386
+Bank Name: Axis Bank
+Total Amount: Rs. 2,900.00
+Total Recovered Amount: Rs. 2,900.00
+
+#1 Transaction ID: INDBH03085225608
+Transaction Type: Layered
+Transaction Amount: Rs. 2,900.00
+Disputed Amount: Rs. 2,900.00
+Transaction Date: 03/08/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 54
+To Account Number: 2502415264941
+Bank Name: AU Bank
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 15,000.00
+
+#1 Transaction ID: 509902986754
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 15,000.00
+Transaction Date: 09/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 58
+To Account Number: 2007021000312
+Bank Name: UCO Bank
+Total Amount: Rs. 22,000.00
+Total Recovered Amount: Rs. 22,000.00
+
+#1 Transaction ID: 891410013158
+Transaction Type: Layered
+Transaction Amount: Rs. 22,000.00
+Disputed Amount: Rs. 22,000.00
+Transaction Date: 25/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 62
+To Account Number: 60407797256
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 199,999.00
+Total Recovered Amount: Rs. 199,999.00
+
+#1 Transaction ID: 511605954362
+Transaction Type: Layered
+Transaction Amount: Rs. 1,99,999.00
+Disputed Amount: Rs. 1,99,999.00
+Transaction Date: 26/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 64
+To Account Number: 2020008017076
+Bank Name: Bandhan Bank
+Total Amount: Rs. 49,994.00
+Total Recovered Amount: Rs. 49,994.00
+
+#1 Transaction ID: 512806081364
+Transaction Type: Layered
+Transaction Amount: Rs. 49,994.00
+Disputed Amount: Rs. 49,994.00
+Transaction Date: 08/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 66
+To Account Number: 60526233500
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 49,998.00
+Total Recovered Amount: Rs. 49,998.00
+
+#1 Transaction ID: 505605989566
+Transaction Type: Layered
+Transaction Amount: Rs. 49,998.00
+Disputed Amount: Rs. 49,998.00
+Transaction Date: 25/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 6794537
+To Account Number: 60539453826
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 74,999.00
+Total Recovered Amount: Rs. 74,999.00
+
+#1 Transaction ID: INDBH14086794537
+Transaction Type: Layered
+Transaction Amount: Rs. 74,999.00
+Disputed Amount: Rs. 74,999.00
+Transaction Date: 14/08/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 68
+To Account Number: 60531445836
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 5,555.00
+Total Recovered Amount: Rs. 5,555.00
+
+#1 Transaction ID: 514404781268
+Transaction Type: Layered
+Transaction Amount: Rs. 5,555.00
+Disputed Amount: Rs. 5,555.00
+Transaction Date: 24/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 69
+To Account Number: 2593101009579
+Bank Name: Canara Bank
+Total Amount: Rs. 2,000.00
+Total Recovered Amount: Rs. 2,000.00
+
+#1 Transaction ID: 107978464369
+Transaction Type: Layered
+Transaction Amount: Rs. 2,000.00
+Disputed Amount: Rs. 2,000.00
+Transaction Date: 13/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 70
+To Account Number: 9240200602386
+Bank Name: Axis Bank
+Total Amount: Rs. 49,998.00
+Total Recovered Amount: Rs. 49,998.00
+
+#1 Transaction ID: 508405212370
+Transaction Type: Layered
+Transaction Amount: Rs. 49,998.00
+Disputed Amount: Rs. 49,998.00
+Transaction Date: 25/03/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 77
+To Account Number: 60446069934
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 506201267977
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 03/03/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 78
+To Account Number: 8018913399
+Bank Name: Indian Bank
+Total Amount: Rs. 49,856.00
+Total Recovered Amount: Rs. 49,856.00
+
+#1 Transaction ID: 512806083778
+Transaction Type: Layered
+Transaction Amount: Rs. 49,856.00
+Disputed Amount: Rs. 49,856.00
+Transaction Date: 08/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 83
+To Account Number: 9180201108720
+Bank Name: Axis Bank
+Total Amount: Rs. 50,000.00
+Total Recovered Amount: Rs. 50,000.00
+
+#1 Transaction ID: 728339653383
+Transaction Type: Layered
+Transaction Amount: Rs. 50,000.00
+Disputed Amount: Rs. 50,000.00
+Transaction Date: 20/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 87
+To Account Number: 1349570179
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 30,000.00
+Total Recovered Amount: Rs. 30,000.00
+
+#1 Transaction ID: 505504747287
+Transaction Type: Layered
+Transaction Amount: Rs. 30,000.00
+Disputed Amount: Rs. 30,000.00
+Transaction Date: 24/02/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 88
+To Account Number: 5020008569630
+Bank Name: HDFC Bank
+Total Amount: Rs. 3,100.00
+Total Recovered Amount: Rs. 3,100.00
+
+#1 Transaction ID: 516207814788
+Transaction Type: Layered
+Transaction Amount: Rs. 3,100.00
+Disputed Amount: Rs. 3,100.00
+Transaction Date: 11/06/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 91
+To Account Number: 60407797256
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 99,999.00
+Total Recovered Amount: Rs. 99,999.00
+
+#1 Transaction ID: 139236101391
+Transaction Type: Layered
+Transaction Amount: Rs. 99,999.00
+Disputed Amount: Rs. 99,999.00
+Transaction Date: 29/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 94
+To Account Number: 5949540440
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 49,999.00
+Total Recovered Amount: Rs. 49,999.00
+
+#1 Transaction ID: 511604953894
+Transaction Type: Layered
+Transaction Amount: Rs. 49,999.00
+Disputed Amount: Rs. 49,999.00
+Transaction Date: 26/04/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 98
+To Account Number: 60446069934
+Bank Name: Bank of Maharashtra
+Total Amount: Rs. 11,111.00
+Total Recovered Amount: Rs. 11,111.00
+
+#1 Transaction ID: 786247034398
+Transaction Type: Layered
+Transaction Amount: Rs. 11,111.00
+Disputed Amount: Rs. 11,111.00
+Transaction Date: 15/03/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 98
+To Account Number: 9140100067766
+Bank Name: Axis Bank
+Total Amount: Rs. 15,000.00
+Total Recovered Amount: Rs. 15,000.00
+
+#1 Transaction ID: 515017131198
+Transaction Type: Layered
+Transaction Amount: Rs. 15,000.00
+Disputed Amount: Rs. 15,000.00
+Transaction Date: 30/05/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 99
+To Account Number: 1960104000172
+Bank Name: IDBI Bank
+Total Amount: Rs. 62,000.00
+Total Recovered Amount: Rs. 62,000.00
+
+#1 Transaction ID: 520645137099
+Transaction Type: Layered
+Transaction Amount: Rs. 62,000.00
+Disputed Amount: Rs. 62,000.00
+Transaction Date: 25/07/2025 12:00:00 AM
+
+====================================================================================================
+
+Layer: 1
+
+From Account Number: PHI COMM D -:1695993 37971 99
+To Account Number: 4650842393
+Bank Name: Kotak Mahindra Bank
+Total Amount: Rs. 49,651.00
+Total Recovered Amount: Rs. 49,651.00
+
+#1 Transaction ID: 511606958699
+Transaction Type: Layered
+Transaction Amount: Rs. 49,651.00
+Disputed Amount: Rs. 49,651.00
+Transaction Date: 26/04/2025 12:00:00 AM
+
+====================================================================================================

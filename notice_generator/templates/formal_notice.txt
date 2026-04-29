@@ -1,0 +1,31 @@
+To,
+The Nodal Officer,
+{bank_name}
+
+Subject: Notice for Blocking / Lien of Fraudulent Funds - Acknowledgement No: {acknowledgement_no}
+
+Respected Sir/Madam,
+
+This is to inform you that a complaint has been registered on the National Cybercrime Reporting Portal regarding a financial fraud. During the forensic investigation of the money trail, the following account(s) maintained with your bank have been identified as recipients of fraudulent funds:
+
+Account Numbers: 
+{account_numbers}
+
+Total Disputed Amount: INR {total_amount}
+
+As per the powers vested under Section 91 of the CrPC, you are hereby directed to:
+1. Immediately put a LIEN/HOLD on the above-mentioned accounts for the disputed amount.
+2. Provide the KYC details and certified account statements for these accounts from {incident_date} till date.
+3. Share the IP logs and login details if these accounts were accessed via Net Banking/Mobile App.
+
+Transaction Details Summary:
+{transaction_summary}
+
+Please treat this as URGENT and share the compliance report at the earliest.
+
+Regards,
+
+{officer_name}
+{officer_designation}
+{police_station}
+Date: {current_date}

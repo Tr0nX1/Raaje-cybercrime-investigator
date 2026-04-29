@@ -1,0 +1,122 @@
+{
+  "source_file": "input\\9560978030 - Khoj OSINT Report.pdf",
+  "report_type": "khoj_osint",
+  "extraction_method": "text",
+  "phone_number": "9560978030",
+  "report_generated_by": "822571136",
+  "report_generation_datetime": "2026-03-23 11:09:00",
+  "operator_details": {
+    "operator": "Airtel",
+    "circle": "Delhi"
+  },
+  "aliases": [
+    "akash sahota",
+    "Jagga Jasoos FC",
+    "AKASH SINGH SAHOTA",
+    "JaggasJasoosFC",
+    "Areth A",
+    "Akash Civil",
+    "Aakash Dilshad Gardan",
+    "Customer",
+    "Ayush Hin",
+    "Akash Dtc",
+    "Daroga Jiii",
+    "Jasoos Jagga",
+    "bachan singh",
+    "Bhachan Singh",
+    "Akash Bachen",
+    "Suryakant Ambure",
+    "Sahota Client Philocaly"
+  ],
+  "email_addresses": [
+    "areththestalwart11@gmail.com",
+    "jaggajasoos@gmail.com",
+    "akash.110795@rediffmail.com"
+  ],
+  "upi_vpa_accounts": [
+    {
+      "upi_id": "9560978030@apl",
+      "app_bank": "Amazon Pay"
+    },
+    {
+      "upi_id": "9560978030@yesbank",
+      "app_bank": "Yes Bank"
+    },
+    {
+      "upi_id": "9560978030@freecharge",
+      "app_bank": "Freecharge UPI"
+    },
+    {
+      "upi_id": "9560978030@upi",
+      "app_bank": "BHIM UPI App"
+    },
+    {
+      "upi_id": "9560978030@pthdfc",
+      "app_bank": "Paytm"
+    },
+    {
+      "upi_id": "9560978030@ptyes",
+      "app_bank": "Paytm"
+    }
+  ],
+  "locations": [
+    "Delhi"
+  ],
+  "social_media_accounts": [],
+  "compromised_services": [
+    {
+      "service_name": "Google User ID",
+      "compromised_data": [
+        "117416353054894593796"
+      ]
+    },
+    {
+      "service_name": "WhatsApp Account",
+      "compromised_data": [
+        "9560978030"
+      ]
+    },
+    {
+      "service_name": "Business Account",
+      "compromised_data": [
+        "False"
+      ]
+    }
+  ],
+  "personal_details": {
+    "full_name": null,
+    "gender": null,
+    "date_of_birth": null,
+    "age": null,
+    "father_or_husband": null,
+    "aadhaar_number": null,
+    "pan_number": null,
+    "alternate_number": null,
+    "pan_link_email": null,
+    "other_email": null,
+    "income": null,
+    "is_sole_proprietor": null,
+    "is_director": null
+  },
+  "security_scores": {
+    "security_score": null,
+    "cibil_score": null
+  },
+  "detection_summary": {
+    "total_accounts": null,
+    "upi_platforms": null,
+    "verified_checks": null,
+    "suspected_detections": null
+  },
+  "telecom_info": {
+    "number_active": null,
+    "country": null,
+    "country_prefix": null,
+    "is_roaming": null,
+    "subscriber_status": null,
+    "connection_type": null
+  },
+  "warnings": [
+    "Analysis: {\n  \"phone_region\": \"Unknown\",\n  \"email_domains\": {\n    \"gmail.com\": 2,\n    \"rediffmail.com\": 1\n  },\n  \"upi_providers\": {\n    \"amazon pay\": 1,\n    \"yes bank\": 1,\n    \"freecharge upi\": 1,\n    \"bhim upi app\": 1,\n    \"paytm\": 2\n  },\n  \"data_completeness\": 0.7142857142857143\n}"
+  ]
+}

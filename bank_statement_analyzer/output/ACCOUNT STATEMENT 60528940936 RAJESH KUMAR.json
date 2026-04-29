@@ -1,0 +1,1446 @@
+{
+  "source_file": "input files\\ACCOUNT STATEMENT 60528940936 RAJESH KUMAR.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "Mr. Rajesh Kumar",
+    "account_number": "60528940936",
+    "bank_name": null,
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 0.0,
+    "closing_balance": 273555.47,
+    "total_credits": 1887031.27,
+    "total_debits": 1613475.8
+  },
+  "transactions": [
+    {
+      "date": "2025-03-18",
+      "description": "Deposit by CASH TRANSFER\nFROM 60528940936",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 2000.0,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "1 | 18/03/2025 | Deposit by CASH TRANSFER\nFROM 60528940936 | - | 2,000.00 | 2,000.00 | 2736-NABHA",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-18",
+      "description": "TRANSFER TO 60214640974 TO\nCOLLECTION ACC P M JEEVAN\nJYOTI BIMA YOJ",
+      "type": "debit",
+      "amount": 114.0,
+      "balance": 1886.0,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "2 | 18/03/2025 | TRANSFER TO 60214640974 TO\nCOLLECTION ACC P M JEEVAN\nJYOTI BIMA YOJ | 114.00 | - | 1,886.00 | 11111-Central Data\nCenter",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-19",
+      "description": "508853XXXXXX7136\n507811023664 50013018",
+      "type": "debit",
+      "amount": 1500.0,
+      "balance": 386.0,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "3 | 19/03/2025 | 508853XXXXXX7136\n507811023664 50013018 | 507811023664 | 1,500.00 | - | 386.00 | ATM/POS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508112081887/IOBA\n/NASHIBA PRAVEEN/NA",
+      "type": "credit",
+      "amount": 101.0,
+      "balance": 487.0,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "4 | 22/03/2025 | UPI 508112081887/IOBA\n/NASHIBA PRAVEEN/NA | 508112081887 | - | 101.00 | 487.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508162217215/YESB/MR\nJASHANPREET SINGH/UPI",
+      "type": "debit",
+      "amount": 100.0,
+      "balance": 387.0,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "5 | 22/03/2025 | UPI 508162217215/YESB/MR\nJASHANPREET SINGH/UPI | 508162217215 | 100.00 | - | 387.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS/48/508121292962/**4953\n/CHANDAN HALDER/Transfe",
+      "type": "credit",
+      "amount": 101000.0,
+      "balance": 101387.0,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "6 | 22/03/2025 | IMPS/48/508121292962/**4953\n/CHANDAN HALDER/Transfe | 508121292962 | - | 1,01,000.00 | 1,01,387.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508100419383/SURY/Decentro\n/Verify",
+      "type": "credit",
+      "amount": 0.01,
+      "balance": 101387.01,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "7 | 22/03/2025 | UPI 508100419383/SURY/Decentro\n/Verify | 508100419383 | - | 0.01 | 1,01,387.01 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS/48/508118564645/**0000\n/RESILIENT INNOVATION/B",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 101388.01,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "8 | 22/03/2025 | IMPS/48/508118564645/**0000\n/RESILIENT INNOVATION/B | 508118564645 | - | 1.00 | 1,01,388.01 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508140217235/UTIB/Google\nIndia Digital Service",
+      "type": "debit",
+      "amount": 900.9,
+      "balance": 100487.11,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "9 | 22/03/2025 | UPI 508140217235/UTIB/Google\nIndia Digital Service | 508140217235 | 900.90 | - | 1,00,487.11 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508129914434/UTIB/Google\nIndia Digital Service",
+      "type": "debit",
+      "amount": 2999.9,
+      "balance": 97487.21,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10 | 22/03/2025 | UPI 508129914434/UTIB/Google\nIndia Digital Service | 508129914434 | 2,999.90 | - | 97,487.21 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS/48/508120298661/**0000\n/PHONEPEPRIVATELIMI/F13",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 97488.21,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11 | 22/03/2025 | IMPS/48/508120298661/**0000\n/PHONEPEPRIVATELIMI/F13 | 508120298661 | - | 1.00 | 97,488.21 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS/48/508120737653/**0000\n/PRITAM KUMAR JAIN/P2AM",
+      "type": "credit",
+      "amount": 200000.0,
+      "balance": 297488.21,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12 | 22/03/2025 | IMPS/48/508120737653/**0000\n/PRITAM KUMAR JAIN/P2AM | 508120737653 | - | 2,00,000.00 | 2,97,488.21 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "TRANSFER FROM 60519133537\nFRM Mr. CHANDAN HALDER",
+      "type": "credit",
+      "amount": 80000.0,
+      "balance": 377488.21,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13 | 22/03/2025 | TRANSFER FROM 60519133537\nFRM Mr. CHANDAN HALDER | - | 80,000.00 | 3,77,488.21 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS/48/508120650680/**\n/SHREEGURU/NA",
+      "type": "debit",
+      "amount": 200001.0,
+      "balance": 177487.21,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14 | 22/03/2025 | IMPS/48/508120650680/**\n/SHREEGURU/NA | 508120650680 | 2,00,001.00 | - | 1,77,487.21 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 15.0,
+      "balance": 177472.21,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15 | 22/03/2025 | IMPS CHG | 15.00 | - | 1,77,472.21 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "GST",
+      "type": "debit",
+      "amount": 2.7,
+      "balance": 177469.51,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "16 | 22/03/2025 | GST | 2.70 | - | 1,77,469.51 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "TRANSFER FROM 60519133537\nFRM Mr. CHANDAN HALDER",
+      "type": "credit",
+      "amount": 70000.0,
+      "balance": 247469.51,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17 | 22/03/2025 | TRANSFER FROM 60519133537\nFRM Mr. CHANDAN HALDER | - | 70,000.00 | 2,47,469.51 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "description": "UPI 508150981227/DBSS\n/ORUGANTI VANITHA/UPI",
+      "type": "credit",
+      "amount": 14000.0,
+      "balance": 261469.51,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18 | 22/03/2025 | UPI 508150981227/DBSS\n/ORUGANTI VANITHA/UPI | 508150981227 | - | 14,000.00 | 2,61,469.51 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508200674605/**\n/MEHULD/NA",
+      "type": "debit",
+      "amount": 235148.0,
+      "balance": 26321.51,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19 | 23/03/2025 | IMPS/48/508200674605/**\n/MEHULD/NA | 508200674605 | 2,35,148.00 | - | 26,321.51 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 15.0,
+      "balance": 26306.51,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20 | 23/03/2025 | IMPS CHG | 15.00 | - | 26,306.51 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "GST",
+      "type": "debit",
+      "amount": 2.7,
+      "balance": 26303.81,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21 | 23/03/2025 | GST | 2.70 | - | 26,303.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508201259763/**4504\n/ANKIT ENTERPRISES/Pay",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 27303.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22 | 23/03/2025 | IMPS/48/508201259763/**4504\n/ANKIT ENTERPRISES/Pay | 508201259763 | - | 1,000.00 | 27,303.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508201260468/**4504\n/ANKIT ENTERPRISES/Pay",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 28303.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23 | 23/03/2025 | IMPS/48/508201260468/**4504\n/ANKIT ENTERPRISES/Pay | 508201260468 | - | 1,000.00 | 28,303.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508201260477/**4504\n/ANKIT ENTERPRISES/Pay",
+      "type": "credit",
+      "amount": 149999.0,
+      "balance": 178302.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24 | 23/03/2025 | IMPS/48/508201260477/**4504\n/ANKIT ENTERPRISES/Pay | 508201260477 | - | 1,49,999.00 | 1,78,302.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508201677259/**\n/SHAIKMOHAMMED/NA",
+      "type": "debit",
+      "amount": 110000.0,
+      "balance": 68302.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25 | 23/03/2025 | IMPS/48/508201677259/**\n/SHAIKMOHAMMED/NA | 508201677259 | 1,10,000.00 | - | 68,302.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 15.0,
+      "balance": 68287.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26 | 23/03/2025 | IMPS CHG | 15.00 | - | 68,287.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "GST",
+      "type": "debit",
+      "amount": 2.7,
+      "balance": 68285.11,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27 | 23/03/2025 | GST | 2.70 | - | 68,285.11 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "NEFT YESBN12025032300907646\nRESILIENT INNOVATIONS\nYESB0000001",
+      "type": "credit",
+      "amount": 14501.0,
+      "balance": 82786.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28 | 23/03/2025 | NEFT YESBN12025032300907646\nRESILIENT INNOVATIONS\nYESB0000001 | YESBN12025032300907646 | - | 14,501.00 | 82,786.11 | 9008-NEFT/ RTGS CELL",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "NEFT UTIBN62025032360019184\nPHONEPE PRIVATE LIMITE\nUTIB0001506",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 82787.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29 | 23/03/2025 | NEFT UTIBN62025032360019184\nPHONEPE PRIVATE LIMITE\nUTIB0001506 | UTIBN62025032360019184 | - | 1.00 | 82,787.11 | 9008-NEFT/ RTGS CELL",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "UPI 544864738089/BKID/PRAVIN\nKUMAR/Paid via Navi",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 182787.11,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "30 | 23/03/2025 | UPI 544864738089/BKID/PRAVIN\nKUMAR/Paid via Navi | 544864738089 | - | 1,00,000.00 | 1,82,787.11 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508221778306/**2104\n/NITISH/Transfer to 605",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 282787.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "31 | 23/03/2025 | IMPS/48/508221778306/**2104\n/NITISH/Transfer to 605 | 508221778306 | - | 1,00,000.00 | 2,82,787.11 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508215160651/**9357\n/RASHPAL SINGH/Payy ha",
+      "type": "credit",
+      "amount": 200001.0,
+      "balance": 482788.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "32 | 23/03/2025 | IMPS/48/508215160651/**9357\n/RASHPAL SINGH/Payy ha | 508215160651 | - | 2,00,001.00 | 4,82,788.11 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508216728629/**/AU/NA",
+      "type": "debit",
+      "amount": 250001.0,
+      "balance": 232787.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "33 | 23/03/2025 | IMPS/48/508216728629/**/AU/NA | 508216728629 | 2,50,001.00 | - | 2,32,787.11 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 15.0,
+      "balance": 232772.11,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "34 | 23/03/2025 | IMPS CHG | 15.00 | - | 2,32,772.11 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "GST",
+      "type": "debit",
+      "amount": 2.7,
+      "balance": 232769.41,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "35 | 23/03/2025 | GST | 2.70 | - | 2,32,769.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "UPI 508246730961/YESB/Resilient\nInnovations Privat",
+      "type": "credit",
+      "amount": 54202.0,
+      "balance": 286971.41,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "36 | 23/03/2025 | UPI 508246730961/YESB/Resilient\nInnovations Privat | 508246730961 | - | 54,202.00 | 2,86,971.41 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219626782/**9999\n/INSTANTPAY/NA",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 286972.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "37 | 23/03/2025 | IMPS/48/508219626782/**9999\n/INSTANTPAY/NA | 508219626782 | - | 1.00 | 2,86,972.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219305948/**0000\n/Instantpay India Ltd/P",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 386972.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "38 | 23/03/2025 | IMPS/48/508219305948/**0000\n/Instantpay India Ltd/P | 508219305948 | - | 1,00,000.00 | 3,86,972.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219308602/**0000\n/Instantpay India Ltd/P",
+      "type": "credit",
+      "amount": 99999.0,
+      "balance": 486971.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "39 | 23/03/2025 | IMPS/48/508219308602/**0000\n/Instantpay India Ltd/P | 508219308602 | - | 99,999.00 | 4,86,971.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219311030/**0000\n/Instantpay India Ltd/P",
+      "type": "credit",
+      "amount": 99998.0,
+      "balance": 586969.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "40 | 23/03/2025 | IMPS/48/508219311030/**0000\n/Instantpay India Ltd/P | 508219311030 | - | 99,998.00 | 5,86,969.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219312773/**0000\n/Instantpay India Ltd/P",
+      "type": "credit",
+      "amount": 99997.0,
+      "balance": 686966.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "41 | 23/03/2025 | IMPS/48/508219312773/**0000\n/Instantpay India Ltd/P | 508219312773 | - | 99,997.00 | 6,86,966.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219314774/**0000\n/Instantpay India Ltd/P",
+      "type": "credit",
+      "amount": 50060.0,
+      "balance": 737026.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "42 | 23/03/2025 | IMPS/48/508219314774/**0000\n/Instantpay India Ltd/P | 508219314774 | - | 50,060.00 | 7,37,026.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS/48/508219751177/**/AU/NA",
+      "type": "debit",
+      "amount": 200000.0,
+      "balance": 537026.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "43 | 23/03/2025 | IMPS/48/508219751177/**/AU/NA | 508219751177 | 2,00,000.00 | - | 5,37,026.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 15.0,
+      "balance": 537011.41,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "44 | 23/03/2025 | IMPS CHG | 15.00 | - | 5,37,011.41 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "GST",
+      "type": "debit",
+      "amount": 2.7,
+      "balance": 537008.71,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "45 | 23/03/2025 | GST | 2.70 | - | 5,37,008.71 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "NEFT MAHBN72025032307834354\nANKIT ENTERPRISES\nAUBL0004152",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 437008.71,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "46 | 23/03/2025 | NEFT MAHBN72025032307834354\nANKIT ENTERPRISES\nAUBL0004152 | MAHBN72025032307834354 | 1,00,000.00 | - | 4,37,008.71 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "description": "NEFT MAHBN72025032307834398\nANKIT ENTERPRISES\nAUBL0004152",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 337008.71,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "47 | 23/03/2025 | NEFT MAHBN72025032307834398\nANKIT ENTERPRISES\nAUBL0004152 | MAHBN72025032307834398 | 1,00,000.00 | - | 3,37,008.71 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 544978836995/HDFC\n/ANIMESH LAKRA/UPI",
+      "type": "debit",
+      "amount": 3000.0,
+      "balance": 334008.71,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "48 | 24/03/2025 | UPI 544978836995/HDFC\n/ANIMESH LAKRA/UPI | 544978836995 | 3,000.00 | - | 3,34,008.71 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 544935636460/PUNB\n/SHREYANSH JAIN/UPI",
+      "type": "debit",
+      "amount": 2000.0,
+      "balance": 332008.71,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "49 | 24/03/2025 | UPI 544935636460/PUNB\n/SHREYANSH JAIN/UPI | 544935636460 | 2,000.00 | - | 3,32,008.71 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS/48/508302786903/**\n/CHIRAG/NA",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 232008.71,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "50 | 24/03/2025 | IMPS/48/508302786903/**\n/CHIRAG/NA | 508302786903 | 1,00,000.00 | - | 2,32,008.71 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 232003.71,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "51 | 24/03/2025 | IMPS CHG | 5.00 | - | 2,32,003.71 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 232002.81,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "52 | 24/03/2025 | GST | 0.90 | - | 2,32,002.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS/48/508302787010/**\n/CHIRAG/NA",
+      "type": "debit",
+      "amount": 37268.0,
+      "balance": 194734.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "53 | 24/03/2025 | IMPS/48/508302787010/**\n/CHIRAG/NA | 508302787010 | 37,268.00 | - | 1,94,734.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 194729.81,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "54 | 24/03/2025 | IMPS CHG | 5.00 | - | 1,94,729.81 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 194728.91,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "55 | 24/03/2025 | GST | 0.90 | - | 1,94,728.91 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS/48/508303788402/**/ROHIT\n/NA",
+      "type": "debit",
+      "amount": 70325.0,
+      "balance": 124403.91,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "56 | 24/03/2025 | IMPS/48/508303788402/**/ROHIT\n/NA | 508303788402 | 70,325.00 | - | 1,24,403.91 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 124398.91,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "57 | 24/03/2025 | IMPS CHG | 5.00 | - | 1,24,398.91 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 124398.01,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "58 | 24/03/2025 | GST | 0.90 | - | 1,24,398.01 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "NEFT YESBN12025032403968431\nRESILIENT INNOVATIONS\nYESB0000001",
+      "type": "credit",
+      "amount": 63926.0,
+      "balance": 188324.01,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "59 | 24/03/2025 | NEFT YESBN12025032403968431\nRESILIENT INNOVATIONS\nYESB0000001 | YESBN12025032403968431 | - | 63,926.00 | 1,88,324.01 | 9008-NEFT/ RTGS CELL",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "NEFT UTIBN62025032465854163\nPHONEPE PRIVATE LIMITE\nUTIB0001506",
+      "type": "credit",
+      "amount": 244243.26,
+      "balance": 432567.27,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "60 | 24/03/2025 | NEFT UTIBN62025032465854163\nPHONEPE PRIVATE LIMITE\nUTIB0001506 | UTIBN62025032465854163 | - | 2,44,243.26 | 4,32,567.27 | 9008-NEFT/ RTGS CELL",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS/48/508307793273/**\n/MIAYAN/NA",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 332567.27,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "61 | 24/03/2025 | IMPS/48/508307793273/**\n/MIAYAN/NA | 508307793273 | 1,00,000.00 | - | 3,32,567.27 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 332562.27,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "62 | 24/03/2025 | IMPS CHG | 5.00 | - | 3,32,562.27 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 332561.37,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "63 | 24/03/2025 | GST | 0.90 | - | 3,32,561.37 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS/48/508307793299/**\n/MIAYAN/NA",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 232561.37,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "64 | 24/03/2025 | IMPS/48/508307793299/**\n/MIAYAN/NA | 508307793299 | 1,00,000.00 | - | 2,32,561.37 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 232556.37,
+      "category": "transfer",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "65 | 24/03/2025 | IMPS CHG | 5.00 | - | 2,32,556.37 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 232555.47,
+      "category": "tax",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "66 | 24/03/2025 | GST | 0.90 | - | 2,32,555.47 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 508309659270/SBIN/DHAVAL\nJITENDRA DAVE/UPI",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 242555.47,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "67 | 24/03/2025 | UPI 508309659270/SBIN/DHAVAL\nJITENDRA DAVE/UPI | 508309659270 | - | 10,000.00 | 2,42,555.47 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 508377755251/CBIN/Mr\nRISHABH SAI/Sent using Pa",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 244555.47,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "68 | 24/03/2025 | UPI 508377755251/CBIN/Mr\nRISHABH SAI/Sent using Pa | 508377755251 | - | 2,000.00 | 2,44,555.47 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 508310437740/SBIN/DHAVAL\nJITENDRA DAVE/UPI",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 254555.47,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "69 | 24/03/2025 | UPI 508310437740/SBIN/DHAVAL\nJITENDRA DAVE/UPI | 508310437740 | - | 10,000.00 | 2,54,555.47 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 508312271252/SBIN/DHAVAL\nJITENDRA DAVE/UPI",
+      "type": "credit",
+      "amount": 9000.0,
+      "balance": 263555.47,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "70 | 24/03/2025 | UPI 508312271252/SBIN/DHAVAL\nJITENDRA DAVE/UPI | 508312271252 | - | 9,000.00 | 2,63,555.47 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "description": "UPI 233272133148/SVCB\n/JAYASWAL LOKESH/Payment\nfrom",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 273555.47,
+      "category": "other",
+      "holder_name": "Mr. Rajesh Kumar",
+      "account_number": "60528940936",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "71 | 24/03/2025 | UPI 233272133148/SVCB\n/JAYASWAL LOKESH/Payment\nfrom | 233272133148 | - | 10,000.00 | 2,73,555.47 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "Page 3: 0 transactions detected after 46 on page 2 \u2014 possible missing or blank page.",
+    "AI Audit complete. Header Status: needs_review/deterministic"
+  ],
+  "raw_header_text": "Account Details\nAccount No 60528940936 Account Open Date 18/03/2025 Nomination Flag Y\nAccount Type PMJDY without Cheque Book Nominee Name OMLATA\nMode of Operation OPERATING SINGLY Total Balance 254.60Available Balance 0.00\nQAB Required 50000.000QAB Maintained 254.600\nAccount Holder Names Mr. Rajesh Kumar Primary GSTIN NA\nCustomer Details\nName Mr. Rajesh Kumar CIF Number 40297992687\nMobile xxxxxxxxxx30 Email\nKYC Complied Y KYC Expiry Date 18/03/2035 CKYC ID xxxxxxxxxx0261\nPrimary ID Type ADHAR WITH SAME ADDRESS Date of Birth 08xxxxxx91 Statement Date Tue Sep 16 17:12:01 GMT+05:30 2025\nAddress S O VED PARKASH, VILLAGE PREM NAGAR, BOURAN GATE, NABHA NABHA, PUNJAB, 00147201"
+}

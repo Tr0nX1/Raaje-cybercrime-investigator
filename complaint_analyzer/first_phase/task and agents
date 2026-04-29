@@ -1,0 +1,24 @@
+phase 1 complete of pdf to TOON
+ask user to path and folder name where they want to save all the details of the case
+when they add 
+create layer wise folder and into the folder create one more folder of according to account number
+
+whenever we work on any account number it should be in that folder only
+
+Tasks:
+create notice to the bank regarding that account number 
+as you made save in the folder according to account number 
+
+
+create a excel file in that layer folder and add details:
+serial number , amount, acccount number , branch, name, address, notice date, phone number, email,  pancard , adhaar card , KYC , Bank Statement ,counter party,Ip logs ,notice status, 
+
+
+according to time when we will have details there will be option like
+
+1)ai read in the folder and extract all the details and add in the excel file
+2) mannually add by investigators
+
+#bank statment read
+
+

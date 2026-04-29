@@ -1,0 +1,63 @@
+{
+  "source_file": "input files\\110216608184.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "Mrs SARITA JAIN",
+    "account_number": "110216608184",
+    "bank_name": "Canara Bank",
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 327.0,
+    "closing_balance": 309.0,
+    "total_credits": 2.0,
+    "total_debits": 20.0
+  },
+  "transactions": [
+    {
+      "date": "2025-05-25",
+      "description": "PMSBY RENEWAL(25-\n26)-328926757-\n03354676",
+      "type": "debit",
+      "amount": 20.0,
+      "balance": 307.0,
+      "category": "other",
+      "holder_name": null,
+      "account_number": null,
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-MAY-25 | 25-MAY-25 | 9 | PMSBY RENEWAL(25-\n26)-328926757-\n03354676 | 20.00 | 0.00 | 307.00",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-06-27",
+      "description": "SBINT FOR THE\nPERIOD FROM28-\nMAR-25 TO 27-JUN-25",
+      "type": "credit",
+      "amount": 2.0,
+      "balance": 309.0,
+      "category": "interest",
+      "holder_name": null,
+      "account_number": null,
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-JUN-25 | 27-JUN-25 | 6641 | SBINT FOR THE\nPERIOD FROM28-\nMAR-25 TO 27-JUN-25 | 0.00 | 2.00 | 309.00",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [],
+  "raw_header_text": "1\nSTATEMENT OF ACCOUNT\nCANARA BANK\nDATE : 22-09-25 16:23:18 PM\nAccount Branch : 6641-PHALODI 342301\nIFSC : CNRB0006641\nMICR : 342015051\nBranch Address : MOHALLA-DHOLABALA, NAGAUR ROAD, PHALODI, JODHPUR, RAJASTHAN-342301\nEmail Id : cb6641@canarabank.com\nContact Number :\nBank Toll Free Number : 18001030\nWhatsApp Banking Num : 18001030\nAccount No : 110216608184\nProduct Name : Canara Angel - Lavender\nCustomer ID : 328926757\nCustomer Name : Mrs SARITA JAIN"
+}

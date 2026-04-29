@@ -1,0 +1,2986 @@
+{
+  "source_file": "input files\\BOM_Statement_FTP_01307_xxxxxxxx3500_20250219_20250918_20250918024539.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "Mr. DHORIYA NIKHIL",
+    "account_number": "60526233500",
+    "bank_name": "Bank of Maharashtra",
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 0.0,
+    "closing_balance": 70980.0,
+    "total_credits": 1033782.0,
+    "total_debits": 962802.0
+  },
+  "transactions": [
+    {
+      "date": "2025-02-20",
+      "description": "Deposit by . TRANSFER FROM\n60526233500",
+      "type": "credit",
+      "amount": 2100.0,
+      "balance": 2100.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "1 | 20/02/2025 | Deposit by . TRANSFER FROM\n60526233500 | - | 2,100.00 | 2,100.00 | 1307-GANDHIDHAM",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 490321456995/HDFC/MARU\nNAKUL MAHESHBHAI/Paymen",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 2095.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "2 | 22/02/2025 | UPI 490321456995/HDFC/MARU\nNAKUL MAHESHBHAI/Paymen | 490321456995 | 5.00 | - | 2,095.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 100420890266/IPOS/ADITYA\nARUNRAO BONDADE/UPI",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 4095.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "3 | 22/02/2025 | UPI 100420890266/IPOS/ADITYA\nARUNRAO BONDADE/UPI | 100420890266 | - | 2,000.00 | 4,095.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 505353140425/INDB\n/PRASANNA DATTATREYA\nBHANDARI",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 9095.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "4 | 22/02/2025 | UPI 505353140425/INDB\n/PRASANNA DATTATREYA\nBHANDARI | 505353140425 | - | 5,000.00 | 9,095.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505315691450/**2445\n/MAYUR MANIYAR AND CO/I",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 19095.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "5 | 22/02/2025 | IMPS/48/505315691450/**2445\n/MAYUR MANIYAR AND CO/I | 505315691450 | - | 10,000.00 | 19,095.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505315718392/**8005\n/ABHISHEK OLA/KKBKTrans",
+      "type": "credit",
+      "amount": 29500.0,
+      "balance": 48595.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "6 | 22/02/2025 | IMPS/48/505315718392/**8005\n/ABHISHEK OLA/KKBKTrans | 505315718392 | - | 29,500.00 | 48,595.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505315718775/**3609\n/VIVEK KUMAR/KKBKTransf",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 58595.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "7 | 22/02/2025 | IMPS/48/505315718775/**3609\n/VIVEK KUMAR/KKBKTransf | 505315718775 | - | 10,000.00 | 58,595.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 987958215411/BARB\n/THAKKAR RUTVIK/Ritik",
+      "type": "debit",
+      "amount": 4900.0,
+      "balance": 53695.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "8 | 22/02/2025 | UPI 987958215411/BARB\n/THAKKAR RUTVIK/Ritik | 987958215411 | 4,900.00 | - | 53,695.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 325790815927/SBIN/Kashish\nKashish/Payment from",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 56695.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "9 | 22/02/2025 | UPI 325790815927/SBIN/Kashish\nKashish/Payment from | 325790815927 | - | 3,000.00 | 56,695.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 505358010410/UBIN/SHIVAM\nGUPTA/UPI",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 76695.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10 | 22/02/2025 | UPI 505358010410/UBIN/SHIVAM\nGUPTA/UPI | 505358010410 | - | 20,000.00 | 76,695.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 541939449199/KKBK\n/ABHISHEK OLA/Paid via CRED",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 78695.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11 | 22/02/2025 | UPI 541939449199/KKBK\n/ABHISHEK OLA/Paid via CRED | 541939449199 | - | 2,000.00 | 78,695.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 505326432543/FINO/Kunal\nKumar/Paid via Navi",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 79695.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12 | 22/02/2025 | UPI 505326432543/FINO/Kunal\nKumar/Paid via Navi | 505326432543 | - | 1,000.00 | 79,695.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505316036465/**/ANNU\n/NA",
+      "type": "debit",
+      "amount": 14656.0,
+      "balance": 65039.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13 | 22/02/2025 | IMPS/48/505316036465/**/ANNU\n/NA | 505316036465 | 14,656.00 | - | 65,039.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 505357758515/KKBK/UDAY\nSINGH CHAUHAN/Sent usin",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 66039.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14 | 22/02/2025 | UPI 505357758515/KKBK/UDAY\nSINGH CHAUHAN/Sent usin | 505357758515 | - | 1,000.00 | 66,039.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505316036917/**\n/NMPAPPU/NA",
+      "type": "debit",
+      "amount": 100.0,
+      "balance": 65939.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15 | 22/02/2025 | IMPS/48/505316036917/**\n/NMPAPPU/NA | 505316036917 | 100.00 | - | 65,939.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505316037140/**\n/NMRAHU/NA",
+      "type": "debit",
+      "amount": 1594.0,
+      "balance": 64345.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "16 | 22/02/2025 | IMPS/48/505316037140/**\n/NMRAHU/NA | 505316037140 | 1,594.00 | - | 64,345.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505316038653/**\n/NMJOSHI/NA",
+      "type": "debit",
+      "amount": 513.0,
+      "balance": 63832.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17 | 22/02/2025 | IMPS/48/505316038653/**\n/NMJOSHI/NA | 505316038653 | 513.00 | - | 63,832.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505316039735/**/TAMIL\n/NA",
+      "type": "debit",
+      "amount": 2145.0,
+      "balance": 61687.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18 | 22/02/2025 | IMPS/48/505316039735/**/TAMIL\n/NA | 505316039735 | 2,145.00 | - | 61,687.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 100428240979/KKBK/VIJAY\nPRASAD PAINULY/UPI",
+      "type": "credit",
+      "amount": 300.0,
+      "balance": 61987.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19 | 22/02/2025 | UPI 100428240979/KKBK/VIJAY\nPRASAD PAINULY/UPI | 100428240979 | - | 300.00 | 61,987.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505317042249/**\n/SKUNAL/NA",
+      "type": "debit",
+      "amount": 500.0,
+      "balance": 61487.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20 | 22/02/2025 | IMPS/48/505317042249/**\n/SKUNAL/NA | 505317042249 | 500.00 | - | 61,487.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 508123191309/AIRP/Umair\n/Payment from PhonePe",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 71487.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21 | 22/02/2025 | UPI 508123191309/AIRP/Umair\n/Payment from PhonePe | 508123191309 | - | 10,000.00 | 71,487.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 796981387525/BARB/Mohd\nSalim/Payment from Phon",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 81487.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22 | 22/02/2025 | UPI 796981387525/BARB/Mohd\nSalim/Payment from Phon | 796981387525 | - | 10,000.00 | 81,487.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505318046517/**/JAIG\n/NA",
+      "type": "debit",
+      "amount": 6000.0,
+      "balance": 75487.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23 | 22/02/2025 | IMPS/48/505318046517/**/JAIG\n/NA | 505318046517 | 6,000.00 | - | 75,487.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505318543872/**8755/Mr\nMayank Kumar/IMPS",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 75488.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24 | 22/02/2025 | IMPS/48/505318543872/**8755/Mr\nMayank Kumar/IMPS | 505318543872 | - | 1.00 | 75,488.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505318048050/**\n/SKUNAL/NA",
+      "type": "debit",
+      "amount": 500.0,
+      "balance": 74988.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25 | 22/02/2025 | IMPS/48/505318048050/**\n/SKUNAL/NA | 505318048050 | 500.00 | - | 74,988.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 299203204007/AIRP/Rushikesh\nKamlakar Tak/Payme",
+      "type": "credit",
+      "amount": 300.0,
+      "balance": 75288.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26 | 22/02/2025 | UPI 299203204007/AIRP/Rushikesh\nKamlakar Tak/Payme | 299203204007 | - | 300.00 | 75,288.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 664177956441/KKBK\n/NAVNEET SINGH KALCHURI\n/Payme",
+      "type": "credit",
+      "amount": 16000.0,
+      "balance": 91288.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27 | 22/02/2025 | UPI 664177956441/KKBK\n/NAVNEET SINGH KALCHURI\n/Payme | 664177956441 | - | 16,000.00 | 91,288.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 948904751857/MAHB/Mrs\nRIYA CHAUHAN/Payment fro",
+      "type": "credit",
+      "amount": 1155.0,
+      "balance": 92443.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28 | 22/02/2025 | UPI 948904751857/MAHB/Mrs\nRIYA CHAUHAN/Payment fro | 948904751857 | - | 1,155.00 | 92,443.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505318998053/**5532\n/ROHIT KUMAR KUMAR/IMP",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 102443.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29 | 22/02/2025 | IMPS/48/505318998053/**5532\n/ROHIT KUMAR KUMAR/IMP | 505318998053 | - | 10,000.00 | 1,02,443.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "TRANSFER TO 60519659560 TO\nMrs. RAVAL PUNAMBEN\nLALABHAI",
+      "type": "debit",
+      "amount": 20000.0,
+      "balance": 82443.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "30 | 22/02/2025 | TRANSFER TO 60519659560 TO\nMrs. RAVAL PUNAMBEN\nLALABHAI | 20,000.00 | - | 82,443.00 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 505374566121/KKBK\n/LAKHAN RAJU TALAREJA/Sent\nus",
+      "type": "credit",
+      "amount": 150.0,
+      "balance": 82593.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "31 | 22/02/2025 | UPI 505374566121/KKBK\n/LAKHAN RAJU TALAREJA/Sent\nus | 505374566121 | - | 150.00 | 82,593.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "IMPS/48/505319055318/**/SRISHI\n/NA",
+      "type": "debit",
+      "amount": 518.0,
+      "balance": 82075.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "32 | 22/02/2025 | IMPS/48/505319055318/**/SRISHI\n/NA | 505319055318 | 518.00 | - | 82,075.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 172645060138/INDB\n/DHARMENDRA PATEL/Payment\nfro",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 87075.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "33 | 22/02/2025 | UPI 172645060138/INDB\n/DHARMENDRA PATEL/Payment\nfro | 172645060138 | - | 5,000.00 | 87,075.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI 170296428013/INDB\n/DHARMENDRA PATEL/Payment\nfro",
+      "type": "credit",
+      "amount": 600.0,
+      "balance": 87675.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "34 | 22/02/2025 | UPI 170296428013/INDB\n/DHARMENDRA PATEL/Payment\nfro | 170296428013 | - | 600.00 | 87,675.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505402100083/**/CANRA\n/NA",
+      "type": "debit",
+      "amount": 10.0,
+      "balance": 87665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "35 | 23/02/2025 | IMPS/48/505402100083/**/CANRA\n/NA | 505402100083 | 10.00 | - | 87,665.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505402890467/**3125\n/NIKHIL K SAYTA/IMPS",
+      "type": "credit",
+      "amount": 43000.0,
+      "balance": 130665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "36 | 23/02/2025 | IMPS/48/505402890467/**3125\n/NIKHIL K SAYTA/IMPS | 505402890467 | - | 43,000.00 | 1,30,665.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "NEFT MAHBN72025022304603699\nMr. AMIT KUMAR KAR\nSBIN0005862",
+      "type": "debit",
+      "amount": 101000.0,
+      "balance": 29665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "37 | 23/02/2025 | NEFT MAHBN72025022304603699\nMr. AMIT KUMAR KAR\nSBIN0005862 | MAHBN72025022304603699 | 1,01,000.00 | - | 29,665.00 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505403890951/**3125\n/NIKHIL K SAYTA/IMPS",
+      "type": "credit",
+      "amount": 7000.0,
+      "balance": 36665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "38 | 23/02/2025 | IMPS/48/505403890951/**3125\n/NIKHIL K SAYTA/IMPS | 505403890951 | - | 7,000.00 | 36,665.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505403102016/**\n/NRUDRA/NA",
+      "type": "debit",
+      "amount": 19000.0,
+      "balance": 17665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "39 | 23/02/2025 | IMPS/48/505403102016/**\n/NRUDRA/NA | 505403102016 | 19,000.00 | - | 17,665.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505403102142/**/SUSHIL\n/NA",
+      "type": "debit",
+      "amount": 16000.0,
+      "balance": 1665.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "40 | 23/02/2025 | IMPS/48/505403102142/**/SUSHIL\n/NA | 505403102142 | 16,000.00 | - | 1,665.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 149393777464/SBIN/Piyush\nRankawat/Payment from",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 2665.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "41 | 23/02/2025 | UPI 149393777464/SBIN/Piyush\nRankawat/Payment from | 149393777464 | - | 1,000.00 | 2,665.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505432109435/JIOP/Tushar\nMittal/Paid via Navi",
+      "type": "credit",
+      "amount": 2655.0,
+      "balance": 5320.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "42 | 23/02/2025 | UPI 505432109435/JIOP/Tushar\nMittal/Paid via Navi | 505432109435 | - | 2,655.00 | 5,320.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505408988507/**5559\n/GADI SRIKANTH/GADI SRN",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 30320.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "43 | 23/02/2025 | IMPS/48/505408988507/**5559\n/GADI SRIKANTH/GADI SRN | 505408988507 | - | 25,000.00 | 30,320.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505408993568/**5209\n/BHAVESH SINGH/KKBKTran",
+      "type": "credit",
+      "amount": 9000.0,
+      "balance": 39320.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "44 | 23/02/2025 | IMPS/48/505408993568/**5209\n/BHAVESH SINGH/KKBKTran | 505408993568 | - | 9,000.00 | 39,320.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505408994036/**5209\n/BHAVESH SINGH/KKBKTran",
+      "type": "credit",
+      "amount": 6000.0,
+      "balance": 45320.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "45 | 23/02/2025 | IMPS/48/505408994036/**5209\n/BHAVESH SINGH/KKBKTran | 505408994036 | - | 6,000.00 | 45,320.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 363551062814/BARB/LOKESH\nREBARI/Payment from P",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 65320.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "46 | 23/02/2025 | UPI 363551062814/BARB/LOKESH\nREBARI/Payment from P | 363551062814 | - | 20,000.00 | 65,320.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 542082986336/BARB/ANIKET\nGUPTA S O ASHOK KUMAR",
+      "type": "credit",
+      "amount": 15781.0,
+      "balance": 81101.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "47 | 23/02/2025 | UPI 542082986336/BARB/ANIKET\nGUPTA S O ASHOK KUMAR | 542082986336 | - | 15,781.00 | 81,101.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 772726441001/CBIN/Mr ARPIT\nKAPOOR/Payment from",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 91101.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "48 | 23/02/2025 | UPI 772726441001/CBIN/Mr ARPIT\nKAPOOR/Payment from | 772726441001 | - | 10,000.00 | 91,101.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505404233522/BARB/ANIKET\nGUPTA S O ASHOK KUMAR",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 111101.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "49 | 23/02/2025 | UPI 505404233522/BARB/ANIKET\nGUPTA S O ASHOK KUMAR | 505404233522 | - | 20,000.00 | 1,11,101.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 076050747567/YESB/VIVEK\nKUMAR/Payment from Pho",
+      "type": "credit",
+      "amount": 210.0,
+      "balance": 111311.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "50 | 23/02/2025 | UPI 076050747567/YESB/VIVEK\nKUMAR/Payment from Pho | 076050747567 | - | 210.00 | 1,11,311.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 292362958873/BKID/TEJRAM\nMINA SO SURESH CHAND",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 113311.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "51 | 23/02/2025 | UPI 292362958873/BKID/TEJRAM\nMINA SO SURESH CHAND | 292362958873 | - | 2,000.00 | 1,13,311.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505475290353/YESB/ARPIT\nMAHESHWARI/NA",
+      "type": "credit",
+      "amount": 18800.0,
+      "balance": 132111.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "52 | 23/02/2025 | UPI 505475290353/YESB/ARPIT\nMAHESHWARI/NA | 505475290353 | - | 18,800.00 | 1,32,111.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505481967465/SBIN/Saksham\nKhandelwal/Sent usin",
+      "type": "credit",
+      "amount": 7000.0,
+      "balance": 139111.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "53 | 23/02/2025 | UPI 505481967465/SBIN/Saksham\nKhandelwal/Sent usin | 505481967465 | - | 7,000.00 | 1,39,111.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 926027994664/IBKL/SHIVAM\nKUMAR/Payment from Ph",
+      "type": "credit",
+      "amount": 1100.0,
+      "balance": 140211.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "54 | 23/02/2025 | UPI 926027994664/IBKL/SHIVAM\nKUMAR/Payment from Ph | 926027994664 | - | 1,100.00 | 1,40,211.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505410864527/**2805\n/MAHAMMAD NAZEER/Coffee",
+      "type": "credit",
+      "amount": 48000.0,
+      "balance": 188211.0,
+      "category": "charges",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "55 | 23/02/2025 | IMPS/48/505410864527/**2805\n/MAHAMMAD NAZEER/Coffee | 505410864527 | - | 48,000.00 | 1,88,211.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505410130765/**\n/SARSWATI/NA",
+      "type": "debit",
+      "amount": 150000.0,
+      "balance": 38211.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "56 | 23/02/2025 | IMPS/48/505410130765/**\n/SARSWATI/NA | 505410130765 | 1,50,000.00 | - | 38,211.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505411397466/**1672\n/HEMENDRA KUMAR/Sent vi",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 43211.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "57 | 23/02/2025 | IMPS/48/505411397466/**1672\n/HEMENDRA KUMAR/Sent vi | 505411397466 | - | 5,000.00 | 43,211.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 960467917274/INDB/KABIR\nSHAIKH MEHMOOD SHAIKH/",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 45211.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "58 | 23/02/2025 | UPI 960467917274/INDB/KABIR\nSHAIKH MEHMOOD SHAIKH/ | 960467917274 | - | 2,000.00 | 45,211.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 296535382949/IPOS/NITESH\nKUMAR/Payment from Ph",
+      "type": "credit",
+      "amount": 2500.0,
+      "balance": 47711.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "59 | 23/02/2025 | UPI 296535382949/IPOS/NITESH\nKUMAR/Payment from Ph | 296535382949 | - | 2,500.00 | 47,711.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 924408959690/SBIN\n/KAMLESH TIWARI/Payment from",
+      "type": "credit",
+      "amount": 4300.0,
+      "balance": 52011.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "60 | 23/02/2025 | UPI 924408959690/SBIN\n/KAMLESH TIWARI/Payment from | 924408959690 | - | 4,300.00 | 52,011.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 901431777922/SBIN\n/KULDEEP VISHNOI/Payment from",
+      "type": "credit",
+      "amount": 3600.0,
+      "balance": 55611.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "61 | 23/02/2025 | UPI 901431777922/SBIN\n/KULDEEP VISHNOI/Payment from | 901431777922 | - | 3,600.00 | 55,611.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 542060992333/KKBK\n/GANGESWAR/UPI",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 55612.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "62 | 23/02/2025 | UPI 542060992333/KKBK\n/GANGESWAR/UPI | 542060992333 | - | 1.00 | 55,612.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505401000229/KKBK\n/GANGESWAR/UPI",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 58612.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "63 | 23/02/2025 | UPI 505401000229/KKBK\n/GANGESWAR/UPI | 505401000229 | - | 3,000.00 | 58,612.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505412137588/**//NA",
+      "type": "debit",
+      "amount": 1500.0,
+      "balance": 57112.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "64 | 23/02/2025 | IMPS/48/505412137588/**//NA | 505412137588 | 1,500.00 | - | 57,112.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505412138162/**//NA",
+      "type": "debit",
+      "amount": 3000.0,
+      "balance": 54112.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "65 | 23/02/2025 | IMPS/48/505412138162/**//NA | 505412138162 | 3,000.00 | - | 54,112.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 580143867164/AIRP/Altaf Raja\nAnsari/Payment fr",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 56112.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "66 | 23/02/2025 | UPI 580143867164/AIRP/Altaf Raja\nAnsari/Payment fr | 580143867164 | - | 2,000.00 | 56,112.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 542066317712/DBSS/AMIT\nKUMAR MISHRA/UPI",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 59112.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "67 | 23/02/2025 | UPI 542066317712/DBSS/AMIT\nKUMAR MISHRA/UPI | 542066317712 | - | 3,000.00 | 59,112.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505483728799/SBIN/RITIK\nTIWARI/Sent using Payt",
+      "type": "credit",
+      "amount": 4400.0,
+      "balance": 63512.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "68 | 23/02/2025 | UPI 505483728799/SBIN/RITIK\nTIWARI/Sent using Payt | 505483728799 | - | 4,400.00 | 63,512.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505412217733/AIRP\n/MOHAMMAD SAJID/Payment\nfrom",
+      "type": "credit",
+      "amount": 231.0,
+      "balance": 63743.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "69 | 23/02/2025 | UPI 505412217733/AIRP\n/MOHAMMAD SAJID/Payment\nfrom | 505412217733 | - | 231.00 | 63,743.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505412411796/**1672\n/HEMENDRA KUMAR/Sent vi",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 68743.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "70 | 23/02/2025 | IMPS/48/505412411796/**1672\n/HEMENDRA KUMAR/Sent vi | 505412411796 | - | 5,000.00 | 68,743.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505412093275/**7969\n/RAJDEV VINOD/JKL",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 93743.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "71 | 23/02/2025 | IMPS/48/505412093275/**7969\n/RAJDEV VINOD/JKL | 505412093275 | - | 25,000.00 | 93,743.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505438766883/PUNB/PANKAJ\nMEENA SO RAMKESH MEEN",
+      "type": "credit",
+      "amount": 19000.0,
+      "balance": 112743.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "72 | 23/02/2025 | UPI 505438766883/PUNB/PANKAJ\nMEENA SO RAMKESH MEEN | 505438766883 | - | 19,000.00 | 1,12,743.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 486114457245/SBIN/Prince\nKumar/Payment from Ph",
+      "type": "credit",
+      "amount": 225.0,
+      "balance": 112968.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "73 | 23/02/2025 | UPI 486114457245/SBIN/Prince\nKumar/Payment from Ph | 486114457245 | - | 225.00 | 1,12,968.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505463162442/PUNB/PANKAJ\nMEENA SO RAMKESH MEEN",
+      "type": "credit",
+      "amount": 31000.0,
+      "balance": 143968.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "74 | 23/02/2025 | UPI 505463162442/PUNB/PANKAJ\nMEENA SO RAMKESH MEEN | 505463162442 | - | 31,000.00 | 1,43,968.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505412099674/**2442\n/RAJU PRASAD BHAGAT/KKB",
+      "type": "credit",
+      "amount": 38000.0,
+      "balance": 181968.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "75 | 23/02/2025 | IMPS/48/505412099674/**2442\n/RAJU PRASAD BHAGAT/KKB | 505412099674 | - | 38,000.00 | 1,81,968.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 027059675269/FINO/Krishana\nBansal/Payment from",
+      "type": "credit",
+      "amount": 400.0,
+      "balance": 182368.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "76 | 23/02/2025 | UPI 027059675269/FINO/Krishana\nBansal/Payment from | 027059675269 | - | 400.00 | 1,82,368.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 100102612399/SBIN/SUJAY\nMAHATO/Pay to account",
+      "type": "credit",
+      "amount": 22000.0,
+      "balance": 204368.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "77 | 23/02/2025 | UPI 100102612399/SBIN/SUJAY\nMAHATO/Pay to account | 100102612399 | - | 22,000.00 | 2,04,368.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "NEFT MAHBN72025022304614026\nSARSWATI SRCB0000361",
+      "type": "debit",
+      "amount": 100000.0,
+      "balance": 104368.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "78 | 23/02/2025 | NEFT MAHBN72025022304614026\nSARSWATI SRCB0000361 | MAHBN72025022304614026 | 1,00,000.00 | - | 1,04,368.00 | Mobile Banking",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505413574124/**7549\n/SACHIN KUMAR/Rent",
+      "type": "credit",
+      "amount": 27001.0,
+      "balance": 131369.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "79 | 23/02/2025 | IMPS/48/505413574124/**7549\n/SACHIN KUMAR/Rent | 505413574124 | - | 27,001.00 | 1,31,369.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 513401034666/PUNB\n/RAJKISHOR KUMAR/Payment\nfrom",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 133369.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "80 | 23/02/2025 | UPI 513401034666/PUNB\n/RAJKISHOR KUMAR/Payment\nfrom | 513401034666 | - | 2,000.00 | 1,33,369.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505435531723/BARB/AMIT\nKUMAR/Paid via Navi",
+      "type": "credit",
+      "amount": 2500.0,
+      "balance": 135869.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "81 | 23/02/2025 | UPI 505435531723/BARB/AMIT\nKUMAR/Paid via Navi | 505435531723 | - | 2,500.00 | 1,35,869.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505413949620/**0001\n/DAYASHANKARGAUTAM/IMPS",
+      "type": "credit",
+      "amount": 35000.0,
+      "balance": 170869.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "82 | 23/02/2025 | IMPS/48/505413949620/**0001\n/DAYASHANKARGAUTAM/IMPS | 505413949620 | - | 35,000.00 | 1,70,869.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 278531058639/SBIN/Devkant\nPaleshwar/Payment fr",
+      "type": "credit",
+      "amount": 6200.0,
+      "balance": 177069.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "83 | 23/02/2025 | UPI 278531058639/SBIN/Devkant\nPaleshwar/Payment fr | 278531058639 | - | 6,200.00 | 1,77,069.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505413284138/AIRP\n/MOHAMMAD SAJID/Payment\nfrom",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 177569.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "84 | 23/02/2025 | UPI 505413284138/AIRP\n/MOHAMMAD SAJID/Payment\nfrom | 505413284138 | - | 500.00 | 1,77,569.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 061822144756/SBIN/Deepak\nKumar/Payment from Ph",
+      "type": "credit",
+      "amount": 4600.0,
+      "balance": 182169.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "85 | 23/02/2025 | UPI 061822144756/SBIN/Deepak\nKumar/Payment from Ph | 061822144756 | - | 4,600.00 | 1,82,169.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505413147819/**2445\n/MAYUR MANIYAR AND CO/I",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 192169.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "86 | 23/02/2025 | IMPS/48/505413147819/**2445\n/MAYUR MANIYAR AND CO/I | 505413147819 | - | 10,000.00 | 1,92,169.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505413127710/**6427\n/Mukul Soni/KKBKTransfe",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 212169.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "87 | 23/02/2025 | IMPS/48/505413127710/**6427\n/Mukul Soni/KKBKTransfe | 505413127710 | - | 20,000.00 | 2,12,169.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505454342528/UBIN\n/KULDEEP KUMAR GAUTAM\n/UPI",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 212170.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "88 | 23/02/2025 | UPI 505454342528/UBIN\n/KULDEEP KUMAR GAUTAM\n/UPI | 505454342528 | - | 1.00 | 2,12,170.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414149560/**\n/SARSWATI/NA",
+      "type": "debit",
+      "amount": 200000.0,
+      "balance": 12170.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "89 | 23/02/2025 | IMPS/48/505414149560/**\n/SARSWATI/NA | 505414149560 | 2,00,000.00 | - | 12,170.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 054447668165/HDFC\n/PUSHKAR GUPTA/Payment from P",
+      "type": "credit",
+      "amount": 100.0,
+      "balance": 12270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "90 | 23/02/2025 | UPI 054447668165/HDFC\n/PUSHKAR GUPTA/Payment from P | 054447668165 | - | 100.00 | 12,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505414318445/AIRP\n/MOHAMMAD SAJID/Payment\nfrom",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 12770.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "91 | 23/02/2025 | UPI 505414318445/AIRP\n/MOHAMMAD SAJID/Payment\nfrom | 505414318445 | - | 500.00 | 12,770.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414173264/**6694\n/MEENA VIKAS DIKOLIYA/I",
+      "type": "credit",
+      "amount": 40000.0,
+      "balance": 52770.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "92 | 23/02/2025 | IMPS/48/505414173264/**6694\n/MEENA VIKAS DIKOLIYA/I | 505414173264 | - | 40,000.00 | 52,770.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505485501942/KKBK\n/GHANSHYAM KUMAR/Sent\nusing P",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 53770.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "93 | 23/02/2025 | UPI 505485501942/KKBK\n/GHANSHYAM KUMAR/Sent\nusing P | 505485501942 | - | 1,000.00 | 53,770.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505415109682/AIRP/ANSH\nSINGH/UPI",
+      "type": "credit",
+      "amount": 2500.0,
+      "balance": 56270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "94 | 23/02/2025 | UPI 505415109682/AIRP/ANSH\nSINGH/UPI | 505415109682 | - | 2,500.00 | 56,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505491313809/UBIN/ANANDA\nCHANDRA PATRA/UPI",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 57270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "95 | 23/02/2025 | UPI 505491313809/UBIN/ANANDA\nCHANDRA PATRA/UPI | 505491313809 | - | 1,000.00 | 57,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414188124/**2805\n/MAHAMMAD NAZEER/Coffee",
+      "type": "credit",
+      "amount": 14000.0,
+      "balance": 71270.0,
+      "category": "charges",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "96 | 23/02/2025 | IMPS/48/505414188124/**2805\n/MAHAMMAD NAZEER/Coffee | 505414188124 | - | 14,000.00 | 71,270.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 213452080579/HDFC\n/PUSHKAR GUPTA/Payment from P",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 73270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "97 | 23/02/2025 | UPI 213452080579/HDFC\n/PUSHKAR GUPTA/Payment from P | 213452080579 | - | 2,000.00 | 73,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505464396286/FINO/Ujjwal\nAnand/Sent using Payt",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 76270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "98 | 23/02/2025 | UPI 505464396286/FINO/Ujjwal\nAnand/Sent using Payt | 505464396286 | - | 3,000.00 | 76,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414139418/**1373\n/Sanket Sen/KKBKTransfe",
+      "type": "credit",
+      "amount": 14000.0,
+      "balance": 90270.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "99 | 23/02/2025 | IMPS/48/505414139418/**1373\n/Sanket Sen/KKBKTransfe | 505414139418 | - | 14,000.00 | 90,270.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505464425727/PUNB/MOHD\nSAMEER/Sent using Paytm",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 92270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "100 | 23/02/2025 | UPI 505464425727/PUNB/MOHD\nSAMEER/Sent using Paytm | 505464425727 | - | 2,000.00 | 92,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414141280/**8005\n/ABHISHEK OLA/KKBKTrans",
+      "type": "credit",
+      "amount": 13000.0,
+      "balance": 105270.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "101 | 23/02/2025 | IMPS/48/505414141280/**8005\n/ABHISHEK OLA/KKBKTrans | 505414141280 | - | 13,000.00 | 1,05,270.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505485828166/SBIN/NITESH\nKHANDELWAL/Sent using",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 108270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "102 | 23/02/2025 | UPI 505485828166/SBIN/NITESH\nKHANDELWAL/Sent using | 505485828166 | - | 3,000.00 | 1,08,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 300276629606/BARB/ROHIT\nKUMAR KUNWAR/Payment f",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 113270.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "103 | 23/02/2025 | UPI 300276629606/BARB/ROHIT\nKUMAR KUNWAR/Payment f | 300276629606 | - | 5,000.00 | 1,13,270.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "NEFT SRCBN52025022305174102\nMAHBN72025022304614026\nSRCB0000361",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 213270.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "104 | 23/02/2025 | NEFT SRCBN52025022305174102\nMAHBN72025022304614026\nSRCB0000361 | SRCBN52025022305174102 | - | 1,00,000.00 | 2,13,270.00 | 9008-NEFT/ RTGS CELL",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 002292618343/SBIN/Piyush\nRankawat/Payment from",
+      "type": "credit",
+      "amount": 300.0,
+      "balance": 213570.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "105 | 23/02/2025 | UPI 002292618343/SBIN/Piyush\nRankawat/Payment from | 002292618343 | - | 300.00 | 2,13,570.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 069685197650/IPOS/AYAN\nAHMED/Payment from Phon",
+      "type": "credit",
+      "amount": 2500.0,
+      "balance": 216070.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "106 | 23/02/2025 | UPI 069685197650/IPOS/AYAN\nAHMED/Payment from Phon | 069685197650 | - | 2,500.00 | 2,16,070.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 032592430233/CBIN/Mr VIPIN\nMANN SO MAN MOHAN/P",
+      "type": "credit",
+      "amount": 4000.0,
+      "balance": 220070.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "107 | 23/02/2025 | UPI 032592430233/CBIN/Mr VIPIN\nMANN SO MAN MOHAN/P | 032592430233 | - | 4,000.00 | 2,20,070.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 010594529660/BKID/HEMANT\nKUMAR SO K K JHA/Paym",
+      "type": "credit",
+      "amount": 4000.0,
+      "balance": 224070.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "108 | 23/02/2025 | UPI 010594529660/BKID/HEMANT\nKUMAR SO K K JHA/Paym | 010594529660 | - | 4,000.00 | 2,24,070.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 883401900458/SBIN/Prashant\n/Payment from PhoneP",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 227070.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "109 | 23/02/2025 | UPI 883401900458/SBIN/Prashant\n/Payment from PhoneP | 883401900458 | - | 3,000.00 | 2,27,070.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414709730/**1237/Mr\nRushikesh Kulka/I",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 232070.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "110 | 23/02/2025 | IMPS/48/505414709730/**1237/Mr\nRushikesh Kulka/I | 505414709730 | - | 5,000.00 | 2,32,070.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505414154388/**\n/SARSWATI/NA",
+      "type": "debit",
+      "amount": 210000.0,
+      "balance": 22070.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "111 | 23/02/2025 | IMPS/48/505414154388/**\n/SARSWATI/NA | 505414154388 | 2,10,000.00 | - | 22,070.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 100471064694/BKID/HARSH\nDWIVEDI/UPI",
+      "type": "credit",
+      "amount": 101.0,
+      "balance": 22171.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "112 | 23/02/2025 | UPI 100471064694/BKID/HARSH\nDWIVEDI/UPI | 100471064694 | - | 101.00 | 22,171.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505486287178/SBIN\n/PRASHANT SHARMA/Sent using P",
+      "type": "credit",
+      "amount": 4500.0,
+      "balance": 26671.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "113 | 23/02/2025 | UPI 505486287178/SBIN\n/PRASHANT SHARMA/Sent using P | 505486287178 | - | 4,500.00 | 26,671.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 728225191625/FINO/Ravi\nPrakash Jain/Payment fr",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 29671.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "114 | 23/02/2025 | UPI 728225191625/FINO/Ravi\nPrakash Jain/Payment fr | 728225191625 | - | 3,000.00 | 29,671.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505415664776/**0000\n/VISHAL PAMNANI/P2AMOB",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 31671.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "115 | 23/02/2025 | IMPS/48/505415664776/**0000\n/VISHAL PAMNANI/P2AMOB | 505415664776 | - | 2,000.00 | 31,671.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505415159795/**1359\n/Aditya Pratap Singh/KK",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 51671.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "116 | 23/02/2025 | IMPS/48/505415159795/**1359\n/Aditya Pratap Singh/KK | 505415159795 | - | 20,000.00 | 51,671.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 288662795631/SBIN/Devkant\nPaleshwar/Payment fr",
+      "type": "credit",
+      "amount": 4300.0,
+      "balance": 55971.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "117 | 23/02/2025 | UPI 288662795631/SBIN/Devkant\nPaleshwar/Payment fr | 288662795631 | - | 4,300.00 | 55,971.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 331193052904/SBIN/Prashant\n/Payment from PhoneP",
+      "type": "credit",
+      "amount": 3000.0,
+      "balance": 58971.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "118 | 23/02/2025 | UPI 331193052904/SBIN/Prashant\n/Payment from PhoneP | 331193052904 | - | 3,000.00 | 58,971.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505415355086/**0252\n/GULSHAN SAHU/Transfer",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 108971.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "119 | 23/02/2025 | IMPS/48/505415355086/**0252\n/GULSHAN SAHU/Transfer | 505415355086 | - | 50,000.00 | 1,08,971.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505403069296/SBIN/Altamash\nSalim Radiowala/UPI",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 110971.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "120 | 23/02/2025 | UPI 505403069296/SBIN/Altamash\nSalim Radiowala/UPI | 505403069296 | - | 2,000.00 | 1,10,971.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505415443044/**6009\n/Anurag Kumar/Remarks",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 111471.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "121 | 23/02/2025 | IMPS/48/505415443044/**6009\n/Anurag Kumar/Remarks | 505415443044 | - | 500.00 | 1,11,471.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505415159948/**\n/NITSUMIT/NA",
+      "type": "debit",
+      "amount": 20500.0,
+      "balance": 90971.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "122 | 23/02/2025 | IMPS/48/505415159948/**\n/NITSUMIT/NA | 505415159948 | 20,500.00 | - | 90,971.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 872153805827/SBIN/RINKI\nDAS/Payment from Phone",
+      "type": "credit",
+      "amount": 320.0,
+      "balance": 91291.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "123 | 23/02/2025 | UPI 872153805827/SBIN/RINKI\nDAS/Payment from Phone | 872153805827 | - | 320.00 | 91,291.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 703246620812/SBIN/Prince\nKumar/Payment from Ph",
+      "type": "credit",
+      "amount": 100.0,
+      "balance": 91391.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "124 | 23/02/2025 | UPI 703246620812/SBIN/Prince\nKumar/Payment from Ph | 703246620812 | - | 100.00 | 91,391.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 036540827702/FINO/Ravi\nPrakash Jain/Payment fr",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 91891.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "125 | 23/02/2025 | UPI 036540827702/FINO/Ravi\nPrakash Jain/Payment fr | 036540827702 | - | 500.00 | 91,891.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 100050555680/HDFC/NIKHIL\nRAI/Nitin Book",
+      "type": "credit",
+      "amount": 31000.0,
+      "balance": 122891.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "126 | 23/02/2025 | UPI 100050555680/HDFC/NIKHIL\nRAI/Nitin Book | 100050555680 | - | 31,000.00 | 1,22,891.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505416166002/**//NA",
+      "type": "debit",
+      "amount": 1500.0,
+      "balance": 121391.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "127 | 23/02/2025 | IMPS/48/505416166002/**//NA | 505416166002 | 1,500.00 | - | 1,21,391.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505468237477/NSPB/TARUN\nKUMAR SAGAR/Sent from",
+      "type": "credit",
+      "amount": 1300.0,
+      "balance": 122691.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "128 | 23/02/2025 | UPI 505468237477/NSPB/TARUN\nKUMAR SAGAR/Sent from | 505468237477 | - | 1,300.00 | 1,22,691.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505416989840/**0216\n/ARUNKUMARJAISWAL/IMPS",
+      "type": "credit",
+      "amount": 10150.0,
+      "balance": 132841.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "129 | 23/02/2025 | IMPS/48/505416989840/**0216\n/ARUNKUMARJAISWAL/IMPS | 505416989840 | - | 10,150.00 | 1,32,841.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505416166603/**//NA",
+      "type": "debit",
+      "amount": 440.0,
+      "balance": 132401.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "130 | 23/02/2025 | IMPS/48/505416166603/**//NA | 505416166603 | 440.00 | - | 1,32,401.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505416166826/**\n/NNAMAN/NA",
+      "type": "debit",
+      "amount": 20000.0,
+      "balance": 112401.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "131 | 23/02/2025 | IMPS/48/505416166826/**\n/NNAMAN/NA | 505416166826 | 20,000.00 | - | 1,12,401.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505448342669/DBSS/AMIT\nKUMAR MISHRA/UPI",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 113401.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "132 | 23/02/2025 | UPI 505448342669/DBSS/AMIT\nKUMAR MISHRA/UPI | 505448342669 | - | 1,000.00 | 1,13,401.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 442008676678/SBIN/Prince\nKumar/Payment from Ph",
+      "type": "credit",
+      "amount": 100.0,
+      "balance": 113501.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "133 | 23/02/2025 | UPI 442008676678/SBIN/Prince\nKumar/Payment from Ph | 442008676678 | - | 100.00 | 1,13,501.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 101840135099/CBIN/Mr\nMURARI KUMAR YADAV/Paymen",
+      "type": "credit",
+      "amount": 600.0,
+      "balance": 114101.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "134 | 23/02/2025 | UPI 101840135099/CBIN/Mr\nMURARI KUMAR YADAV/Paymen | 101840135099 | - | 600.00 | 1,14,101.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 573346900011/YESB/VIVEK\nKUMAR/Payment from Pho",
+      "type": "credit",
+      "amount": 200.0,
+      "balance": 114301.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "135 | 23/02/2025 | UPI 573346900011/YESB/VIVEK\nKUMAR/Payment from Pho | 573346900011 | - | 200.00 | 1,14,301.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505417169194/**//NA",
+      "type": "debit",
+      "amount": 1855.0,
+      "balance": 112446.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "136 | 23/02/2025 | IMPS/48/505417169194/**//NA | 505417169194 | 1,855.00 | - | 1,12,446.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505417169483/**\n/SCHIRAG/NA",
+      "type": "debit",
+      "amount": 12000.0,
+      "balance": 100446.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "137 | 23/02/2025 | IMPS/48/505417169483/**\n/SCHIRAG/NA | 505417169483 | 12,000.00 | - | 1,00,446.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505466136390/BARB/ROHIT\nKUMAR KUNWAR/UPI",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 102446.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "138 | 23/02/2025 | UPI 505466136390/BARB/ROHIT\nKUMAR KUNWAR/UPI | 505466136390 | - | 2,000.00 | 1,02,446.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505417169747/**//NA",
+      "type": "debit",
+      "amount": 594.0,
+      "balance": 101852.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "139 | 23/02/2025 | IMPS/48/505417169747/**//NA | 505417169747 | 594.00 | - | 1,01,852.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505417963750/**1237/Mr\nRushikesh Kulka/I",
+      "type": "credit",
+      "amount": 20000.0,
+      "balance": 121852.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "140 | 23/02/2025 | IMPS/48/505417963750/**1237/Mr\nRushikesh Kulka/I | 505417963750 | - | 20,000.00 | 1,21,852.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505417170575/**//NA",
+      "type": "debit",
+      "amount": 1000.0,
+      "balance": 120852.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "141 | 23/02/2025 | IMPS/48/505417170575/**//NA | 505417170575 | 1,000.00 | - | 1,20,852.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 757635607881/BARB\n/PRASHANT KUMAR SINGH\n/Payment",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 121352.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "142 | 23/02/2025 | UPI 757635607881/BARB\n/PRASHANT KUMAR SINGH\n/Payment | 757635607881 | - | 500.00 | 1,21,352.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505418174164/**/ANNU\n/NA",
+      "type": "debit",
+      "amount": 4042.0,
+      "balance": 117310.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "143 | 23/02/2025 | IMPS/48/505418174164/**/ANNU\n/NA | 505418174164 | 4,042.00 | - | 1,17,310.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505418175425/**\n/NNAMAN/NA",
+      "type": "debit",
+      "amount": 20000.0,
+      "balance": 97310.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "144 | 23/02/2025 | IMPS/48/505418175425/**\n/NNAMAN/NA | 505418175425 | 20,000.00 | - | 97,310.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 505439274851/UTIB/AMIT\nMOTWANI/Sent using Payt",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 99310.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "145 | 23/02/2025 | UPI 505439274851/UTIB/AMIT\nMOTWANI/Sent using Payt | 505439274851 | - | 2,000.00 | 99,310.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 940526181275/UCBA/SHOAIB\nKHAN/Payment from Pho",
+      "type": "credit",
+      "amount": 100.0,
+      "balance": 99410.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "146 | 23/02/2025 | UPI 940526181275/UCBA/SHOAIB\nKHAN/Payment from Pho | 940526181275 | - | 100.00 | 99,410.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "UPI 664541274240/SBIN/Prince\nKumar/Payment from Ph",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 99910.0,
+      "category": "other",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "147 | 23/02/2025 | UPI 664541274240/SBIN/Prince\nKumar/Payment from Ph | 664541274240 | - | 500.00 | 99,910.00 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "description": "IMPS/48/505419180953/**\n/NONIHAR/NA",
+      "type": "debit",
+      "amount": 28930.0,
+      "balance": 70980.0,
+      "category": "transfer",
+      "holder_name": "Mr. DHORIYA NIKHIL",
+      "account_number": "60526233500",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "148 | 23/02/2025 | IMPS/48/505419180953/**\n/NONIHAR/NA | 505419180953 | 28,930.00 | - | 70,980.00 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "Page 5: 0 transactions detected after 44 on page 4 \u2014 possible missing or blank page.",
+    "AI Audit complete. Header Status: needs_review/deterministic"
+  ],
+  "raw_header_text": "Account Details\nAccount No 60526233500 Account Open Date 19/02/2025 Nomination Flag Y\nAccount Type PMJDY with Cheque Book Nominee Name HITESH DHORIYA\nMode of Operation OPERATING SINGLY Total Balance 0.05Available Balance 0.00\nQAB Required 50000.000QAB Maintained 0.050\nAccount Holder Names Mr. DHORIYA NIKHIL Primary GSTIN NA\nCustomer Details\nName Mr. DHORIYA NIKHIL CIF Number 40297032376\nMobile xxxxxxxxxx94 Email nxxxxxxxxxxxxxxxx@gmail.com\nKYC Complied Y KYC Expiry Date 18/02/2033 CKYC ID xxxxxxxxxx4747\nPrimary ID Type ADHAR WITH SAME ADDRESS Date of Birth 15xxxxxx01 Statement Date Thu Sep 18 14:45:38 GMT+05:30 2025\nAddress PLOT NO 179, MAHESHWARI NAGAR, GANDHI DHAM, GANDHIDHAM, GUJARAT, 00370201"
+}

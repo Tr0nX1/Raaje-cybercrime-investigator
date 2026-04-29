@@ -1,0 +1,9 @@
+pdfplumber==0.11.4
+PyMuPDF>=1.25.0
+easyocr==1.7.2
+pytesseract==0.3.13
+Pillow>=10.0.0
+pydantic>=2.8.0
+python-dateutil>=2.8.0
+tqdm>=4.66.0</content>
+<parameter name="filePath">d:\develop\ffa\SDR_mapping\main.py

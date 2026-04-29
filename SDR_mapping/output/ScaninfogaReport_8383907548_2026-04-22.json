@@ -1,0 +1,54 @@
+{
+  "source_file": "input\\ScaninfogaReport_8383907548_2026-04-22.pdf",
+  "report_type": "scaninfoga",
+  "extraction_method": "text",
+  "phone_number": "8383907548",
+  "report_generated_by": null,
+  "report_generation_datetime": null,
+  "operator_details": {
+    "operator": null,
+    "circle": null
+  },
+  "aliases": [],
+  "email_addresses": [],
+  "upi_vpa_accounts": [],
+  "locations": [],
+  "social_media_accounts": [],
+  "compromised_services": [],
+  "personal_details": {
+    "full_name": "Ravinder Rvinder",
+    "gender": null,
+    "date_of_birth": null,
+    "age": null,
+    "father_or_husband": null,
+    "aadhaar_number": null,
+    "pan_number": null,
+    "alternate_number": null,
+    "pan_link_email": null,
+    "other_email": "9971574814a@gmail.com",
+    "income": null,
+    "is_sole_proprietor": null,
+    "is_director": null
+  },
+  "security_scores": {
+    "security_score": 96,
+    "cibil_score": 0
+  },
+  "detection_summary": {
+    "total_accounts": 1,
+    "upi_platforms": 2,
+    "verified_checks": 13,
+    "suspected_detections": 0
+  },
+  "telecom_info": {
+    "number_active": false,
+    "country": "Country",
+    "country_prefix": "Yes India +91",
+    "is_roaming": null,
+    "subscriber_status": null,
+    "connection_type": null
+  },
+  "warnings": [
+    "Analysis: {\n  \"phone_region\": \"Unknown\",\n  \"security_risk\": \"Low Risk\",\n  \"data_completeness\": 0.42857142857142855\n}"
+  ]
+}

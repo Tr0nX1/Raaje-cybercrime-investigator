@@ -1,0 +1,15 @@
+# Centralized extraction patterns (simple YAML)
+phone_pattern: '(?:\+91[\s\-]?)?(\d{10})'
+email_pattern: '([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})'
+name_pattern: '(?:Name|Full Name|Customer Name)\s*[:\-]?\s*([A-Za-z\s]{2,100})'
+address_pattern: '(?:Address|Location|Current Address)\s*[:\-]?\s*(.+)'
+alias_pattern: 'alias\s*[:\-]?\s*(.+)'
+operator_pattern: 'operator\s*[:\-]?\s*(.+)'
+security_score_pattern: 'security score\s*[:\-]?\s*(\d+)'
+cibil_score_pattern: 'cibil score\s*[:\-]?\s*(\d+)'
+section_headers:
+  alias: 'Alias'
+  email: 'Email Address'
+  upi: 'UPI/VPA Accounts'
+  locations: 'Locations'
+  social_media: 'Social Media Account Identifiers'

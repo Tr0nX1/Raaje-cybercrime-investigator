@@ -1,0 +1,41 @@
+Comparing Full Details of Complaint Report Manish Tandon - Copy_phase1_test.json vs Audited_Transactions.json
+============================================================
+
+Total Transactions Audited: 299
+Transactions Changed: 7
+
+--- SNO: 11 (LAYERED) ---
+  Field: bank
+    - OLD: Paytm
+    + NEW: [AUDITED] Paytm
+
+--- SNO: 77 (LAYERED) ---
+  Field: bank
+    - OLD: PINE LABS
+    + NEW: [AUDITED] PINE LABS
+
+--- SNO: 82 (LAYERED) ---
+  Field: bank
+    - OLD: PINE LABS
+    + NEW: [AUDITED] PINE LABS
+
+--- SNO: 107 (LAYERED) ---
+  Field: bank
+    - OLD: Others
+    + NEW: [AUDITED] Others
+
+--- SNO: 109 (LAYERED) ---
+  Field: bank
+    - OLD: Others
+    + NEW: [AUDITED] Others
+
+--- SNO: 144 (LAYERED) ---
+  Field: bank
+    - OLD: Others
+    + NEW: [AUDITED] Others
+
+--- SNO: 147 (LAYERED) ---
+  Field: bank
+    - OLD: Others
+    + NEW: [AUDITED] Others
+

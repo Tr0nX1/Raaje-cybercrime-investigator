@@ -1,0 +1,3567 @@
+SNO: 1 | Bank: HDFC Bank | raw_text: 1 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5244045237
+32 | HDFC Bank
+Layer : 1 | 5020010204604
+0
+HDFC0000001 | 524404523732 | 01/09/2025
+12:00:00
+AM | 39,999.00 | 39,999.00 | IMPS/P2
+A/524404
+523732/H
+DFC/Kreo | In
+Bank
+SNO: 2 | Bank: Equitas Bank | raw_text: 2 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5244035224
+16 | Equitas Bank
+Layer : 1 | 200002922454
+ESFB0020002 | 524403522416 | 01/09/2025
+12:00:00
+AM | 1,00,000.00 | 1,00,000.00 | IMPS/P2
+A/524403
+522416/E
+SFB/KRE
+OVIAH | In
+Bank
+SNO: 3 | Bank: State Bank of India | raw_text: 3 | 5020010204
+6040
+5244045237
+32 | State Bank of India
+Layer : 2 | 38820619787
+SBIN0017634 | 524402150938 | 01/09/2025
+12:00:00
+PM | 50,000.00 | 36,060.52 | IMPS-524
+40215093
+8-NANDA
+L-SBIN-xx
+xxxxx9787
+-TT | H
+Bank
+SNO: 4 | Bank: Bank of Maharashtra | raw_text: 4 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5220045058
+17 | Bank of Maharashtra
+Layer : 1 | 60528910649
+MAHB0000262 | 522004505817 | 08/08/2025
+12:00:00
+AM | 35,000.00 | 35,000.00 | IMPS/P2
+A/522004
+505817/M
+AHB/pradi
+p | In
+Bank
+SNO: 5 | Bank: UCO Bank | raw_text: 5 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+8914100131
+58 | UCO Bank
+Layer : 1 | 2007021000312
+1
+UCBA0000001 | 891410013158 | 25/07/2025
+12:00:00
+AM | 22,000.00 | 22,000.00 | UPI/89141
+0013158/
+DR/Bank/
+UCBA/200
+70210003
+121 | In
+Bank
+SNO: 6 | Bank: State Bank of India | raw_text: 6 | 3882061978
+7
+5244021509
+38 | State Bank of India
+Layer : 3 | 0000003900662
+3374
+SBIN0017634 | 524450356015 | 01/09/2025
+01:56:11 PM | 50,000.00 | 35,730.87 | St
+Bank
+SNO: 7 | Bank: IDBI Bank | raw_text: 7 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5206451370
+99 | IDBI Bank
+Layer : 1 | 1960104000172
+899
+ibkl0000174 | 520645137099 | 25/07/2025
+12:00:00
+AM | 62,000.00 | 62,000.00 | UPI/52064
+5137099/
+DR/Amar/i
+bkl/96010
+40001728
+99 | In
+Bank
+SNO: 8 | Bank: Axis Bank | raw_text: 8 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+3865733853
+14 | Axis Bank
+Layer : 1 | 9240200602386
+77
+utib0000004 | 386573385314 | 15/07/2025
+12:00:00
+AM | 16,000.00 | 16,000.00 | UPI/38657
+3385314/
+DR/Yada/u
+tib/924020
+06023867
+7 | In
+Bank
+SNO: 9 | Bank: Kotak Mahindra Bank | raw_text: 9 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+3862085825
+03 | Kotak Mahindra Bank
+Layer : 1 | 7056528179
+kkbk0000261 | 386208582503 | 07/07/2025
+12:00:00
+AM | 20,000.00 | 20,000.00 | UPI/38620
+8582503/
+DR/Stee/k
+kbk/70565
+28179 | In
+Bank
+SNO: 10 | Bank: Yes Bank | raw_text: 10 | 3900662337
+4
+5244503560
+15 | Yes Bank
+Layer : 4 | 211071614
+YESB0PTMUPI | 290924147846 | 01/09/2025
+02:00:09
+PM | 47,000.00 | 28,578.92 | St
+Bank
+SNO: 11 | Bank: Paytm | raw_text: 11 | 211071614
+2909241478
+46 | Paytm
+Layer : 5 | 211071614 | 290924147846 | 01/09/2025
+02:00:09
+PM | 47,000.00 | 28,578.92 | Ye
+SNO: 12 | Bank: Bank of Maharashtra | raw_text: 12 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5187035064
+47 | Bank of Maharashtra
+Reassign Back To
+IndusInd Bank
+Date 13/09/2025
+Layer : 1 | 60537626860
+MAHB0001759 | 518703506447 | 24/07/2025
+12:00:00
+AM | 15,000.00 | 15,000.00 | IMPS/P2
+A/518703
+506447/M
+AHB/AABI
+D | In
+Bank
+SNO: 13 | Bank: Bank of Maharashtra | raw_text: 13 | 9240200602
+38677
+3865733853
+14 | Bank of Maharashtra
+Layer : 2 | 60538740695
+MAHB0002296 | 519663081710 | 15/07/2025
+12:00:00
+AM | 50,000.00 | 16,000.00 | pl marked
+on amount
+- 16000 | Ax
+SNO: 14 | Bank: HDFC Bank | raw_text: 14 | 6053874069
+5
+5196630817
+10 | HDFC Bank
+Layer : 3 | 5020008225421
+6
+HDFC0002195 | 519606155553 | 15/07/2025
+06:46:35
+AM | 30,000.00 | 16,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 15 | Bank: State Bank of India | raw_text: 15 | 5020008225
+4216
+5196061555
+53 | State Bank of India
+Layer : 4 | 0000003268046
+9661
+SBIN0002752 | 108122337652 | 15/07/2025
+12:00:00
+PM | 2,850.00 | 2,850.00 | UPI-CHIN
+NARI MA
+NIKANTH
+A-manikan
+ta.chinnari
+123@oksb
+i-SBIN000
+2752-1081
+22337652-
+UPI | H
+Bank
+SNO: 16 | Bank: State Bank of India | raw_text: 16 | 5020008225
+4216
+5196061555
+53 | State Bank of India
+Layer : 4 | 31139209880
+SBIN0002752 | 519609397571 | 15/07/2025
+12:00:00
+PM | 20,600.00 | 1,283.57 | IMPS-519
+60939757
+1-Santosh
+kumar b-S
+BIN-xxxxx
+xx9880-Nil | H
+Bank
+SNO: 17 | Bank: Yes Bank | raw_text: 17 | 2000029224
+54
+5244035224
+16 | Yes Bank
+Layer : 2 | 1482690000026
+3
+YESB0000148 | 524403718964 | 01/09/2025
+03:58:00
+AM | 1,00,000.00 | 1,00,000.00 | Available
+Bal (17472
+Positive) H
+old Placed
+for Rs 100
+000 | Eq
+Bank
+SNO: 18 | Bank: State Bank of India | raw_text: 18 | 3113920988
+0
+5196093975
+71 | State Bank of India
+Layer : 5 | 31428590152
+SBIN0000001 | 423160284388 | 15/07/2025
+02:09:53
+PM | 30,000.00 | 607.48 | St
+Bank
+SNO: 19 | Bank: HDFC Bank | raw_text: 19 | 3268046966
+1
+1081223376
+52 | HDFC Bank
+Layer : 5 | 5020007067961
+2
+HDFC0005138 | 449572541912 | 15/07/2025
+02:36:51
+PM | 17,000.00 | 1,176.70 | St
+Bank
+SNO: 20 | Bank: Andhra Pradesh Grameena | raw_text: 20 | 3268046966
+1
+1081223376
+52 | Andhra Pradesh Grameena
+Vikas Bank
+Layer : 5 | 0000007319764
+7369
+APGV0000001 | 516763789816 | 15/07/2025
+10:49:58
+AM | 850.00 | 850.00 | St
+Bank
+SNO: 21 | Bank: DCB Bank | raw_text: 21 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5167097698
+44 | DCB Bank
+Layer : 1 | 2811110000863
+1
+DCBL0000281 | 516709769844 | 16/06/2025
+12:00:00
+AM | 24,000.00 | 24,000.00 | IMPS/P2
+A/516709
+769844/D
+CBL/akasj | In
+Bank
+SNO: 22 | Bank: Tamilnad Mercantile Bank Ltd. | raw_text: 22 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5167027550
+07 | Tamilnad Mercantile Bank Ltd.
+Layer : 1 | 2115393199972
+33
+TMBL0000211 | 516702755007 | 16/06/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/516702
+755007/T
+MBL/madh
+av | In
+Bank
+SNO: 23 | Bank: Union Bank of India | raw_text: 23 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5167017547
+07 | Union Bank of India
+Layer : 1 | 2651111000039
+25
+UBIN0560677 | 516701754707 | 16/06/2024
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/516701
+754707/U
+BIN/jaivik | In
+Bank
+SNO: 24 | Bank: IndusInd Bank | raw_text: 24 | 2811110000
+8631
+5167097698
+44 | IndusInd Bank
+Layer : 2 | 159780821936
+INDB0001369 | 516709128565 | 16/06/2025
+01:14:00
+PM | 50,000.00 | 24,000.00 | disputed a
+mount rs 2
+4000 | DC
+(Deve
+Cred
+SNO: 25 | Bank: India Post Payments Bank | raw_text: 25 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+3737391629
+06 | India Post Payments Bank
+Layer : 1 | 029310194513
+IPOS0000001 | 373739162906 | 13/06/2025
+12:00:00
+AM | 7,000.00 | 7,000.00 | UPI/37373
+9162906/
+DR/AJAY/I
+POS/9039
+495936@i
+bl | In
+Bank
+SNO: 26 | Bank: Bank of Maharashtra | raw_text: 26 | 2115393199
+97233
+5167027550
+07 | Bank of Maharashtra
+Layer : 2 | 60396342184
+MAHB0002001 | TMBLR52025061600276521 | 16/06/2025
+08:59:00
+AM | 2,26,764.00 | 49,999.00 | TMBLR52
+02506160
+0276521 | Ta
+Merc
+Bank
+SNO: 27 | Bank: Canara Bank | raw_text: 27 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+1079784643
+69 | Canara Bank
+Layer : 1 | 2593101009579
+CNRB0000033 | 107978464369 | 13/06/2025
+12:00:00
+AM | 2,000.00 | 2,000.00 | UPI/10797
+8464369/
+DR/JATI/C
+NRB/3758
+61635@pt
+sbi | In
+Bank
+SNO: 28 | Bank: State Bank of India | raw_text: 28 | 6039634218
+4
+TMBLR5202
+5061600276
+521 | State Bank of India
+Layer : 3 | 0000003831679
+7880
+SBIN0005523 | 521252849773 | 16/06/2025
+09:05:37
+AM | 51,000.00 | 49,996.66 | UPI Trans
+actions | Ba
+Maha
+SNO: 29 | Bank: Axis Bank | raw_text: 29 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5164052192
+13 | Axis Bank
+Layer : 1 | 9240200602386
+77
+UTIB0003288 | 516405219213 | 13/06/2025
+12:00:00
+AM | 9,100.00 | 9,100.00 | IMPS/P2
+A/516405
+219213/U
+TIB/yadav | In
+Bank
+SNO: 30 | Bank: HDFC Bank | raw_text: 30 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5162078147
+88 | HDFC Bank
+Layer : 1 | 5020008569630
+1
+HDFC0009408 | 516207814788 | 11/06/2025
+12:00:00
+AM | 3,100.00 | 3,100.00 | IMPS/P2
+A/516207
+814788/H
+DFC/STO
+RE | In
+Bank
+SNO: 31 | Bank: Axis Bank | raw_text: 31 | 2593101009
+579
+1079784643
+69 | Axis Bank
+Layer : 2 | 9180201108720
+63
+UTIB0000553 | 687775809410 | 14/07/2025
+07:43:19
+PM | 1,290.00 | 1,290.00 | UPI/DR/68
+77758094
+10/SIMRA
+N KA/UTI
+B/**60073
+@OKBIZA
+XIS/SENT
+USI//PTM
+701046D1
+33A24526
+BD9F73C
+96AAD1B
+7E/14/07/
+2025 19:4
+3:19 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 32 | Bank: Google Pay | raw_text: 32 | 9180201108
+72063
+6877758094
+10 | Google Pay
+Layer : 3 | 9180201108720
+63 | 687775809410 | 14/07/2025
+07:43:19
+PM | 1,290.00 | 1,290.00 | UPI/DR/68
+77758094
+10/SIMRA
+N KA/UTI
+B/**60073
+@OKBIZA
+XIS/SENT
+USI//PTM
+701046D1
+33A24526
+BD9F73C
+96AAD1B
+7E/14/07/
+2025 19:4
+3:19 | Ax
+SNO: 33 | Bank: Canara Bank | raw_text: 33 | 5020008569
+6301
+5162078147
+88 | Canara Bank
+Layer : 2 | 110239900242
+CNRB0017134 | 516213100411 | 11/06/2025
+12:00:00
+PM | 50,000.00 | 3,100.00 | IMPS-516
+21310041
+1-Shahna
+waz-CNR
+B-xxxxxxx
+x0242-P | H
+Bank
+SNO: 34 | Bank: HDFC Bank | raw_text: 34 | 9180201108
+72063
+6877758094
+10 | HDFC Bank
+Layer : 4 | 5010066222022
+7
+hdfc0001348 | AXNGG19691445639 | 15/07/2025
+02:58:00
+AM | 1,540.00 | 1,290.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_N
+EFT | G
+Pay
+SNO: 35 | Bank: Punjab National Bank | raw_text: 35 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+7945778728
+19 | Punjab National Bank
+Layer : 1 | 0108000102437
+420
+PUNB0010800 | 794577872819 | 17/05/2025
+12:00:00
+AM | 9,500.00 | 9,500.00 | UPI/79457
+7872819/
+DR/PRIY/
+PUNB/002
+591778-2
+@ybl | In
+Bank
+SNO: 36 | Bank: Axis Bank | raw_text: 36 | 3831679788
+0
+5212528497
+73 | Axis Bank
+Layer : 4 | 9180201108720
+63
+UTIB0000553 | 463085241110 | 18/06/2025
+04:33:47
+PM | 9,240.00 | 9,240.00 | St
+Bank
+SNO: 37 | Bank: Yes Bank | raw_text: 37 | 3831679788
+0
+5212528497
+73 | Yes Bank
+Layer : 4 | 0014250000000
+51
+YESB0PTMUPI | 834258111255 | 17/06/2025
+11:51:11 AM | 2,549.00 | 2,549.00 | St
+Bank
+SNO: 38 | Bank: Yes Bank | raw_text: 38 | 3831679788
+0
+5212528497
+73 | Yes Bank
+Layer : 4 | 0014250000000
+51
+YESB0PTMUPI | 363461157129 | 18/06/2025
+11:22:23 AM | 1,458.00 | 1,458.00 | St
+Bank
+SNO: 39 | Bank: ICICI Bank | raw_text: 39 | 3831679788
+0
+5212528497
+73 | ICICI Bank
+Layer : 4 | 0103SL00IPAY
+ICIC0DC0099 | 685559279819 | 17/06/2025
+03:21:42
+PM | 825.00 | 825.00 | St
+Bank
+SNO: 40 | Bank: Bank of Maharashtra | raw_text: 40 | 3831679788
+0
+5212528497
+73 | Bank of Maharashtra
+Layer : 4 | 60396342184
+MAHB0002001 | 644023847894 | 18/06/2025
+06:05:44
+PM | 16,000.00 | 16,000.00 | St
+Bank
+SNO: 41 | Bank: Indian Overseas Bank | raw_text: 41 | 3831679788
+0
+5212528497
+73 | Indian Overseas Bank
+Layer : 4 | 2230010000033
+50
+IOBA0002230 | 094234769244 | 19/06/2025
+12:19:51
+PM | 6,000.00 | 6,000.00 | St
+Bank
+SNO: 42 | Bank: Punjab National Bank | raw_text: 42 | 3831679788
+0
+5212528497
+73 | Punjab National Bank
+Layer : 4 | 0293201700105
+918
+PUNB0029320 | 760124466220 | 20/06/2025
+03:51:41
+PM | 4,000.00 | 4,000.00 | St
+Bank
+SNO: 43 | Bank: ICICI Bank | raw_text: 43 | 3831679788
+0
+5212528497
+73 | ICICI Bank
+Layer : 4 | 0103SL00IPAY
+ICIC0DC0099 | 835029550625 | 20/06/2025
+10:37:25
+AM | 3,510.00 | 3,510.00 | St
+Bank
+SNO: 44 | Bank: Bank of India | raw_text: 44 | 3831679788
+0
+5212528497
+73 | Bank of India
+Layer : 4 | 4347101100013
+39
+BKID0004347 | 474980225301 | 21/06/2025
+10:08:25
+AM | 5,000.00 | 4,575.64 | St
+Bank
+SNO: 45 | Bank: Yes Bank | raw_text: 45 | 3831679788
+0
+5212528497
+73 | Yes Bank
+Layer : 4 | 0014250000000
+51
+YESB0PTMUPI | 258663325599 | 17/06/2025
+02:35:09
+PM | 815.00 | 815.00 | St
+Bank
+SNO: 46 | Bank: Google Pay | raw_text: 46 | 9180201108
+72063
+4630852411
+10 | Google Pay
+Layer : 5 | 9180201108720
+63 | 463085241110 | 18/06/2025
+04:33:47
+PM | 9,240.00 | 9,240.00 | Ax
+SNO: 47 | Bank: Paytm | raw_text: 47 | 0014250000
+00051
+2586633255
+99 | Paytm
+Layer : 5 | 0014250000000
+51 | 258663325599 | 17/06/2025
+02:35:09
+PM | 815.00 | 815.00 | Ye
+SNO: 48 | Bank: Paytm | raw_text: 48 | 0014250000
+00051
+8342581112
+55 | Paytm
+Layer : 5 | 0014250000000
+51 | 834258111255 | 17/06/2025
+11:51:11 AM | 2,549.00 | 2,549.00 | Ye
+SNO: 49 | Bank: Paytm | raw_text: 49 | 0014250000
+00051
+3634611571
+29 | Paytm
+Layer : 5 | 0014250000000
+51 | 363461157129 | 18/06/2025
+11:22:23 AM | 1,458.00 | 1,458.00 | Ye
+SNO: 50 | Bank: Bank of Maharashtra | raw_text: 50 | 6039634218
+4
+6440238478
+94 | Bank of Maharashtra
+Layer : 5 | 60519636712
+MAHB0002001 | 24743490 | 18/06/2025
+06:07:41
+PM | 50,000.00 | 16,000.00 | Intra Trans
+fer | Ba
+Maha
+SNO: 51 | Bank: State Bank of India | raw_text: 51 | 9180201108
+72063
+4630852411
+10 | State Bank of India
+Layer : 6 | 0000003192310
+3101
+sbin0000162 | AXNGG17097295727 | 19/06/2025
+02:01:00
+AM | 1,47,379.00 | 9,240.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_N
+EFT | G
+Pay
+SNO: 52 | Bank: Yes Bank | raw_text: 52 | 0293201700
+105918
+7601244662
+20 | Yes Bank
+Layer : 5 | 0022611000000
+25
+YESB0YBLUPI | 553768436897 | 20/06/2025
+04:57:47
+PM | 890.00 | 890.00 | UPI:DR:P
+2M:N:MO
+BIN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 53 | Bank: Bank of Maharashtra | raw_text: 53 | 0293201700
+105918
+7601244662
+20 | Bank of Maharashtra
+Layer : 5 | 60534084590
+mahb0001306 | 553884285969 | 21/06/2025
+10:23:32
+PM | 699.00 | 699.00 | UPI:DR:P
+2A:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 54 | Bank: Union Bank of India | raw_text: 54 | 0293201700
+105918
+7601244662
+20 | Union Bank of India
+Layer : 5 | 5496020100134
+82
+UBIN0554961 | 517512500613 | 24/06/2025
+01:07:41
+PM | 500.00 | 500.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 55 | Bank: Axis Bank | raw_text: 55 | 0293201700
+105918
+7601244662
+20 | Axis Bank
+Layer : 5 | 9170100542268
+12
+UTIB0000213 | 517513606270 | 24/06/2025
+02:46:08
+PM | 1,000.00 | 452.99 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 56 | Bank: State Bank of India | raw_text: 56 | 0293201700
+105918
+7601244662
+20 | State Bank of India
+Layer : 5 | 0000003831679
+7880
+SBIN0005523 | 517149540138 | 20/06/2025
+03:55:24
+PM | 1,500.00 | 1,427.37 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 57 | Bank: PhonePe | raw_text: 57 | 0022611000
+00025
+5537684368
+97 | PhonePe
+Layer : 6 | 0022611000000
+25 | 553768436897 | 20/06/2025
+04:57:47
+PM | 890.00 | 890.00 | UPI:DR:P
+2M:N:MO
+BIN | Ye
+SNO: 58 | Bank: Yes Bank | raw_text: 58 | 0108000102
+437420
+7945778728
+19 | Yes Bank
+Layer : 2 | 0022611000000
+25
+YESB0YBLUPI | 763106671510 | 17/05/2025
+05:00:57
+PM | 582.00 | 165.56 | UPI:DR:P
+2M:N:MO
+BIN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 59 | Bank: Yes Bank | raw_text: 59 | 0108000102
+437420
+7945778728
+19 | Yes Bank
+Layer : 2 | 0022611000000
+25
+YESB0YBLUPI | 211706355292 | 19/05/2025
+12:21:05
+PM | 850.00 | 850.00 | UPI:DR:P
+2M:N:MO
+BIN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 60 | Bank: Fino Payments Bank | raw_text: 60 | 0108000102
+437420
+7945778728
+19 | Fino Payments Bank
+Layer : 2 | 20355329498
+FINO0000001 | 093169829732 | 17/05/2025
+07:01:12
+PM | 1,870.00 | 1,870.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 61 | Bank: IDBI Bank | raw_text: 61 | 0108000102
+437420
+7945778728
+19 | IDBI Bank
+Layer : 2 | 1836104000039
+376
+IBKL0001836 | 958054535255 | 20/05/2025
+06:56:33
+PM | 2,300.00 | 713.70 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 62 | Bank: State Bank of India | raw_text: 62 | 0108000102
+437420
+7945778728
+19 | State Bank of India
+Layer : 2 | 0000004146704
+1214
+SBIN0006020 | 109067478868 | 18/05/2025
+10:09:37
+PM | 500.00 | 500.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 63 | Bank: Indian Bank | raw_text: 63 | 0108000102
+437420
+7945778728
+19 | Indian Bank
+Layer : 2 | 50489613065
+IDIB000T578 | 148377156761 | 19/05/2025
+11:50:58 AM | 700.00 | 700.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 64 | Bank: HDFC Bank | raw_text: 64 | 0108000102
+437420
+7945778728
+19 | HDFC Bank
+Layer : 2 | 5010080901499
+7
+HDFC0004110 | 144252587594 | 17/05/2025
+11:11:50 PM | 1,000.00 | 1,000.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 65 | Bank: Central Bank of India | raw_text: 65 | 0108000102
+437420
+7945778728
+19 | Central Bank of India
+Layer : 2 | 0000000351158
+3263
+CBIN0281405 | 494833077319 | 17/05/2025
+11:18:37 PM | 500.00 | 500.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 66 | Bank: Canara Bank | raw_text: 66 | 0108000102
+437420
+7945778728
+19 | Canara Bank
+Layer : 2 | 110210301603
+CNRB0019192 | 427502632494 | 20/05/2025
+11:05:27 AM | 830.00 | 830.00 | UPI:DR:P
+2M:N:MO
+BIN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 67 | Bank: Airtel Payments Bank | raw_text: 67 | 0108000102
+437420
+7945778728
+19 | Airtel Payments Bank
+Layer : 2 | 9266334738
+AIRP0000001 | 524039918550 | 18/05/2025
+10:56:14
+AM | 1,000.00 | 1,000.00 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 68 | Bank: Bank of Maharashtra | raw_text: 68 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+1392361013
+91 | Bank of Maharashtra
+Layer : 1 | 60407797256
+MAHB0000001 | 139236101391 | 29/04/2025
+12:00:00
+AM | 99,999.00 | 99,999.00 | UPI/13923
+6101391/
+DR/Bank/I
+NDB/6040
+7797256 | In
+Bank
+SNO: 69 | Bank: PhonePe | raw_text: 69 | 0022611000
+00025
+2117063552
+92 | PhonePe
+Layer : 3 | 0022611000000
+25 | 211706355292 | 19/05/2025
+12:21:05
+PM | 850.00 | 850.00 | UPI:DR:P
+2M:N:MO
+BIN | Ye
+SNO: 70 | Bank: PhonePe | raw_text: 70 | 0022611000
+00025
+7631066715
+10 | PhonePe
+Layer : 3 | 0022611000000
+25 | 763106671510 | 17/05/2025
+05:00:57
+PM | 582.00 | 165.56 | UPI:DR:P
+2M:N:MO
+BIN | Ye
+SNO: 71 | Bank: Canara Bank | raw_text: 71 | 9266334738
+5240399185
+50 | Canara Bank
+Layer : 3 | 110042032744
+CNRB0000033 | 404121232409 | 31/05/2025
+10:31:00
+AM | 1,600.00 | 1,000.00 | Ai
+Paym
+Bank
+SNO: 72 | Bank: State Bank of India | raw_text: 72 | 9170100542
+26812
+5175136062
+70 | State Bank of India
+Layer : 6 | 0000004172263
+8584
+SBIN0002074 | 554172674761 | 24/06/2025
+02:51:00
+PM | 1,000.00 | 452.99 | gavishek7
+50-2@okic
+ici | Ax
+SNO: 73 | Bank: State Bank of India | raw_text: 73 | 1102103016
+03
+4275026324
+94 | State Bank of India
+Layer : 3 | 0000003755595
+8730
+SBIN0016238 | 172192312325 | 22/05/2025
+01:46:06
+PM | 9,000.00 | 830.00 | UPI/DR/17
+21923123
+25/NISHA
+KU/SBIN/*
+*71175@A
+XL/PAYM
+ENT //AXL
+A8FC1447
+09204EC9
+AA98BB1
+6D1197F4
+1/22/05/20
+25 13:46:0
+6 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 74 | Bank: Kotak Mahindra Bank | raw_text: 74 | 0022611000
+00025
+2117063552
+92 | Kotak Mahindra Bank
+Layer : 4 | 4346517406
+KKBK0000199 | YESPH51401705542 | 20/05/2025
+05:29:00
+AM | 850.00 | 850.00 | Merchant
+Name: SU
+RENDER
+KUIMAR S
+AH, Merch
+ant Phon
+e: 892972
+9411. T25
+05191220
+58662794
+8424, the i
+nformation
+shared per
+tains to th
+e settleme
+nt made to
+the merch
+ant's acco
+unt. The a
+mount sho
+wn in the
+'Transactio
+n Amount'
+field is the
+disputed tr
+ansaction
+value and
+the amoun
+t settled to
+the merch
+ant accou
+nt is INR 4
+299.00, an
+d the disp
+uted amou
+nt is part o
+f the total
+settled am
+ount.T250
+51912205
+86627948
+424, TXS
+CAN2505
+19122043
+95937707
+92 | Ph
+SNO: 75 | Bank: Canara Bank | raw_text: 75 | 9266334738
+5240399185
+50 | Canara Bank
+Layer : 3 | 110042032744
+CNRB0000033 | 404121232409 | 31/05/2025
+10:31:03
+AM | 1,600.00 | 650.00 | Ai
+Paym
+Bank
+SNO: 76 | Bank: Airtel Payments Bank | raw_text: 76 | 2035532949
+8
+0931698297
+32 | Airtel Payments Bank
+Layer : 3 | 1000955658
+AIRP0000001 | 921858860497 | 18/05/2025
+01:34:50
+PM | 9,800.00 | 1,781.32 | Statement
+Ending Bal
+ance =13.
+43 | Fi
+Paym
+Bank
+SNO: 77 | Bank: PINE LABS | raw_text: 77 | 0103SL00IP
+AY
+6855592798
+19 | PINE LABS
+Layer : 5 | 0103SL00IPAY | 685559279819 | 17/06/2025
+12:23:00
+PM | 825.00 | 825.00 | pinelabs.1
+950087@i
+cici | IC
+Bank
+SNO: 78 | Bank: IndusInd Bank | raw_text: 78 | 9240200602
+38677
+5164052192
+13 | IndusInd Bank
+Layer : 2 | 159963813234
+INDB0001771 | 516407672101 | 13/06/2025
+07:48:00
+AM | 32,100.00 | 9,100.00 | GADIPALL
+Y | Ax
+SNO: 79 | Bank: Canara Bank | raw_text: 79 | 6040779725
+6
+1392361013
+91 | Canara Bank
+Layer : 2 | 7586231000163
+6
+CNRB0001420 | MAHBN72025042911482019 | 29/04/2025
+06:18:53
+AM | 3,10,000.00 | 99,985.14 | NEFT RT
+GS Transa
+ctions | Ba
+Maha
+SNO: 80 | Bank: State Bank of India | raw_text: 80 | 6051963671
+2
+24743490 | State Bank of India
+Layer : 6 | 11719988640
+SBIN0007123 | MAHBN72025061816220358 | 18/06/2025
+06:09:46
+PM | 28,300.00 | 16,000.00 | NEFT RT
+GS Transa
+ctions | Ba
+Maha
+SNO: 81 | Bank: State Bank of India | raw_text: 81 | 1836104000
+039376
+9580545352
+55 | State Bank of India
+Layer : 3 | 0000003289577
+7047
+SBIN0012572 | 804483505779 | 20/05/2025
+12:00:00
+AM | 985.00 | 505.60 | UPI/80448
+3505779/
+ASHISH K
+UMAR | ID
+SNO: 82 | Bank: PINE LABS | raw_text: 82 | 0103SL00IP
+AY
+8350295506
+25 | PINE LABS
+Layer : 5 | 0103SL00IPAY | 835029550625 | 20/06/2025
+12:25:00
+PM | 3,510.00 | 3,510.00 | pinelabs.1
+950087@i
+cici | IC
+Bank
+SNO: 83 | Bank: Bank of India | raw_text: 83 | 3831679788
+0
+5171495401
+38 | Bank of India
+Layer : 6 | 4347101100013
+39
+BKID0004347 | 474980225301 | 21/06/2025
+10:08:25
+AM | 5,000.00 | 1,427.37 | St
+Bank
+SNO: 84 | Bank: Canara Bank | raw_text: 84 | 1100420327
+44
+4041212324
+09 | Canara Bank
+Layer : 4 | 110042301785
+CNRB0000033 | 095659599312 | 27/06/2025
+03:47:27
+PM | 7,785.00 | 19.49 | UPI/DR/09
+56595993
+12/SANJA
+Y K/CNR
+B/**63347
+@IBL/PAY
+MENT //IB
+L1779AF7
+A9C2A4E
+A88BE111
+471699BA
+E9/27/06/
+2025 15:4
+7:27 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 85 | Bank: HDFC Bank | raw_text: 85 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+8809848855
+38 | HDFC Bank
+Layer : 1 | 1343193001325
+1
+HDFC0001343 | 880984885538 | 02/04/2025
+12:00:00
+AM | 50,000.00 | 50,000.00 | In
+Bank
+SNO: 86 | Bank: ICICI Bank | raw_text: 86 | 4347101100
+01339
+4749802253
+01 | ICICI Bank
+Layer : 7 | 0103SL00IPAY
+ICIC0DC0099 | 554092627338 | 23/06/2025
+07:06:21
+AM | 1,890.00 | 1,890.00 | Money Tra
+nsfer Thro
+ugh UPI. | Ba
+India
+SNO: 87 | Bank: ICICI Bank | raw_text: 87 | 4347101100
+01339
+4749802253
+01 | ICICI Bank
+Layer : 7 | 0103SL00IPAY
+ICIC0DC0099 | 554048705304 | 23/06/2025
+05:06:43
+AM | 1,782.90 | 1,782.90 | Money Tra
+nsfer Thro
+ugh UPI. | Ba
+India
+SNO: 88 | Bank: Indian Bank | raw_text: 88 | 1343193001
+3251
+8809848855
+38 | Indian Bank
+Layer : 2 | 50286047382
+IDIB000P529 | 287656731900 | 04/07/2025
+12:42:00
+PM | 15,000.00 | 10,000.00 | UPI-MR S
+ALIM-964
+3115509@
+PTYES-ID
+IB000P52
+9-2876567
+31900-NA | H
+Bank
+SNO: 89 | Bank: State Bank of India | raw_text: 89 | 1343193001
+3251
+8809848855
+38 | State Bank of India
+Layer : 2 | 0000003790505
+7219
+SBIN0001785 | 687526882204 | 09/07/2025
+12:41:00
+PM | 40,000.00 | 40,000.00 | UPI-RIZW
+AN ALI-M
+ODRIZWA
+NSAIFI@
+OKSBI-SB
+IN000178
+5-6875268
+82204-SE
+NT USING
+PAYTM U | H
+Bank
+SNO: 90 | Bank: Bank of Maharashtra | raw_text: 90 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+7862470343
+98 | Bank of Maharashtra
+Layer : 1 | 60446069934
+MAHB0000001 | 786247034398 | 15/03/2025
+12:00:00
+AM | 11,111.00 | 11,111.00 | UPI/78624
+7034398/
+DR/Bank/
+MAHB/604
+46069934/
+Payment | In
+Bank
+SNO: 91 | Bank: Kotak Mahindra Bank | raw_text: 91 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+7820524994
+31 | Kotak Mahindra Bank
+Layer : 1 | 1349570179
+KKBK0000001 | 782052499431 | 24/02/2025
+12:00:00
+AM | 85,000.00 | 85,000.00 | UPI/78205
+2499431/
+DR/Bank/
+KKBK/134
+9570179/
+Payment f | In
+Bank
+SNO: 92 | Bank: Airtel Payments Bank | raw_text: 92 | 5028604738
+2
+2876567319
+00 | Airtel Payments Bank
+Layer : 3 | 8810357517
+AIRP0000001 | 287675959842 | 05/07/2025
+12:32:00
+PM | 5,000.00 | 5,000.00 | AIRP0000
+001/Tinku
+Kumar/XX
+XXX /8810
+357517@
+ptyes /UP
+I/2876759
+59842/NA
+/BRANCH
+: ATM SE
+RVICE BR
+ANCH 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 93 | Bank: State Bank of India | raw_text: 93 | 6044606993
+4
+7862470343
+98 | State Bank of India
+Layer : 2 | 61042261288
+SBIN0031239 | 507404018522 | 15/03/2025
+04:41:25
+AM | 25,000.00 | 11,111.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 94 | Bank: Axis Bank | raw_text: 94 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+7283396533
+83 | Axis Bank
+Layer : 1 | 9180201108720
+63
+UTIB0000553 | 728339653383 | 20/02/2025
+12:00:00
+AM | 50,000.00 | 50,000.00 | UPI/72833
+9653383/
+DR/Ghan/
+UTIB/4873
+4@okbiza
+xis/Paym | In
+Bank
+SNO: 95 | Bank: Google Pay | raw_text: 95 | 9180201108
+72063
+7283396533
+83 | Google Pay
+Layer : 2 | 9180201108720
+63
+UTIB0000553 | 728339653383 | 20/02/2025
+12:00:00
+AM | 50,000.00 | 50,000.00 | UPI/72833
+9653383/
+DR/Ghan/
+UTIB/4873
+4@okbiza
+xis/Paym | Ax
+SNO: 96 | Bank: Uttar Pradesh Co-operative | raw_text: 96 | 3790505721
+9
+6875268822
+04 | Uttar Pradesh Co-operative
+Bank Ltd.
+Layer : 3 | 0107122000000
+68
+UPCB00RAMPR | 521469701748 | 02/08/2025
+10:26:52
+AM | 850.00 | 850.00 | St
+Bank
+SNO: 97 | Bank: Yes Bank | raw_text: 97 | 3790505721
+9
+6875268822
+04 | Yes Bank
+Layer : 3 | 0022611000000
+25
+YESB0YBLUPI | 557958844334 | 01/08/2025
+06:38:18
+PM | 500.00 | 500.00 | St
+Bank
+SNO: 98 | Bank: Others | raw_text: 98 | 3790505721
+9
+6875268822
+04 | Others
+Layer : 3 | 100038288418
+ESFB0001001 | 457568329791 | 03/08/2025
+11:29:32 PM | 6,000.00 | 6,000.00 | St
+Bank
+SNO: 99 | Bank: HDFC Bank | raw_text: 99 | 3790505721
+9
+6875268822
+04 | HDFC Bank
+Reassign Back To
+State Bank of India
+Date 13/09/2025
+Layer : 3 | 5010078025510
+1
+HDFC0000808 | 558181274946 | 03/08/2025
+11:56:32 AM | 1,100.00 | 1,100.00 | St
+Bank
+SNO: 100 | Bank: HDFC Bank | raw_text: 100 | 3790505721
+9
+6875268822
+04 | HDFC Bank
+Reassign Back To
+State Bank of India
+Date 13/09/2025
+Layer : 3 | 5010078025510
+1
+HDFC0000808 | 558165358625 | 03/08/2025
+11:57:00 AM | 1,100.00 | 1,100.00 | St
+Bank
+SNO: 101 | Bank: Punjab National Bank | raw_text: 101 | 3790505721
+9
+6875268822
+04 | Punjab National Bank
+Layer : 3 | 7328001700079
+932
+PUNB0732800 | 502225492385 | 02/08/2025
+08:52:11 AM | 5,000.00 | 5,000.00 | St
+Bank
+SNO: 102 | Bank: Punjab National Bank | raw_text: 102 | 3790505721
+9
+6875268822
+04 | Punjab National Bank
+Layer : 3 | 7328000100089
+947
+PUNB0732800 | 557970250267 | 01/08/2025
+07:27:36
+PM | 4,000.00 | 4,000.00 | St
+Bank
+SNO: 103 | Bank: Punjab National Bank | raw_text: 103 | 3790505721
+9
+6875268822
+04 | Punjab National Bank
+Layer : 3 | 7769000100034
+144
+PUNB0776900 | 137778227137 | 02/08/2025
+04:25:13
+PM | 2,000.00 | 2,000.00 | St
+Bank
+SNO: 104 | Bank: HDFC Bank | raw_text: 104 | 3790505721
+9
+6875268822
+04 | HDFC Bank
+Layer : 3 | 5020009199206
+2
+HDFC0004720 | 558150567890 | 03/08/2025
+11:57:30 AM | 1,100.00 | 1,100.00 | St
+Bank
+SNO: 105 | Bank: Kotak Mahindra Bank | raw_text: 105 | 3790505721
+9
+6875268822
+04 | Kotak Mahindra Bank
+Layer : 3 | 8546845246
+KKBK0005042 | 558489444064 | 06/08/2025
+08:51:26
+AM | 10,000.00 | 8,231.73 | St
+Bank
+SNO: 106 | Bank: State Bank of India | raw_text: 106 | 3790505721
+9
+6875268822
+04 | State Bank of India
+Layer : 3 | 0000004358638
+0799
+SBIN0012516 | 521535173661 | 03/08/2025
+08:01:51
+AM | 2,000.00 | 2,000.00 | St
+Bank
+SNO: 107 | Bank: Others | raw_text: 107 | 0103SL00IP
+AY
+5540487053
+04 | Others
+AbhiBus
+Layer : 8 | 0103SL00IPAY | 554048705304 | 23/06/2025
+12:56:00
+PM | 1,782.90 | 1,782.90 | ixigo.abhib
+us@icici | IC
+Bank
+SNO: 108 | Bank: PhonePe | raw_text: 108 | 0022611000
+00025
+5579588443
+34 | PhonePe
+Layer : 4 | 0022611000000
+25 | 557958844334 | 01/08/2025
+06:38:18
+PM | 500.00 | 500.00 | Ye
+SNO: 109 | Bank: Others | raw_text: 109 | 0103SL00IP
+AY
+5540926273
+38 | Others
+AbhiBus
+Layer : 8 | 0103SL00IPAY | 554092627338 | 23/06/2025
+12:58:00
+PM | 1,890.00 | 1,890.00 | ixigo.abhib
+us@icici | IC
+Bank
+SNO: 110 | Bank: Ujjivan Small Finance Bank | raw_text: 110 | 9180201108
+72063
+7283396533
+83 | Ujjivan Small Finance Bank
+Ltd
+Layer : 3 | 1102110120069
+249
+ujvn0004468 | 505201380043 | 21/02/2025
+01:57:00
+AM | 52,000.00 | 50,000.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given. Tr
+ansaction t
+ype : IMP
+S | G
+Pay
+SNO: 111 | Bank: Bank of Baroda | raw_text: 111 | 8810357517
+2876759598
+42 | Bank of Baroda
+Layer : 4 | 4524010000347
+9
+BARB0DWADEL | 384636362748 | 05/07/2025
+01:35:33
+PM | 4,000.00 | 4,000.00 | Ai
+Paym
+Bank
+SNO: 112 | Bank: Canara Bank | raw_text: 112 | 7328001700
+079932
+5022254923
+85 | Canara Bank
+Layer : 4 | 3679101001246
+CNRB0000033 | 779884167294 | 02/08/2025
+12:57:54
+PM | 18,000.00 | 3,813.86 | UPI:DR:P
+2V:N:MOB
+IN | Pu
+Natio
+(inclu
+Orien
+of Co
+and U
+Bank
+SNO: 113 | Bank: Kotak Mahindra Bank | raw_text: 113 | 8810357517
+2876759598
+42 | Kotak Mahindra Bank
+Layer : 4 | 4050424878
+kkbk0000640 | 687679665154 | 12/07/2025
+06:02:27
+PM | 500.00 | 200.00 | Ai
+Paym
+Bank
+SNO: 114 | Bank: State Bank of India | raw_text: 114 | 8810357517
+2876759598
+42 | State Bank of India
+Layer : 4 | 0000004413528
+9263
+SBIN0000069 | 687355484253 | 05/07/2025
+02:29:28
+PM | 500.00 | 500.00 | Ai
+Paym
+Bank
+SNO: 115 | Bank: Yes Bank | raw_text: 115 | 8546845246
+5584894440
+64 | Yes Bank
+Layer : 4 | 0022611000000
+25
+YESB0YBLUPI | 521820681692 | 06/08/2025
+10:34:18
+PM | 500.00 | 189.29 | UPI/PHON
+EPE/5218
+20681692/
+Your walle
+t wil | Ko
+Mahi
+Bank
+SNO: 116 | Bank: PhonePe | raw_text: 116 | 0022611000
+00025
+5218206816
+92 | PhonePe
+Layer : 5 | 0022611000000
+25 | 521820681692 | 06/08/2025
+10:34:18
+PM | 500.00 | 189.29 | UPI/PHON
+EPE/5218
+20681692/
+Your walle
+t wil | Ye
+SNO: 117 | Bank: Axis Bank | raw_text: 117 | 6104226128
+8
+5074040185
+22 | Axis Bank
+Layer : 3 | 9180201108720
+63
+UTIB0000553 | 511572431256 | 25/04/2025
+10:54:16
+PM | 1,000.00 | 1,000.00 | St
+Bank
+SNO: 118 | Bank: Axis Bank | raw_text: 118 | 6104226128
+8
+5074040185
+22 | Axis Bank
+Layer : 3 | 9180201108720
+63
+UTIB0000553 | 511679012684 | 26/04/2025
+05:13:03
+PM | 500.00 | 500.00 | St
+Bank
+SNO: 119 | Bank: Axis Bank | raw_text: 119 | 6104226128
+8
+5074040185
+22 | Axis Bank
+Layer : 3 | 9180201108720
+63
+UTIB0000553 | 511566297319 | 25/04/2025
+03:16:00
+PM | 2,000.00 | 2,000.00 | St
+Bank
+SNO: 120 | Bank: Axis Bank | raw_text: 120 | 6104226128
+8
+5074040185
+22 | Axis Bank
+Layer : 3 | 9180201108720
+63
+UTIB0000553 | 511563864785 | 25/04/2025
+11:41:22 AM | 1,000.00 | 1,000.00 | St
+Bank
+SNO: 121 | Bank: Yes Bank | raw_text: 121 | 6104226128
+8
+5074040185
+22 | Yes Bank
+Reassign Back To
+State Bank of India
+Date 13/09/2025
+Layer : 3 | 211074071
+YESB0YESUPI | 507430137588 | 15/03/2025
+11:33:02 PM | 2,000.00 | 643.13 | St
+Bank
+SNO: 122 | Bank: Axis Bank | raw_text: 122 | 6104226128
+8
+5074040185
+22 | Axis Bank
+Layer : 3 | 9180201108720
+63
+UTIB0000553 | 511567411094 | 25/04/2025
+05:01:48
+PM | 800.00 | 800.00 | St
+Bank
+SNO: 123 | Bank: HDFC Bank | raw_text: 123 | 1597808219
+36
+5167091285
+65 | HDFC Bank
+Layer : 3 | 5010064520808
+2
+HDFC0008598 | 553365847843 | 16/06/2025
+12:00:00
+AM | 10,000.00 | 10,000.00 | UPI/55336
+5847843/
+DR/VASS/
+HDFC/i39
+3@okhdfc
+bank | In
+Bank
+SNO: 124 | Bank: Federal Bank | raw_text: 124 | 1597808219
+36
+5167091285
+65 | Federal Bank
+Layer : 3 | 1382020007013
+0
+FDRL0001382 | 516846463548 | 17/06/2025
+12:00:00
+AM | 18,000.00 | 12,000.00 | UPI/51684
+6463548/
+DR/KISH/
+FDRL/n8g
+7j97458@
+fbpe | In
+Bank
+SNO: 125 | Bank: Federal Bank | raw_text: 125 | 1597808219
+36
+5167091285
+65 | Federal Bank
+Layer : 3 | 1382020007013
+0
+FDRL0001382 | 516823964058 | 17/06/2025
+12:00:00
+AM | 2,000.00 | 2,000.00 | UPI/51682
+3964058/
+DR/KISH/
+FDRL/n8g
+7j97458@
+fbpe | In
+Bank
+SNO: 126 | Bank: Jammu and Kashmir Bank | raw_text: 126 | 1102110120
+069249
+5052013800
+43 | Jammu and Kashmir Bank
+Layer : 4 | 1009041300000
+041
+JAKA0AJMERR | 505301189155 | 22/02/2025
+12:00:00
+AM | 31,195.00 | 15,800.00 | MB/IMPS/
+50530118
+9155/GHA
+NSHYA/JA
+KA/XX090
+4/IMPS | Uj
+Smal
+Finan
+Ltd
+SNO: 127 | Bank: Bandhan Bank | raw_text: 127 | 1102110120
+069249
+5052013800
+43 | Bandhan Bank
+Layer : 4 | 5020002297363
+4
+bdbl0001470 | 505224945340 | 21/02/2025
+12:00:00
+AM | 19,200.00 | 19,200.00 | UPI/DR/50
+52249453
+40/. /BDB
+L/0022973
+634/UPI | Uj
+Smal
+Finan
+Ltd
+SNO: 128 | Bank: ICICI Bank | raw_text: 128 | 1102110120
+069249
+5052013800
+43 | ICICI Bank
+Layer : 4 | 777701196382
+icic0000051 | 505266747114 | 21/02/2025
+12:00:00
+AM | 15,000.00 | 15,000.00 | UPI/DR/50
+52667471
+14/DUMM
+Y NA/ICI
+C/7701196
+382/UPI | Uj
+Smal
+Finan
+Ltd
+SNO: 129 | Bank: Google Pay | raw_text: 129 | 9180201108
+72063
+5115662973
+19 | Google Pay
+Layer : 4 | 9180201108720
+63 | 511566297319 | 25/04/2025
+03:16:00
+PM | 2,000.00 | 2,000.00 | Ax
+SNO: 130 | Bank: Google Pay | raw_text: 130 | 9180201108
+72063
+5115638647
+85 | Google Pay
+Layer : 4 | 9180201108720
+63 | 511563864785 | 25/04/2025
+11:41:22 AM | 1,000.00 | 1,000.00 | Ax
+SNO: 131 | Bank: Google Pay | raw_text: 131 | 9180201108
+72063
+5115724312
+56 | Google Pay
+Layer : 4 | 9180201108720
+63 | 511572431256 | 25/04/2025
+10:54:16
+PM | 1,000.00 | 1,000.00 | Ax
+SNO: 132 | Bank: Google Pay | raw_text: 132 | 9180201108
+72063
+5116790126
+84 | Google Pay
+Layer : 4 | 9180201108720
+63 | 511679012684 | 26/04/2025
+05:13:03
+PM | 500.00 | 500.00 | Ax
+SNO: 133 | Bank: Google Pay | raw_text: 133 | 9180201108
+72063
+5115674110
+94 | Google Pay
+Layer : 4 | 9180201108720
+63 | 511567411094 | 25/04/2025
+05:01:48
+PM | 800.00 | 800.00 | Ax
+SNO: 134 | Bank: RESILIENT INNOVATIONS | raw_text: 134 | 1382020007
+0130
+5168464635
+48 | RESILIENT INNOVATIONS
+PVT LTD
+Layer : 4 | 1382020007013
+0
+FDRL0001382 | 516846463548 | 17/06/2025
+12:00:00
+AM | 18,000.00 | 12,000.00 | UPI/51684
+6463548/
+DR/KISH/
+FDRL/n8g
+7j97458@
+fbpe | Fe
+Bank
+SNO: 135 | Bank: RESILIENT INNOVATIONS | raw_text: 135 | 1382020007
+0130
+5168239640
+58 | RESILIENT INNOVATIONS
+PVT LTD
+Layer : 4 | 1382020007013
+0
+FDRL0001382 | 516823964058 | 17/06/2025
+12:00:00
+AM | 2,000.00 | 2,000.00 | UPI/51682
+3964058/
+DR/KISH/
+FDRL/n8g
+7j97458@
+fbpe | Fe
+Bank
+SNO: 136 | Bank: Axis Bank | raw_text: 136 | 1599638132
+34
+5164076721
+01 | Axis Bank
+Layer : 3 | 9230100479266
+25
+UTIB0004856 | 439803572343 | 13/06/2025
+12:00:00
+AM | 56,000.00 | 9,100.00 | UPI/43980
+3572343/
+DR/ABBA/
+UTIB/anda
+nanava1
+@ibl | In
+Bank
+SNO: 137 | Bank: Bank of Maharashtra | raw_text: 137 | 5010064520
+8082
+5533658478
+43 | Bank of Maharashtra
+Layer : 4 | 60518506863
+MAHB0000775 | 686537479087 | 16/06/2025
+12:00:00
+PM | 8,499.00 | 8,499.00 | UPI-Mr NI
+LESH SE
+N-626055
+9707@fre
+echarge-M
+AHB00007
+75-686537
+479087-S
+ent using
+Paytm U | H
+Bank
+SNO: 138 | Bank: State Bank of India | raw_text: 138 | 5010064520
+8082
+5533658478
+43 | State Bank of India
+Layer : 4 | 0000003865147
+2392
+SBIN0004122 | 385301984826 | 16/06/2025
+12:00:00
+PM | 6,400.00 | 793.05 | UPI-SRIS
+HTI SHAR
+MA-80910
+27000@pt
+sbi-SBIN0
+004122-38
+53019848
+26-Sent fr
+om Paytm | H
+Bank
+SNO: 139 | Bank: IDBI Bank | raw_text: 139 | 9180201108
+72063
+5115724312
+56 | IDBI Bank
+Layer : 5 | 1500102000005
+081
+ibkl0001500 | 511523866028 | 25/04/2025
+11:48:00 PM | 1,90,058.00 | 1,000.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_IM
+PS | G
+Pay
+SNO: 140 | Bank: DCB Bank | raw_text: 140 | 9180201108
+72063
+5116790126
+84 | DCB Bank
+Layer : 5 | 12611100011158
+dcbl0000126 | 511617581488 | 26/04/2025
+05:36:00
+PM | 2,57,111.00 | 500.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_IM
+PS | G
+Pay
+SNO: 141 | Bank: DCB Bank | raw_text: 141 | 9180201108
+72063
+5115662973
+19 | DCB Bank
+Layer : 5 | 12611100011158
+dcbl0000126 | 511516969034 | 25/04/2025
+04:26:00
+PM | 4,54,149.40 | 2,000.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_IM
+PS | G
+Pay
+SNO: 142 | Bank: DCB Bank | raw_text: 142 | 9180201108
+72063
+5115638647
+85 | DCB Bank
+Layer : 5 | 12611100011158
+dcbl0000126 | ReferreMarks | 25/04/2025
+04:26:00
+PM | 4,54,149.40 | 1,000.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given Th
+e Settleme
+nt RRN: 5
+11516969
+034 could
+not be inp
+utted in th
+e Transact
+ion Id / UT
+R Number
+field due t
+o the porta
+l error - Tr
+ansaction I
+D can not
+be duplicat
+e. Transac
+tion Type :
+IMPS | G
+Pay
+SNO: 143 | Bank: DCB Bank | raw_text: 143 | 9180201108
+72063
+5115674110
+94 | DCB Bank
+Layer : 5 | 12611100011158
+dcbl0000126 | 511521473733 | 25/04/2025
+09:43:00
+PM | 2,87,989.00 | 800.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given_IM
+PS | G
+Pay
+SNO: 144 | Bank: Others | raw_text: 144 | 211071614
+2909241478
+46 | Others
+Galgotias University Uttar
+Pradesh
+Merchant : Others
+Layer : 6 | NA | NA | 01/09/2025
+01:58:00
+PM | 47,000.00 | 28,578.92 | The whole
+amount of
+INR 4700
+0/- was pai
+d to merch
+ant agains
+t the order
+id-175671
+53032045
+336937. S
+hould you
+require an
+y further d
+etails, we r
+equest yo
+u to pleas
+e write us
+back on cy
+bercell@p
+aytmpaym
+ents.com
+we shall b
+e glad to a
+ssist you. | Pa
+SNO: 145 | Bank: PhonePe | raw_text: 145 | 5020002297
+3634
+5052249453
+40 | PhonePe
+Layer : 5 | 0014250000000
+51
+YESB0MCHUPI | 023116592675 | 24/02/2025
+07:16:00
+PM | 5,000.00 | 5,000.00 | UPI/DR/D
+02311659
+2675/GHA
+NSHYAM/
+PTY/PAYT
+M.S19UO
+7T@PTY/
+PAYMENT
+FR/AXL64
+4C2597BE
+C84CA09
+A4180327
+2AA462E | Ba
+Bank
+SNO: 146 | Bank: Bandhan Bank | raw_text: 146 | 5020002297
+3634
+5052249453
+40 | Bandhan Bank
+Layer : 5 | 2010003516363
+8
+BDBL0002377 | 527233691380 | 25/02/2025
+07:31:00
+PM | 5,500.00 | 5,500.00 | UPI/DR/D
+52723369
+1380/BAN
+KACCOU/
+BDBL/201
+00035163
+638/PAYM
+ENTFR/IB
+L7AAC82
+A585164D
+14AD2E99
+BACDC8F
+66C | Ba
+Bank
+SNO: 147 | Bank: Others | raw_text: 147 | 0014250000
+00051
+3634611571
+29 | Others
+MS JEEVEN REKHA
+MEDICINE
+Merchant : Others
+Layer : 6 | NA | RR | 16/08/2025
+08:20:00
+AM | 4,822.00 | 4,822.00 | The whole
+amount w
+as paid to
+merchant
+against th
+e order id-
+20250618
+11220702
+81851100
+3224,2025
+06171150
+56028159
+11003224,
+20250617
+14345202
+81681100
+3224. Sho
+uld you re
+quire any f
+urther deta
+ils, we req
+uest you t
+o please w
+rite us bac
+k on cyber
+cellocl@p
+aytm.com
+we shall b
+e glad to a
+ssist you. | Pa
+SNO: 148 | Bank: Canara Bank | raw_text: 148 | 2010003516
+3638
+5272336913
+80 | Canara Bank
+Layer : 6 | 9320201004312
+0
+cnrb0000103 | 505632333495 | 25/02/2025
+10:37:00
+PM | 90,000.00 | 5,500.00 | UPI/DR/D
+50563233
+3495/SHU
+BHAM SI/
+CNRB/932
+02010043
+120/SENT | Ba
+Bank
+SNO: 149 | Bank: Axis Bank | raw_text: 149 | 5020002297
+3634
+5052249453
+40 | Axis Bank
+Layer : 5 | 9220100459233
+95
+UTIB0001377 | 973848478276 | 23/02/2025
+02:19:00
+PM | 4,000.00 | 4,000.00 | UPI/DR/D
+97384847
+8276/YAS
+HWANTK/
+AXL/YASH
+WANT.KA
+LWAR@A
+XL/PAYM
+ENTFR/A
+XLD3DF1
+A6D31EB
+4766AFC
+C191D4E
+5D7D6D | Ba
+Bank
+SNO: 150 | Bank: Bank of Maharashtra | raw_text: 150 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+INDBH0105
+2171881 | Bank of Maharashtra
+Layer : 1 | 60528940936
+MAHB0001415 | INDBH01052171881 | 01/05/2025
+12:00:00
+AM | 13,000.00 | 13,000.00 | N/INDBH0
+10521718
+81/MAHB/
+RAJESH | In
+Bank
+SNO: 151 | Bank: PhonePe | raw_text: 151 | 5020002297
+3634
+5052249453
+40 | PhonePe
+Layer : 5 | 0014250000000
+51
+YESB0MCHUPI | 288652589232 | 21/02/2025
+07:30:00
+PM | 2,000.00 | 900.00 | UPI/DR/D
+28865258
+9232/GHA
+NSHYAM/
+PTY/PAYT
+M.S19UO
+7T@PTY/
+PAYMENT
+FR/YBLD7
+703C99FF
+5B4AFFA3
+00B58577
+3739E1 | Ba
+Bank
+SNO: 152 | Bank: State Bank of India | raw_text: 152 | 9320201004
+3120
+5056323334
+95 | State Bank of India
+Layer : 7 | 43767232838
+sbin0011482 | 505793655253 | 26/02/2025
+06:42:06
+PM | 20,000.00 | 870.02 | UPI/DR/50
+57936552
+53/DUMM
+Y NAME/S
+BIN/**767
+232838/U
+PI//AXIE5
+97C4CD4
+B9C41CB
+9A1D2BE
+C5ED6AA
+81/26/02/2
+025 18:42:
+06 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 153 | Bank: State Bank of India | raw_text: 153 | 9320201004
+3120
+5056323334
+95 | State Bank of India
+Layer : 7 | 0000003148032
+2815
+SBIN0004215 | 505649614888 | 25/02/2025
+10:45:19
+PM | 30,000.00 | 3,419.98 | UPI/DR/50
+56496148
+88/SARVE
+SH C/SBI
+N/**TA123
+@OKSBI/
+UPI//AXI5
+F1DEC39
+E99A42A7
+8578266C
+6C8981C
+2/25/02/20
+25 22:45:1
+9 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 154 | Bank: UCO Bank | raw_text: 154 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+INDBH2607
+3953313 | UCO Bank
+Layer : 1 | 2007021000312
+1
+UCBA0002007 | INDBH26073953313 | 26/07/2025
+12:00:00
+AM | 19,500.00 | 19,500.00 | N/INDBH2
+60739533
+13/UCBA/
+HI TECH | In
+Bank
+SNO: 155 | Bank: Axis Bank | raw_text: 155 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+INDBH0308
+5225608 | Axis Bank
+Layer : 1 | 9240200602386
+77
+UTIB0003288 | INDBH03085225608 | 03/08/2025
+12:00:00
+AM | 2,900.00 | 2,900.00 | N/INDBH0
+30852256
+08/UTIB/Y
+ADAV | In
+Bank
+SNO: 156 | Bank: Bank of Maharashtra | raw_text: 156 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+INDBH1408
+6794537 | Bank of Maharashtra
+Layer : 1 | 60539453826
+MAHB0000351 | INDBH14086794537 | 14/08/2025
+12:00:00
+AM | 74,999.00 | 74,999.00 | N/INDBH1
+40867945
+37/MAHB/
+MEHBOO
+B | In
+Bank
+SNO: 157 | Bank: State Bank of India | raw_text: 157 | 6052894093
+6
+INDBH0105
+2171881 | State Bank of India
+Layer : 2 | 43887374885
+SBIN0015542 | MAHBN72025050111706511 | 01/05/2025
+05:51:05
+AM | 2,00,000.00 | 13,000.00 | NEFT RT
+GS Transa
+ctions | Ba
+Maha
+SNO: 158 | Bank: IndusInd Bank | raw_text: 158 | 9240200602
+38677
+5164052192
+13 | IndusInd Bank
+Layer : 2 | 159963813234
+INDB0001771 | 516407672101 | 13/06/2025
+07:48:57
+AM | 32,105.90 | 9,100.00 | GADIPALL
+Y RAJES
+H | Ax
+SNO: 159 | Bank: Canara Bank | raw_text: 159 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5055037470
+37 | Canara Bank
+Layer : 1 | 110216608184
+CNRB0006641 | 505503747037 | 24/02/2025
+12:00:00
+AM | 41,000.00 | 41,000.00 | IMPS/P2
+A/505503
+747037/C
+NRB/sarita | In
+Bank
+SNO: 160 | Bank: Kotak Mahindra Bank | raw_text: 160 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5055047472
+87 | Kotak Mahindra Bank
+Layer : 1 | 1349570179
+KKBK0003726 | 505504747287 | 24/02/2025
+12:00:00
+AM | 30,000.00 | 30,000.00 | IMPS/P2
+A/505504
+747287/K
+KBK/dines
+h | In
+Bank
+SNO: 161 | Bank: Bank of Maharashtra | raw_text: 161 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5056059895
+32 | Bank of Maharashtra
+Layer : 1 | 60526233500
+MAHB0001307 | 505605989532 | 25/02/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/505605
+989532/M
+AHB/dhori
+ya | In
+Bank
+SNO: 162 | Bank: State Bank of India | raw_text: 162 | 6053945382
+6
+INDBH1408
+6794537 | State Bank of India
+Layer : 2 | 32443166862
+SBIN0000164 | 522609367397 | 14/08/2025
+09:01:33
+AM | 9,000.00 | 5,794.49 | IMPS Out
+wards | Ba
+Maha
+SNO: 163 | Bank: State Bank of India | raw_text: 163 | 6053945382
+6
+INDBH1408
+6794537 | State Bank of India
+Layer : 2 | 32443166862
+SBIN0000164 | 522607363294 | 14/08/2025
+07:33:10
+AM | 8,500.00 | 8,500.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 164 | Bank: Bank of Maharashtra | raw_text: 164 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5056059895
+66 | Bank of Maharashtra
+Layer : 1 | 60526233500
+MAHB0001307 | 505605989566 | 25/02/2025
+12:00:00
+AM | 49,998.00 | 49,998.00 | IMPS/P2
+A/505605
+989566/M
+AHB/nikhil | In
+Bank
+SNO: 165 | Bank: DCB Bank | raw_text: 165 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5058053800
+37 | DCB Bank
+Layer : 1 | 1261110001175
+0
+DCBL0000126 | 505805380037 | 27/02/2025
+12:00:00
+AM | 38,000.00 | 38,000.00 | IMPS/P2
+A/505805
+380037/D
+CBL/mano
+j | In
+Bank
+SNO: 166 | Bank: Indian Bank | raw_text: 166 | 1482690000
+0263
+5244037189
+64 | Indian Bank
+Layer : 3 | 6558826154
+IDIB000K183 | 524490763027 | 01/09/2025
+04:02:00
+AM | 16,000.00 | 16,000.00 | Ye
+SNO: 167 | Bank: HDFC Bank | raw_text: 167 | 1482690000
+0263
+5244037189
+64 | HDFC Bank
+Layer : 3 | 5020010204604
+0
+HDFC0000439 | 524490798923 | 01/09/2025
+08:39:00
+AM | 1,50,000.00 | 65,693.00 | Ye
+SNO: 168 | Bank: Union Bank of India | raw_text: 168 | 6052623350
+0
+5056059895
+32 | Union Bank of India
+Layer : 2 | 3045021200025
+58
+UBIN0530450 | 505609366497 | 25/02/2025
+09:53:10
+AM | 10,200.00 | 10,200.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 169 | Bank: Indian Overseas Bank | raw_text: 169 | 6052623350
+0
+5056059895
+32 | Indian Overseas Bank
+Layer : 2 | 0145010000762
+03
+IOBA0000145 | 505608361018 | 25/02/2025
+08:51:06
+AM | 1,500.00 | 1,500.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 170 | Bank: Indian Overseas Bank | raw_text: 170 | 6052623350
+0
+5056059895
+32 | Indian Overseas Bank
+Layer : 2 | 0145010000762
+03
+IOBA0000145 | 505610367290 | 25/02/2025
+10:01:46
+AM | 2,500.00 | 2,500.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 171 | Bank: HDFC Bank | raw_text: 171 | 6052623350
+0
+5056059895
+32 | HDFC Bank
+Layer : 2 | 5010054651262
+2
+HDFC0000642 | 505610371136 | 25/02/2025
+10:41:58
+AM | 14,000.00 | 14,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 172 | Bank: State Bank of India | raw_text: 172 | 6052623350
+0
+5056059895
+32 | State Bank of India
+Layer : 2 | 40820503424
+SBIN0004579 | 505609363353 | 25/02/2025
+09:18:36
+AM | 2,981.00 | 2,981.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 173 | Bank: State Bank of India | raw_text: 173 | 6052623350
+0
+5056059895
+32 | State Bank of India
+Layer : 2 | 35501592055
+SBIN0004708 | 505609363643 | 25/02/2025
+09:20:33
+AM | 4,170.00 | 4,170.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 174 | Bank: State Bank of India | raw_text: 174 | 6052623350
+0
+5056059895
+32 | State Bank of India
+Layer : 2 | 38008587420
+SBIN0007604 | 505610371767 | 25/02/2025
+10:48:41
+AM | 11,000.00 | 2,448.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 175 | Bank: State Bank of India | raw_text: 175 | 6052623350
+0
+5056059895
+66 | State Bank of India
+Layer : 2 | 38008587420
+SBIN0007604 | 505610371767 | 25/02/2025
+10:48:41
+AM | 11,000.00 | 2,447.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 176 | Bank: IndusInd Bank | raw_text: 176 | 6052623350
+0
+5056059895
+32 | IndusInd Bank
+Layer : 2 | 189738907080
+INDB0000008 | 505606352854 | 25/02/2025
+06:53:13
+AM | 12,000.00 | 12,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 177 | Bank: Bank of Maharashtra | raw_text: 177 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5059015789
+42 | Bank of Maharashtra
+Layer : 1 | 60111824630
+MAHB0000169 | 505901578942 | 28/02/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/505901
+578942/M
+AHB/ankit | In
+Bank
+SNO: 178 | Bank: Karnataka Bank Ltd | raw_text: 178 | 1897389070
+80
+5056063528
+54 | Karnataka Bank Ltd
+Layer : 3 | 1862500101100
+601
+KARB0000186 | 505614106718 | 25/02/2025
+12:00:00
+AM | 15,000.00 | 12,000.00 | In
+Bank
+SNO: 179 | Bank: Equitas Bank | raw_text: 179 | 6558826154
+5244907630
+27 | Equitas Bank
+Layer : 4 | 200002922454
+ESFB0020002 | 524533962226 | 02/09/2025
+12:01:00
+AM | 2,995.00 | 554.55 | ESFB0020
+002/KREO
+VIAH TEC
+HNOLOG
+Y PRIVAT
+E LI /XXX
+XX /eqt25
+07727174
+@equitas/
+UPI/52453
+3962226/
+Sent using
+Paytm UPI
+/BRANCH
+: ATM SE
+RVICE BR
+ANCH 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 180 | Bank: Bank of Baroda | raw_text: 180 | 3045021200
+02558
+5056093664
+97 | Bank of Baroda
+Layer : 3 | 0067010003772
+7
+BARB0FAIZAB | 042552941325 | 25/02/2025
+09:56:24
+AM | 10,000.00 | 9,887.41 | UPI, Avl. B
+al: 0.00 | Un
+Bank
+includ
+Andh
+and
+Corpo
+Bank
+SNO: 181 | Bank: Axis Bank | raw_text: 181 | 6558826154
+5244907630
+27 | Axis Bank
+Layer : 4 | 9180201108720
+63
+UTIB0000553 | 388707744898 | 01/09/2025
+09:00:00
+AM | 500.00 | 500.00 | UTIB0000
+553/Bloom
+Enterprise
+s/XXXXX /
+gpay-1124
+7100196
+@okbizaxi
+s /UPI/388
+70774489
+8/Sent usi
+ng Paytm
+UPI /BRA
+NCH : AT
+M SERVIC
+E BRANC
+H 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 182 | Bank: State Bank of India | raw_text: 182 | 6558826154
+5244907630
+27 | State Bank of India
+Layer : 4 | 42348054584
+SBIN0021404 | 689972970137 | 01/09/2025
+05:28:00
+AM | 1,900.00 | 1,900.00 | SBIN0021
+404/BURA
+SHIVA SAI
+/XXXXX /8
+50099255
+9@airtel /
+UPI/68997
+2970137/
+W1EHFSr
+q /BRANC
+H : ATM S
+ERVICE B
+RANCH 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 183 | Bank: Axis Bank | raw_text: 183 | 6558826154
+5244907630
+27 | Axis Bank
+Layer : 4 | 9240200073309
+61
+UTIB0000022 | 689991834675 | 01/09/2025
+02:50:00
+PM | 2,000.00 | 2,000.00 | UTIB0000
+022/FASHI
+ONWORL
+D /XXXXX
+/paytm.d2
+2445685
+@pta /UP
+I/6899918
+34675/Se
+nt using P
+aytm UPI /
+BRANCH :
+ATM SER
+VICE BRA
+NCH 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 184 | Bank: Equitas Bank | raw_text: 184 | 6558826154
+5244907630
+27 | Equitas Bank
+Layer : 4 | 200002922454
+ESFB0020002 | 689972848457 | 01/09/2025
+04:19:00
+AM | 2,995.00 | 2,995.00 | ESFB0020
+002/KREO
+VIAH TEC
+HNOLOG
+Y PRIVAT
+E LI /XXX
+XX /eqt25
+07727174
+@equitas/
+UPI/68997
+2848457/
+Sent using
+Paytm UPI
+/BRANCH
+: ATM SE
+RVICE BR
+ANCH 0.9
+50 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 185 | Bank: Equitas Bank | raw_text: 185 | 6558826154
+5244907630
+27 | Equitas Bank
+Layer : 4 | 200002922454
+ESFB0020002 | 689974769637 | 01/09/2025
+08:02:00
+AM | 2,995.00 | 2,995.00 | ESFB0020
+002/KREO
+VIAH TEC
+HNOLOG
+Y PRIVAT
+E LI /XXX
+XX /eqt25
+07727174
+@equitas/
+UPI/68997
+4769637/
+Sent using
+Paytm UPI
+/BRANCH
+: ATM SE
+RVICE BR
+ANCH 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 186 | Bank: Bank of India | raw_text: 186 | 6558826154
+5244907630
+27 | Bank of India
+Layer : 4 | 1113101100125
+11
+BKID0001113 | 689972934039 | 01/09/2025
+05:13:00
+AM | 3,000.00 | 3,000.00 | BKID0001
+113/RAYE
+ESAHME
+D BALEK
+UNDRI/XX
+XXX /9108
+796986@i
+ndus /UPI/
+68997293
+4039/fJF1
+aQ/BRAN
+CH : ATM
+SERVICE
+BRANCH
+0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 187 | Bank: Axis Bank | raw_text: 187 | 6558826154
+5244907630
+27 | Axis Bank
+Layer : 4 | 9180201108720
+63
+UTIB0000553 | 290909337513 | 01/09/2025
+09:02:00
+AM | 500.00 | 500.00 | UTIB0000
+553/Bloom
+Enterprise
+s/XXXXX /
+gpay-1124
+7100196
+@okbizaxi
+s /UPI/290
+90933751
+3/Sent usi
+ng Paytm
+UPI /BRA
+NCH : AT
+M SERVIC
+E BRANC
+H 0 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 188 | Bank: Google Pay | raw_text: 188 | 9180201108
+72063
+3887077448
+98 | Google Pay
+Layer : 5 | 9180201108720
+63 | 388707744898 | 01/09/2025
+09:00:00
+AM | 500.00 | 500.00 | UTIB0000
+553/Bloom
+Enterprise
+s/XXXXX /
+gpay-1124
+7100196
+@okbizaxi
+s /UPI/388
+70774489
+8/Sent usi
+ng Paytm
+UPI /BRA
+NCH : AT
+M SERVIC
+E BRANC
+H 0 | Ax
+SNO: 189 | Bank: Paytm | raw_text: 189 | 9240200073
+30961
+6899918346
+75 | Paytm
+Layer : 5 | 9240200073309
+61 | 689991834675 | 01/09/2025
+02:50:00
+PM | 2,000.00 | 2,000.00 | UTIB0000
+022/FASHI
+ONWORL
+D /XXXXX
+/paytm.d2
+2445685
+@pta /UP
+I/6899918
+34675/Se
+nt using P
+aytm UPI /
+BRANCH :
+ATM SER
+VICE BRA
+NCH 0 | Ax
+SNO: 190 | Bank: Google Pay | raw_text: 190 | 9180201108
+72063
+2909093375
+13 | Google Pay
+Layer : 5 | 9180201108720
+63 | 290909337513 | 01/09/2025
+09:02:00
+AM | 500.00 | 500.00 | UTIB0000
+553/Bloom
+Enterprise
+s/XXXXX /
+gpay-1124
+7100196
+@okbizaxi
+s /UPI/290
+90933751
+3/Sent usi
+ng Paytm
+UPI /BRA
+NCH : AT
+M SERVIC
+E BRANC
+H 0 | Ax
+SNO: 191 | Bank: Indian Overseas Bank | raw_text: 191 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5060058403
+22 | Indian Overseas Bank
+Layer : 1 | 3216010000091
+10
+IOBA0003216 | 506005840322 | 01/03/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/506005
+840322/IO
+BA/prahla
+d | In
+Bank
+SNO: 192 | Bank: Union Bank of India | raw_text: 192 | 3550159205
+5
+5056093636
+43 | Union Bank of India
+Layer : 3 | 5915020100144
+83
+UBIN0559156 | 507065028384 | 11/03/2025
+08:46:39
+PM | 2,000.00 | 1,439.62 | St
+Bank
+SNO: 193 | Bank: State Bank of India | raw_text: 193 | 3800858742
+0
+5056103717
+67 | State Bank of India
+Layer : 3 | 0000004366535
+0132
+SBIN0003623 | 507997332365 | 20/03/2025
+11:38:06 AM | 981.00 | 529.00 | St
+Bank
+SNO: 194 | Bank: Federal Bank | raw_text: 194 | 3800858742
+0
+5056103717
+67 | Federal Bank
+Layer : 3 | 1382020007013
+0
+FDRL0001382 | 510076093102 | 10/04/2025
+06:38:29
+PM | 2,000.00 | 2,000.00 | St
+Bank
+SNO: 195 | Bank: RESILIENT INNOVATIONS | raw_text: 195 | 1382020007
+0130
+5100760931
+02 | RESILIENT INNOVATIONS
+PVT LTD
+Layer : 4 | 1382020007013
+0 | 510076093102 | 10/04/2025
+06:38:29
+PM | 2,000.00 | 2,000.00 | Fe
+Bank
+SNO: 196 | Bank: Bank of Maharashtra | raw_text: 196 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5062012679
+77 | Bank of Maharashtra
+Layer : 1 | 60446069934
+MAHB0000810 | 506201267977 | 03/03/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/506201
+267977/M
+AHB/visha
+l | In
+Bank
+SNO: 197 | Bank: AU Bank | raw_text: 197 | 5915020100
+14483
+5070650283
+84 | AU Bank
+Reassign Back To
+Union Bank of India( including
+Andhra Bank and Corporation
+Bank)
+Date 13/09/2025
+Layer : 4 | 2310001619509
+9
+AUBL0002011 | 826033450671 | 11/03/2025
+11:50:11 PM | 2,615.00 | 370.54 | UPI, Avl. B
+al: 0.00 | Un
+Bank
+includ
+Andh
+and
+Corpo
+Bank
+SNO: 198 | Bank: Bandhan Bank | raw_text: 198 | 5915020100
+14483
+5070650283
+84 | Bandhan Bank
+Layer : 4 | 5018001835160
+9
+BDBL0001910 | 507023326545 | 11/03/2025
+11:43:23 PM | 1,000.00 | 1,000.00 | Avl. Bal: 0.
+00 | Un
+Bank
+includ
+Andh
+and
+Corpo
+Bank
+SNO: 199 | Bank: Bank of India | raw_text: 199 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5084042112
+09 | Bank of India
+Layer : 1 | 6056201100011
+03
+BKID0006056 | 508404211209 | 25/03/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/508404
+211209/B
+KID/sanjay | In
+Bank
+SNO: 200 | Bank: Axis Bank | raw_text: 200 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5084052123
+70 | Axis Bank
+Layer : 1 | 9240200602386
+44
+UTIB0003288 | 508405212370 | 25/03/2025
+12:00:00
+AM | 49,998.00 | 49,998.00 | IMPS/P2
+A/508405
+212370/U
+TIB/shree | In
+Bank
+SNO: 201 | Bank: Axis Bank | raw_text: 201 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5096011821
+45 | Axis Bank
+Layer : 1 | 9240200731870
+45
+UTIB0001361 | 509601182145 | 06/04/2025
+12:00:00
+AM | 22,000.00 | 22,000.00 | IMPS/P2
+A/5096011
+82145/UTI
+B/UNIPIN | In
+Bank
+SNO: 202 | Bank: Tamilnad Mercantile Bank Ltd. | raw_text: 202 | 9180201108
+72063
+2909093375
+13 | Tamilnad Mercantile Bank Ltd.
+Layer : 6 | 1621503108752
+62
+tmbl0000162 | 524402956427 | 01/09/2025
+11:10:00 AM | 2,03,754.00 | 500.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given an
+d Transact
+ion Type :
+(IMPS) | G
+Pay
+SNO: 203 | Bank: AU Bank | raw_text: 203 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5099029867
+54 | AU Bank
+Layer : 1 | 2502415264941
+760
+AUBL0002104 | 509902986754 | 09/04/2025
+12:00:00
+AM | 15,000.00 | 15,000.00 | IMPS/P2
+A/509902
+986754/A
+UBL/SANJ
+AY | In
+Bank
+SNO: 204 | Bank: Kotak Mahindra Bank | raw_text: 204 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5116049538
+94 | Kotak Mahindra Bank
+Layer : 1 | 5949540440
+KKBK0004465 | 511604953894 | 26/04/2025
+12:00:00
+AM | 49,999.00 | 49,999.00 | IMPS/P2
+A/5116049
+53894/KK
+BK/gupta | In
+Bank
+SNO: 205 | Bank: Bank of Maharashtra | raw_text: 205 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5116059543
+62 | Bank of Maharashtra
+Layer : 1 | 60407797256
+MAHB0000877 | 511605954362 | 26/04/2025
+12:00:00
+AM | 1,99,999.00 | 1,99,999.00 | IMPS/P2
+A/5116059
+54362/MA
+HB/AMOL | In
+Bank
+SNO: 206 | Bank: Tamilnad Mercantile Bank Ltd. | raw_text: 206 | 9180201108
+72063
+3887077448
+98 | Tamilnad Mercantile Bank Ltd.
+Layer : 6 | 1621503108752
+62
+tmbl0000162 | referremark | 01/09/2025
+11:10:00 AM | 2,03,754.00 | 500.00 | new Merc
+hant IN Fu
+llAccNum_
+Given Sett
+lementAm
+ount_Provi
+ded Settle
+mentRRN
+_Given.Th
+e Settleme
+nt RRN: 5
+24402956
+427 could
+not be inp
+utted in th
+e Transact
+ion Id / UT
+R Number
+field due t
+o the porta
+l error - Tr
+ansaction I
+D can not
+be duplicat
+e. (IMPS) | G
+Pay
+SNO: 207 | Bank: ICICI Bank | raw_text: 207 | 6044606993
+4
+5062012679
+77 | ICICI Bank
+Layer : 2 | 726505000742
+ICIC0007265 | 506201964628 | 03/03/2025
+03:36:47
+AM | 75,000.00 | 49,999.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 208 | Bank: Kotak Mahindra Bank | raw_text: 208 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5116069586
+99 | Kotak Mahindra Bank
+Layer : 1 | 4650842393
+KKBK0004625 | 511606958699 | 26/04/2025
+12:00:00
+AM | 49,651.00 | 49,651.00 | IMPS/P2
+A/5116069
+58699/KK
+BK/uni | In
+Bank
+SNO: 209 | Bank: Kotak Mahindra Bank | raw_text: 209 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5118035130
+41 | Kotak Mahindra Bank
+Layer : 1 | 5949540440
+KKBK0004625 | 511803513041 | 28/04/2025
+12:00:00
+AM | 7,000.00 | 7,000.00 | IMPS/P2
+A/5118035
+13041/KK
+BK/gupta | In
+Bank
+SNO: 210 | Bank: HDFC Bank | raw_text: 210 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5120233427
+02 | HDFC Bank
+Layer : 1 | 5020009757629
+0
+HDFC0007673 | 512023342702 | 30/04/2025
+12:00:00
+AM | 49,998.00 | 49,998.00 | IMPS/P2
+A/512023
+342702/H
+DFC/soha
+m | In
+Bank
+SNO: 211 | Bank: ICICI Bank | raw_text: 211 | 0293101945
+13
+3737391629
+06 | ICICI Bank
+Layer : 2 | 789501000094
+ICIC0007895 | 168755804067 | 14/06/2025
+12:00:00
+AM | 6,000.00 | 1,000.00 | upi txn | In
+Paym
+Bank
+SNO: 212 | Bank: State Bank of India | raw_text: 212 | 0293101945
+13
+3737391629
+06 | State Bank of India
+Layer : 2 | 0000004323316
+2989
+SBIN0010844 | 515422183162 | 14/06/2025
+12:00:00
+AM | 6,000.00 | 6,000.00 | upi tnx | In
+Paym
+Bank
+SNO: 213 | Bank: Bandhan Bank | raw_text: 213 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5128060813
+64 | Bandhan Bank
+Layer : 1 | 2020008017076
+7
+BDBL0001987 | 512806081364 | 08/05/2025
+12:00:00
+AM | 49,994.00 | 49,994.00 | IMPS/P2
+A/512806
+081364/B
+DBL/pratib
+ha | In
+Bank
+SNO: 214 | Bank: Axis Bank | raw_text: 214 | 5949540440
+5116049538
+94 | Axis Bank
+Layer : 2 | 9250200127049
+14
+UTIB0003288 | 511617226835 | 26/04/2025
+05:54:53
+PM | 4,88,888.00 | 49,999.00 | SentIMPS
+51161722
+6835Jasm
+er foo/UTI
+BX4914/IB
+IMPS T | Ko
+Mahi
+Bank
+SNO: 215 | Bank: HDFC Bank | raw_text: 215 | 6040779725
+6
+5116059543
+62 | HDFC Bank
+Layer : 2 | 5010063971921
+0
+HDFC0000590 | 511606551463 | 26/04/2025
+06:01:07
+AM | 90,000.00 | 90,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 216 | Bank: State Bank of India | raw_text: 216 | 7265050007
+42
+5062019646
+28 | State Bank of India
+Layer : 3 | SVPL86L33704
+SBIN0070248 | 506210474520 | 03/03/2025
+10:03:05
+AM | 2,00,000.00 | 47,652.75 | NA | IC
+Bank
+SNO: 217 | Bank: HDFC Bank | raw_text: 217 | 6040779725
+6
+5116059543
+62 | HDFC Bank
+Layer : 2 | 5010075769732
+0
+HDFC0000590 | 511606551522 | 26/04/2025
+06:04:01
+AM | 51,600.00 | 9,999.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 218 | Bank: State Bank of India | raw_text: 218 | 6040779725
+6
+5116059543
+62 | State Bank of India
+Layer : 2 | 38779348097
+SBIN0040552 | 511605550970 | 26/04/2025
+05:20:48
+AM | 1,00,000.00 | 1,00,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 219 | Bank: Indian Bank | raw_text: 219 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5128060837
+78 | Indian Bank
+Layer : 1 | 8018913399
+IDIB000H598 | 512806083778 | 08/05/2025
+12:00:00
+AM | 49,856.00 | 49,856.00 | IMPS/P2
+A/512806
+083778/ID
+IB/shahza
+d | In
+Bank
+SNO: 220 | Bank: IDBI Bank | raw_text: 220 | 8018913399
+5128060837
+78 | IDBI Bank
+Layer : 2 | 1296104000195
+218
+IBKL0001296 | 512806176167 | 08/05/2025
+06:58:00
+AM | 1,00,019.00 | 49,799.21 | TRANSFE
+R TO 971
+58069698
+01296104
+00019521
+8/IBKL/Lo
+a//IMPS/P
+2A/51280
+6176167//
+BRANCH :
+ATM SER
+VICE BRA
+NCH 56.7
+90 | In
+Bank
+(inclu
+Allah
+Bank
+SNO: 221 | Bank: Others | raw_text: 221 | 5010075769
+7320
+5116065515
+22 | Others
+UPI-AMERICAN EXPRESS
+CR-
+billdeskpg.amexcc@hdfcbank-
+HDFC0MERUPI-
+103836333959-Pay
+Layer : 3 | 5020002786407
+6
+HDFC0MERUPI | 103836333959 | 27/04/2025
+12:00:00
+PM | 45,600.00 | 934.70 | UPI-AME
+RICAN EX
+PRESS C
+R-billdesk
+pg.amexcc
+@hdfcban
+k-HDFC0
+MERUPI-1
+03836333
+959-Pay | H
+Bank
+SNO: 222 | Bank: Axis Bank | raw_text: 222 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5135074887
+40 | Axis Bank
+Layer : 1 | 9250200107525
+11
+UTIB0003288 | 513507488740 | 15/05/2025
+12:00:00
+AM | 49,998.00 | 49,998.00 | IMPS/P2
+A/513507
+488740/U
+TIB/sandh
+u | In
+Bank
+SNO: 223 | Bank: Bank of Maharashtra | raw_text: 223 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5143073214
+05 | Bank of Maharashtra
+Layer : 1 | 60531894723
+MAHB0000262 | 514307321405 | 23/05/2025
+12:00:00
+AM | 1,85,000.00 | 1,85,000.00 | IMPS/P2
+A/514307
+321405/M
+AHB/ DAT
+TU | In
+Bank
+SNO: 224 | Bank: Bank of Maharashtra | raw_text: 224 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5144047812
+68 | Bank of Maharashtra
+Layer : 1 | 60531445836
+MAHB0000262 | 514404781268 | 24/05/2025
+12:00:00
+AM | 5,555.00 | 5,555.00 | IMPS/P2
+A/514404
+781268/M
+AHB/VIKA
+S | In
+Bank
+SNO: 225 | Bank: City Union Bank | raw_text: 225 | 3877934809
+7
+5116055509
+70 | City Union Bank
+Layer : 3 | 5001010139905
+68
+CIUB0000688 | 031572177373 | 01/05/2025
+05:29:56
+PM | 20,000.00 | 20,000.00 | St
+Bank
+SNO: 226 | Bank: Axis Bank | raw_text: 226 | 3877934809
+7
+5116055509
+70 | Axis Bank
+Layer : 3 | 9220200592019
+49
+UTIB0001231 | 592209410671 | 01/05/2025
+08:19:16
+PM | 1,000.00 | 1,000.00 | St
+Bank
+SNO: 227 | Bank: Union Bank of India | raw_text: 227 | 3877934809
+7
+5116055509
+70 | Union Bank of India
+Layer : 3 | 2841101000081
+33
+UBIN0828416 | 702125332602 | 01/05/2025
+06:26:09
+PM | 700.00 | 700.00 | St
+Bank
+SNO: 228 | Bank: City Union Bank | raw_text: 228 | 3877934809
+7
+5116055509
+70 | City Union Bank
+Layer : 3 | 5001010139905
+68
+CIUB0000688 | 478207428758 | 01/05/2025
+05:20:17
+PM | 30,000.00 | 30,000.00 | St
+Bank
+SNO: 229 | Bank: Canara Bank | raw_text: 229 | 3877934809
+7
+5116055509
+70 | Canara Bank
+Layer : 3 | 110224430897
+CNRB0017156 | 512120567800 | 01/05/2025
+08:40:58
+PM | 50,000.00 | 48,104.59 | St
+Bank
+SNO: 230 | Bank: Bandhan Bank | raw_text: 230 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5145050578
+07 | Bandhan Bank
+Layer : 1 | 2010004406220
+2
+BDBL0001517 | 514505057807 | 25/05/2025
+12:00:00
+AM | 9,700.00 | 9,700.00 | IMPS/P2
+A/514505
+057807/B
+DBL/HS E
+NTER | In
+Bank
+SNO: 231 | Bank: Axis Bank | raw_text: 231 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5150171311
+98 | Axis Bank
+Layer : 1 | 9140100067766
+29
+UTIB0000776 | 515017131198 | 30/05/2025
+12:00:00
+AM | 15,000.00 | 15,000.00 | IMPS/P2
+A/515017
+131198/U
+TIB/manis
+hta | In
+Bank
+SNO: 232 | Bank: Bank of Baroda | raw_text: 232 | 1102244308
+97
+5121205678
+00 | Bank of Baroda
+Layer : 4 | 4118010001567
+7
+BARB0BRGBXX | 512222081796 | 02/05/2025
+10:52:49
+PM | 5,000.00 | 4,820.92 | MB-IMPS-
+DR/AIFA/B
+ARB/**567
+7/W/02/05/
+2025 22:5
+2:49/5122
+22081796 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 233 | Bank: HDFC Bank | raw_text: 233 | 1102244308
+97
+5121205678
+00 | HDFC Bank
+Layer : 4 | 242009000098
+HDFC0CNUCBL | 354673721225 | 02/05/2025
+10:44:57
+PM | 2,100.00 | 2,100.00 | UPI/DR/35
+46737212
+25/GEETA
+S/HDFC/**
+20090000
+98/UPI//A
+XIFRC3E
+A7DF3E0
+480A9DC
+739B4222
+A3D6B/02/
+05/2025 2
+2:44:57 | Ca
+Bank
+(inclu
+Synd
+Bank
+SNO: 234 | Bank: Union Bank of India | raw_text: 234 | 6053189472
+3
+5143073214
+05 | Union Bank of India
+Layer : 2 | 1668120100015
+24
+UBIN0816680 | 514314524098 | 23/05/2025
+02:29:23
+PM | 1,83,000.00 | 1,45,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 235 | Bank: Punjab National Bank | raw_text: 235 | 6053189472
+3
+5143073214
+05 | Punjab National Bank
+Layer : 2 | 9819000100105
+383
+PUNB0981900 | 514308504403 | 23/05/2025
+08:53:31
+AM | 40,000.00 | 40,000.00 | IMPS Out
+wards | Ba
+Maha
+SNO: 236 | Bank: Bank of Baroda | raw_text: 236 | 6053144583
+6
+5144047812
+68 | Bank of Baroda
+Layer : 2 | 1715010000874
+5
+BARB0HALDHA | 514406578429 | 24/05/2025
+06:58:13
+AM | 35,400.00 | 5,509.54 | IMPS Out
+wards | Ba
+Maha
+SNO: 237 | Bank: HDFC Bank | raw_text: 237 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5151062193
+46 | HDFC Bank
+Layer : 1 | 5020008569630
+1
+HDFC0009408 | 515106219346 | 31/05/2025
+12:00:00
+AM | 9,000.00 | 9,000.00 | IMPS/P2
+A/515106
+219346/H
+DFC/STO
+RE | In
+Bank
+SNO: 238 | Bank: Axis Bank | raw_text: 238 | 6056201100
+01103
+5084042112
+09 | Axis Bank
+Layer : 2 | 9240200602386
+44
+UTIB0003288 | 508500816072 | 26/03/2025
+12:03:08
+PM | 4,99,999.00 | 49,999.00 | Money Tra
+nsfer Thro
+ugh IMPS. | Ba
+India
+SNO: 239 | Bank: Axis Bank | raw_text: 239 | 2010004406
+2202
+5145050578
+07 | Axis Bank
+Layer : 2 | 9250200107525
+11
+UTIB0003288 | BDBLR62025052618734432 | 26/05/2025
+01:07:00
+AM | 4,00,000.00 | 9,700.00 | RTGS-BD
+BLR62025
+05261873
+4432-SAN
+DHU-PEH
+OWA | Ba
+Bank
+SNO: 240 | Bank: Kotak Mahindra Bank | raw_text: 240 | PHI COMM
+ERCE PRIV
+ATE LIMITE
+D -:1695993
+37971
+5154039934
+28 | Kotak Mahindra Bank
+Layer : 1 | 8848091945
+KKBK0000287 | 515403993428 | 03/06/2025
+12:00:00
+AM | 8,999.00 | 8,999.00 | IMPS/P2
+A/515403
+993428/K
+KBK/CHE
+TAN | In
+Bank
+SNO: 241 | Bank: Catholic Syrian Bank LTD. | raw_text: 241 | 1296104000
+195218
+5128061761
+67 | Catholic Syrian Bank LTD.
+Layer : 3 | 1218050782161
+95001
+CSBK0001218 | 512808119455 | 08/05/2025
+12:00:00
+AM | 1,02,001.00 | 49,799.21 | IMPS/512
+80811945
+5/KUMAR
+FASH/CS
+BK/XX500
+1/Ok | ID

@@ -1,0 +1,46 @@
+{
+  "source_file": "input files\\1349570179.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": null,
+    "account_number": "1349570179",
+    "bank_name": null,
+    "statement_period": {
+      "from_date": "2025-04-01",
+      "to_date": "2025-09-16"
+    }
+  },
+  "summary": {
+    "opening_balance": 1198.0,
+    "closing_balance": 1206.0,
+    "total_credits": 8.0,
+    "total_debits": 0.0
+  },
+  "transactions": [
+    {
+      "date": "2025-06-30",
+      "description": "Int.Pd:1349570179:01-04-2025 to 30-",
+      "type": "credit",
+      "amount": 8.0,
+      "balance": 1206.0,
+      "category": "other",
+      "holder_name": null,
+      "account_number": "1349570179",
+      "has_debit_col": null,
+      "has_credit_col": null,
+      "validation_warning": null,
+      "raw_text": "30-06-2025 Int.Pd:1349570179:01-04-2025 to 30- 8.00 1,206.00(Cr)",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "Suspiciously low transaction count: only 1 transaction(s) extracted",
+    "AI Audit complete. Header Status: deterministic/deterministic"
+  ],
+  "raw_header_text": "DINESH JAJRA Period : 01-04-2025 To 16-09-2025\nCust.Reln.No : 913551424\nAccount No : 1349570179\nCurrency : INR\nWARD NO 20 GOPESHWAR BASTI Branch : BIKANER-AMBEDKAR CIRCLE\nGOPESHWAR BASTI GANGASHAHAR Nominee Registered : N\nRAJASTHAN BIKANER 334001\nBIKANER-334004 Branch Address : RIDDHI SIDDHI COMPLEX; HOSPITAL\nRAJASTHAN,INDIA OPP THAR HOTEL,AMBEDKAR CIRCLE,"
+}

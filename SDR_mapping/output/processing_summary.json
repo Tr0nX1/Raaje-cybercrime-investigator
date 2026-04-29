@@ -1,0 +1,42 @@
+{
+  "processed": 5,
+  "successful": 5,
+  "failed": 0,
+  "results": [
+    {
+      "file": "input\\9560978030 - Khoj OSINT Report.pdf",
+      "output": "output\\9560978030 - Khoj OSINT Report.json",
+      "success": true,
+      "report_type": "khoj_osint",
+      "phone_number": "9560978030"
+    },
+    {
+      "file": "input\\ScaninfogaReport_7290900197_2026-04-22.pdf",
+      "output": "output\\ScaninfogaReport_7290900197_2026-04-22.json",
+      "success": true,
+      "report_type": "scaninfoga",
+      "phone_number": "7290900197"
+    },
+    {
+      "file": "input\\ScaninfogaReport_8383907548_2026-04-22.pdf",
+      "output": "output\\ScaninfogaReport_8383907548_2026-04-22.json",
+      "success": true,
+      "report_type": "scaninfoga",
+      "phone_number": "8383907548"
+    },
+    {
+      "file": "input\\ScaninfogaReport_9354605427_2026-04-22.pdf",
+      "output": "output\\ScaninfogaReport_9354605427_2026-04-22.json",
+      "success": true,
+      "report_type": "scaninfoga",
+      "phone_number": "9354605427"
+    },
+    {
+      "file": "input\\ScaninfogaReport_8527567093_2026-04-22.pdf",
+      "output": "output\\ScaninfogaReport_8527567093_2026-04-22.json",
+      "success": true,
+      "report_type": "scaninfoga",
+      "phone_number": "8527567093"
+    }
+  ]
+}

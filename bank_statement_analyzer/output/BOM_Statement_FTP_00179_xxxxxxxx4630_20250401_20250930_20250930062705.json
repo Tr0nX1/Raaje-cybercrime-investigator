@@ -1,0 +1,105 @@
+{
+  "source_file": "input files\\BOM_Statement_FTP_00179_xxxxxxxx4630_20250401_20250930_20250930062705.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "Mr. ANKIT PRABHUDAS UIKEY",
+    "account_number": "60111824630",
+    "bank_name": "Bank of Maharashtra",
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 444322.67,
+    "closing_balance": 447369.32,
+    "total_credits": 3047.0,
+    "total_debits": 0.35
+  },
+  "transactions": [
+    {
+      "date": "2025-06-30",
+      "description": "BY INTT",
+      "type": "credit",
+      "amount": 3046.0,
+      "balance": 447368.67,
+      "category": "other",
+      "holder_name": "Mr. ANKIT PRABHUDAS UIKEY",
+      "account_number": "60111824630",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "1 | 30/06/2025 | BY INTT | - | 3,046.00 | 4,47,368.67 | 9999-CENTRAL OFF",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "UPI 288348282235/UTIB/Paytm\n/Welcome Back Reward",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 447369.67,
+      "category": "other",
+      "holder_name": "Mr. ANKIT PRABHUDAS UIKEY",
+      "account_number": "60111824630",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "2 | 11/08/2025 | UPI 288348282235/UTIB/Paytm\n/Welcome Back Reward | 288348282235 | - | 1.00 | 4,47,369.67 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "description": "MONTHLY SMS CHA",
+      "type": "debit",
+      "amount": 0.3,
+      "balance": 447369.37,
+      "category": "other",
+      "holder_name": "Mr. ANKIT PRABHUDAS UIKEY",
+      "account_number": "60111824630",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "3 | 30/08/2025 | MONTHLY SMS CHA | 0.30 | - | 4,47,369.37 | 9999-CENTRAL OFF",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.05,
+      "balance": 447369.32,
+      "category": "tax",
+      "holder_name": "Mr. ANKIT PRABHUDAS UIKEY",
+      "account_number": "60111824630",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "4 | 30/08/2025 | GST | 0.05 | - | 4,47,369.32 | 9999-CENTRAL OFF",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "AI Audit complete. Header Status: needs_review/deterministic"
+  ],
+  "raw_header_text": "Account Details\nAccount No 60111824630 Account Open Date 19/10/2012 Nomination Flag N\nAccount Type SB-w/o-Chq-Bk-YUVA-INSTACARD Nominee Name NA\nMode of Operation OPERATING SINGLY Total Balance 4,47,369.32Available Balance 3,97,370.32\nQAB Required 2000.000QAB Maintained 447369.098\nAccount Holder Names Mr. ANKIT PRABHUDAS UIKEY Primary GSTIN NA\nCustomer Details\nName Mr. ANKIT PRABHUDAS UIKEY CIF Number 40056998469\nMobile xxxxxxxxxx81 Email\nKYC Complied Y KYC Expiry Date 06/02/2027 CKYC ID xxxxxxxxxx0710\nPrimary ID Type ADHAR WITH SAME ADDRESS Date of Birth 26xxxxxx98 Statement Date Tue Sep 30 18:27:04 GMT+05:30 2025\nAddress PAWANA CHAK POWANPAR, PO GUNJEWAHI, DIST CHANDRAPUR, CHANDRAPUR, MAHARASHTRA, 441215"
+}

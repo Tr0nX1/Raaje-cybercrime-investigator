@@ -1,0 +1,5205 @@
+{
+  "source_file": "input files\\AccountStmt_2007XXXXXX3121.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "HI TECH TRADERS",
+    "account_number": "20070210003121",
+    "bank_name": "UCO Bank",
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 403491.1,
+    "closing_balance": 8721830.02,
+    "total_credits": 33483514.93,
+    "total_debits": 25165176.01
+  },
+  "transactions": [
+    {
+      "date": "2025-04-01",
+      "description": "MPAY/IMPSI/TRTR/509111365972/YESB/XX\n000051/",
+      "type": "credit",
+      "amount": 94946.0,
+      "balance": 498437.1,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "01-04-2025 | MPAY/IMPSI/TRTR/509111365972/YESB/XX\n000051/ | 94946.00 | 498437.10 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "description": "MPAY/IMPSI/TRTR/509203110392/YESB/XX\n000051/",
+      "type": "credit",
+      "amount": 94935.0,
+      "balance": 593372.1,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "02-04-2025 | MPAY/IMPSI/TRTR/509203110392/YESB/XX\n000051/ | 94935.00 | 593372.10 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-03",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 94904.0,
+      "balance": 688276.1,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "03-04-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 94904.00 | 688276.10 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 67100.0,
+      "balance": 755376.1,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "04-04-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 67100.00 | 755376.10 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "description": "Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD",
+      "type": "debit",
+      "amount": 12.5,
+      "balance": 755363.6,
+      "category": "charges",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "04-04-2025 | Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD | 12.50 | 755363.60 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "description": "RTGS/CSBK0000699/GASHOP ALAKTICAL\nPVT LTD",
+      "type": "debit",
+      "amount": 500000.0,
+      "balance": 255363.6,
+      "category": "utility",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "04-04-2025 | RTGS/CSBK0000699/GASHOP ALAKTICAL\nPVT LTD | 9 | 500000.00 | 255363.60 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "description": "Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD",
+      "type": "debit",
+      "amount": 1.13,
+      "balance": 255362.47,
+      "category": "charges",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "04-04-2025 | Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD | 1.13 | 255362.47 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "description": "Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD",
+      "type": "debit",
+      "amount": 1.13,
+      "balance": 255361.34,
+      "category": "charges",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "04-04-2025 | Charges for PORD/1267/GASHOP\nALAKTICAL PVT LTD | 1.13 | 255361.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-05",
+      "description": "NEFT/UTIB0000022/ONE 97\nCOMMUNICATIONS LIMITED ESC",
+      "type": "credit",
+      "amount": 200.0,
+      "balance": 255561.34,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "05-04-2025 | NEFT/UTIB0000022/ONE 97\nCOMMUNICATIONS LIMITED ESC | 200.00 | 255561.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 94941.0,
+      "balance": 350502.34,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-04-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 94941.00 | 350502.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-07",
+      "description": "RTGS/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 262464.0,
+      "balance": 612966.34,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "07-04-2025 | RTGS/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 262464.00 | 612966.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-08",
+      "description": "RTGS/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 262416.0,
+      "balance": 875382.34,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-04-2025 | RTGS/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 262416.00 | 875382.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 62854.0,
+      "balance": 938236.34,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "09-04-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 62854.00 | 938236.34 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-11",
+      "description": "NEFT/UTIB0000022/ONE 97\nCOMMUNICATIONS LIMITED ESC",
+      "type": "credit",
+      "amount": 1054.99,
+      "balance": 939291.33,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-04-2025 | NEFT/UTIB0000022/ONE 97\nCOMMUNICATIONS LIMITED ESC | 1054.99 | 939291.33 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-21",
+      "description": "RTGS/CSBK0000699/DHRUVA\nENTERPRISES",
+      "type": "debit",
+      "amount": 920000.0,
+      "balance": 19291.33,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-04-2025 | RTGS/CSBK0000699/DHRUVA\nENTERPRISES | 10 | 920000.00 | 19291.33 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-04-29",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 1006.23,
+      "balance": 20297.56,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29-04-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 1006.23 | 20297.56 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 1005.23,
+      "balance": 21302.79,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-05-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 1005.23 | 21302.79 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-20",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 1045.04,
+      "balance": 22347.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-05-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 1045.04 | 22347.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "description": "MPAY/IMPSP/TRTR/514430619356/MAHB/X\nX403904/P",
+      "type": "debit",
+      "amount": 1.0,
+      "balance": 22346.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-05-2025 | MPAY/IMPSP/TRTR/514430619356/MAHB/X\nX403904/P | 1.00 | 22346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "description": "MPAY/UPI/TRTR/614593905793/KEERTI\nRANI/KKBK/XXX85",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 23346.83,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-05-2025 | MPAY/UPI/TRTR/614593905793/KEERTI\nRANI/KKBK/XXX85 | 1000.00 | 23346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "description": "MPAY/UPI/TRTR/614593917041/KEERTI\nRANI/KKBK/XXX85",
+      "type": "credit",
+      "amount": 23000.0,
+      "balance": 46346.83,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-05-2025 | MPAY/UPI/TRTR/614593917041/KEERTI\nRANI/KKBK/XXX85 | 23000.00 | 46346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "description": "MPAY/UPI/TRTR/384423021608/KEERTI\nRANI/KKBK/XXX85",
+      "type": "credit",
+      "amount": 26000.0,
+      "balance": 72346.83,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-05-2025 | MPAY/UPI/TRTR/384423021608/KEERTI\nRANI/KKBK/XXX85 | 26000.00 | 72346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "description": "MPAY/UPI/TRTR/551394634989/RAJNI DO\nROSHA/HDFC/XX",
+      "type": "credit",
+      "amount": 22000.0,
+      "balance": 94346.83,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-05-2025 | MPAY/UPI/TRTR/551394634989/RAJNI DO\nROSHA/HDFC/XX | 22000.00 | 94346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "description": "MPAY/IMPSI/TRTR/514722466646/ICIC/XX\n601145/",
+      "type": "credit",
+      "amount": 54000.0,
+      "balance": 148346.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-05-2025 | MPAY/IMPSI/TRTR/514722466646/ICIC/XX\n601145/ | 54000.00 | 148346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "description": "MPAY/IMPSI/TRTR/515721707002/UTIB/XX\n704914/",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 153346.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-06-2025 | MPAY/IMPSI/TRTR/515721707002/UTIB/XX\n704914/ | 5000.00 | 153346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "description": "RTGS/UTIB0003288/JASMER FOODA\nCOMP",
+      "type": "credit",
+      "amount": 800000.0,
+      "balance": 953346.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-06-2025 | RTGS/UTIB0003288/JASMER FOODA\nCOMP | 800000.00 | 953346.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "description": "RTGS/INDB0000098/CODECRAFT\nINNOVATIONS PRIVATE LIM",
+      "type": "credit",
+      "amount": 429614.0,
+      "balance": 1382960.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "09-06-2025 | RTGS/INDB0000098/CODECRAFT\nINNOVATIONS PRIVATE LIM | 429614.00 | 1382960.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "description": "RTGS/DCBL0000089/SHINING CHARIOT\nTRADERS",
+      "type": "credit",
+      "amount": 450000.0,
+      "balance": 1832960.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "09-06-2025 | RTGS/DCBL0000089/SHINING CHARIOT\nTRADERS | 450000.00 | 1832960.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "description": "MPAY/UPI/TRTR/106218372557/KHUSBOO\nDEVRAJ/HDFC/XX",
+      "type": "credit",
+      "amount": 40007.0,
+      "balance": 1872967.83,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10-06-2025 | MPAY/UPI/TRTR/106218372557/KHUSBOO\nDEVRAJ/HDFC/XX | 40007.00 | 1872967.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "description": "RTGS/UTIB0000022/VISTA BLUE\nTRADERS PRIVATE LIMITE",
+      "type": "credit",
+      "amount": 600000.0,
+      "balance": 2472967.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10-06-2025 | RTGS/UTIB0000022/VISTA BLUE\nTRADERS PRIVATE LIMITE | 600000.00 | 2472967.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "description": "MPAY/IMPSI/TRTR/516115650232/MAHB/X\nX261521/",
+      "type": "credit",
+      "amount": 500000.0,
+      "balance": 2972967.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10-06-2025 | MPAY/IMPSI/TRTR/516115650232/MAHB/X\nX261521/ | 500000.00 | 2972967.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-12",
+      "description": "RTGS/UTIB0000022/VISTA BLUE\nTRADERS PRIVATE LIMITE",
+      "type": "credit",
+      "amount": 1000000.0,
+      "balance": 3972967.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-06-2025 | RTGS/UTIB0000022/VISTA BLUE\nTRADERS PRIVATE LIMITE | 1000000.00 | 3972967.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-12",
+      "description": "RTGS/CSBK0001269/R G ENTERPRISES",
+      "type": "debit",
+      "amount": 2500000.0,
+      "balance": 1472967.83,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-06-2025 | RTGS/CSBK0001269/R G ENTERPRISES | 11 | 2500000.00 | 1472967.83 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 4971.63,
+      "balance": 1477939.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-06-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 4971.63 | 1477939.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "description": "eRTGS/UTIB0003288/JASMER FOODA\nCOMP",
+      "type": "debit",
+      "amount": 200000.0,
+      "balance": 1277939.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-06-2025 | eRTGS/UTIB0003288/JASMER FOODA\nCOMP | 200000.00 | 1277939.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "description": "eNEFT/UTIB0003288/JASMER FOODA\nCOMP",
+      "type": "debit",
+      "amount": 499999.0,
+      "balance": 777940.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-06-2025 | eNEFT/UTIB0003288/JASMER FOODA\nCOMP | 499999.00 | 777940.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "description": "MPAY/IMPSI/TRTR/516700128067/UTIB/XX\n784418/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 777941.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-06-2025 | MPAY/IMPSI/TRTR/516700128067/UTIB/XX\n784418/ | 1.00 | 777941.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "description": "MPAY/IMPSI/TRTR/516700136757/UTIB/XX\n784418/",
+      "type": "credit",
+      "amount": 133000.0,
+      "balance": 910941.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-06-2025 | MPAY/IMPSI/TRTR/516700136757/UTIB/XX\n784418/ | 133000.00 | 910941.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-16",
+      "description": "MPAY/IMPSI/TRTR/516701754135/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 1110940.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "16-06-2025 | MPAY/IMPSI/TRTR/516701754135/INDB/XX\n337971/ | 199999.00 | 1110940.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-16",
+      "description": "MPAY/IMPSI/TRTR/516729219959/UTIB/XX\n902917/",
+      "type": "credit",
+      "amount": 49999.0,
+      "balance": 1160939.46,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "16-06-2025 | MPAY/IMPSI/TRTR/516729219959/UTIB/XX\n902917/ | 49999.00 | 1160939.46 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-24",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 507.59,
+      "balance": 1161447.05,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-06-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 507.59 | 1161447.05 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-06-25",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 497.64,
+      "balance": 1161944.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-06-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 497.64 | 1161944.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-10",
+      "description": "MPAY/IMPSP/TRTR/519141267116/HDFC/X\nX423550/W",
+      "type": "debit",
+      "amount": 100.0,
+      "balance": 1161844.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10-07-2025 | MPAY/IMPSP/TRTR/519141267116/HDFC/X\nX423550/W | 100.00 | 1161844.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-10",
+      "description": "eNEFT/UTIB0003288/JASMER FOODA\nCOMP",
+      "type": "debit",
+      "amount": 100.0,
+      "balance": 1161744.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10-07-2025 | eNEFT/UTIB0003288/JASMER FOODA\nCOMP | 100.00 | 1161744.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-12",
+      "description": "eNEFT/IBKL0000038/TIMELESS\nADVENTURES",
+      "type": "debit",
+      "amount": 200001.0,
+      "balance": 961743.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-07-2025 | eNEFT/IBKL0000038/TIMELESS\nADVENTURES | 200001.00 | 961743.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-13",
+      "description": "eRTGS/IBKL0000038/TIMELESS\nADVENTURES",
+      "type": "debit",
+      "amount": 200002.0,
+      "balance": 761741.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13-07-2025 | eRTGS/IBKL0000038/TIMELESS\nADVENTURES | 200002.00 | 761741.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-14",
+      "description": "eRTGS/IBKL0000038/TIMELESS\nADVENTURES",
+      "type": "debit",
+      "amount": 289000.0,
+      "balance": 472741.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-07-2025 | eRTGS/IBKL0000038/TIMELESS\nADVENTURES | 289000.00 | 472741.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-14",
+      "description": "MPAY/IMPSI/TRTR/519519127412/MAHB/X\nX894723/",
+      "type": "credit",
+      "amount": 4000.0,
+      "balance": 476741.69,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-07-2025 | MPAY/IMPSI/TRTR/519519127412/MAHB/X\nX894723/ | 4000.00 | 476741.69 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-19",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 4956.79,
+      "balance": 481698.48,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-07-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 4956.79 | 481698.48 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-19",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 4956.79,
+      "balance": 486655.27,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-07-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 4956.79 | 486655.27 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "description": "MPAY/IMPSI/TRTR/520119724239/IDFB/XX\n599989/",
+      "type": "credit",
+      "amount": 49000.0,
+      "balance": 535655.27,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-07-2025 | MPAY/IMPSI/TRTR/520119724239/IDFB/XX\n599989/ | 49000.00 | 535655.27 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 70000.0,
+      "balance": 605655.27,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 70000.00 | 605655.27 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "description": "MPAY/IMPSP/TRTR/520243694982/IBKL/X\nX030490/W",
+      "type": "debit",
+      "amount": 105017.7,
+      "balance": 500637.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-07-2025 | MPAY/IMPSP/TRTR/520243694982/IBKL/X\nX030490/W | 105017.70 | 500637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "description": "MPAY/IMPSI/TRTR/520292437847/UTIB/XX\n829738/",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 550637.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-07-2025 | MPAY/IMPSI/TRTR/520292437847/UTIB/XX\n829738/ | 50000.00 | 550637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "CASH",
+      "type": "credit",
+      "amount": 195000.0,
+      "balance": 745637.57,
+      "category": "other",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | CASH | 195000.00 | 745637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520215140281/IDFB/XX\n612930/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 770637.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520215140281/IDFB/XX\n612930/ | 25000.00 | 770637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520215659268/SBIN/XX\n803899/",
+      "type": "credit",
+      "amount": 1000.0,
+      "balance": 771637.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520215659268/SBIN/XX\n803899/ | 1000.00 | 771637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520215659666/SBIN/XX\n803899/",
+      "type": "credit",
+      "amount": 19000.0,
+      "balance": 790637.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520215659666/SBIN/XX\n803899/ | 19000.00 | 790637.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSP/TRTR/520243823309/IBKL/X\nX030490/W",
+      "type": "debit",
+      "amount": 200017.7,
+      "balance": 590619.87,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSP/TRTR/520243823309/IBKL/X\nX030490/W | 200017.70 | 590619.87 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520215665481/SBIN/XX\n050318/",
+      "type": "credit",
+      "amount": 30000.0,
+      "balance": 620619.87,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520215665481/SBIN/XX\n050318/ | 30000.00 | 620619.87 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSP/TRTR/520243824950/MAHB/X\nX910649/W",
+      "type": "debit",
+      "amount": 50008.85,
+      "balance": 570611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSP/TRTR/520243824950/MAHB/X\nX910649/W | 50008.85 | 570611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520216692146/SBIN/XX\n887812/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 595611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520216692146/SBIN/XX\n887812/ | 25000.00 | 595611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/UPI/TRTR/688085793449/ALIKIRAN\nASHO/JJSB/XXX0",
+      "type": "credit",
+      "amount": 90000.0,
+      "balance": 685611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/UPI/TRTR/688085793449/ALIKIRAN\nASHO/JJSB/XXX0 | 90000.00 | 685611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520221553994/IOBA/XX\n062474/",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 695611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520221553994/IOBA/XX\n062474/ | 10000.00 | 695611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520221855283/SBIN/XX\n887812/",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 795611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520221855283/SBIN/XX\n887812/ | 100000.00 | 795611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/UPI/TRTR/330265237846/RENU/UTI\nB/XXX8195",
+      "type": "credit",
+      "amount": 90000.0,
+      "balance": 885611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/UPI/TRTR/330265237846/RENU/UTI\nB/XXX8195 | 90000.00 | 885611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/UPI/TRTR/920725278343/RENU/YES\nB/XXX0090",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 985611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/UPI/TRTR/920725278343/RENU/YES\nB/XXX0090 | 100000.00 | 985611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/UPI/TRTR/595396411551/AADILBHA\nTI/UTIB/XXX913",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1010611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/UPI/TRTR/595396411551/AADILBHA\nTI/UTIB/XXX913 | 25000.00 | 1010611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/UPI/TRTR/397018175141/JAVEDSHA\nIKHK/JJSB/XXX2",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 1060611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/UPI/TRTR/397018175141/JAVEDSHA\nIKHK/JJSB/XXX2 | 50000.00 | 1060611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "description": "MPAY/IMPSI/TRTR/520223877837/SBIN/XX\n887812/",
+      "type": "credit",
+      "amount": 130000.0,
+      "balance": 1190611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21-07-2025 | MPAY/IMPSI/TRTR/520223877837/SBIN/XX\n887812/ | 130000.00 | 1190611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520302999077/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 135000.0,
+      "balance": 1325611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520302999077/INDB/XX\n337971/ | 135000.00 | 1325611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520303999462/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 108000.0,
+      "balance": 1433611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520303999462/INDB/XX\n337971/ | 108000.00 | 1433611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520311033888/INDB/XX\n800637/",
+      "type": "credit",
+      "amount": 18000.0,
+      "balance": 1451611.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520311033888/INDB/XX\n800637/ | 18000.00 | 1451611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/586701490801/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 1456611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/586701490801/KARTIKSI\nNGHS/PUNB/XXX2 | 5000.00 | 1456611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/018460011270/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 1461611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/018460011270/KARTIKSI\nNGHS/PUNB/XXX2 | 5000.00 | 1461611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/839220773587/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 1466611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/839220773587/KARTIKSI\nNGHS/PUNB/XXX2 | 5000.00 | 1466611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/422747898440/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 1471611.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/422747898440/KARTIKSI\nNGHS/PUNB/XXX2 | 5000.00 | 1471611.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/108523304911/MrAkshayD\neel/MAHB/XXX5",
+      "type": "credit",
+      "amount": 20050.0,
+      "balance": 1491661.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/108523304911/MrAkshayD\neel/MAHB/XXX5 | 20050.00 | 1491661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 80000.0,
+      "balance": 1571661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 80000.00 | 1571661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520315083266/UBIN/XX\n050150/",
+      "type": "credit",
+      "amount": 28000.0,
+      "balance": 1599661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520315083266/UBIN/XX\n050150/ | 28000.00 | 1599661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520315460928/BKID/XX\n019234/",
+      "type": "credit",
+      "amount": 11000.0,
+      "balance": 1610661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520315460928/BKID/XX\n019234/ | 11000.00 | 1610661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 120000.0,
+      "balance": 1730661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 120000.00 | 1730661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520399867918/UTIB/XX\n588195/",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 1780661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520399867918/UTIB/XX\n588195/ | 50000.00 | 1780661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520300044374/UTIB/XX\n939957/",
+      "type": "credit",
+      "amount": 485000.0,
+      "balance": 2265661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520300044374/UTIB/XX\n939957/ | 485000.00 | 2265661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520300059800/UTIB/XX\n939957/",
+      "type": "credit",
+      "amount": 194000.0,
+      "balance": 2459661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520300059800/UTIB/XX\n939957/ | 194000.00 | 2459661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520300285580/UTIB/XX\n939957/",
+      "type": "credit",
+      "amount": 194001.0,
+      "balance": 2653662.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520300285580/UTIB/XX\n939957/ | 194001.00 | 2653662.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 100001.0,
+      "balance": 2753663.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 100001.00 | 2753663.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520387816525/KARB/X\nX777401/",
+      "type": "credit",
+      "amount": 200000.0,
+      "balance": 2953663.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520387816525/KARB/X\nX777401/ | 200000.00 | 2953663.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520387823716/KARB/X\nX068401/",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 3053663.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520387823716/KARB/X\nX068401/ | 100000.00 | 3053663.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520387881363/KARB/X\nX427901/",
+      "type": "credit",
+      "amount": 100.0,
+      "balance": 3053763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520387881363/KARB/X\nX427901/ | 100.00 | 3053763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520387882455/KARB/X\nX427901/",
+      "type": "credit",
+      "amount": 99000.0,
+      "balance": 3152763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520387882455/KARB/X\nX427901/ | 99000.00 | 3152763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/566070206179/AADILBHA\nTI/UTIB/XXX913",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 3177763.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/566070206179/AADILBHA\nTI/UTIB/XXX913 | 25000.00 | 3177763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/308484637225/SAVITRID\nEVI/PUNB/XXX39",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 3227763.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/308484637225/SAVITRID\nEVI/PUNB/XXX39 | 50000.00 | 3227763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/107115646112/AADILBHA\nTI/UTIB/XXX913",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 3237763.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/107115646112/AADILBHA\nTI/UTIB/XXX913 | 10000.00 | 3237763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520323486411/BKID/XX\n019234/",
+      "type": "credit",
+      "amount": 14000.0,
+      "balance": 3251763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520323486411/BKID/XX\n019234/ | 14000.00 | 3251763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 180000.0,
+      "balance": 3431763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 180000.00 | 3431763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/IMPSI/TRTR/520400393171/KKBK/X\nX124801/",
+      "type": "credit",
+      "amount": 125000.0,
+      "balance": 3556763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/IMPSI/TRTR/520400393171/KKBK/X\nX124801/ | 125000.00 | 3556763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/688130962827/YASHBANS\nAL/KKBK/XXX480",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 3581763.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/688130962827/YASHBANS\nAL/KKBK/XXX480 | 25000.00 | 3581763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "description": "MPAY/UPI/TRTR/711971116118/Mursalin/B\nARB/XXX9623",
+      "type": "credit",
+      "amount": 40000.0,
+      "balance": 3621763.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-07-2025 | MPAY/UPI/TRTR/711971116118/Mursalin/B\nARB/XXX9623 | 40000.00 | 3621763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/IMPSI/TRTR/520405489378/BKID/XX\n019234/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 3646763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/IMPSI/TRTR/520405489378/BKID/XX\n019234/ | 25000.00 | 3646763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/IMPSI/TRTR/520407191398/UBIN/XX\n050150/",
+      "type": "credit",
+      "amount": 13000.0,
+      "balance": 3659763.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/IMPSI/TRTR/520407191398/UBIN/XX\n050150/ | 13000.00 | 3659763.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 160001.0,
+      "balance": 3819764.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 160001.00 | 3819764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/720034844255/SONIDEVI/\nUBIN/XXX8539",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 3824764.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/720034844255/SONIDEVI/\nUBIN/XXX8539 | 5000.00 | 3824764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/075444947711/SONIDEVI/\nUBIN/XXX8539",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 3829764.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/075444947711/SONIDEVI/\nUBIN/XXX8539 | 5000.00 | 3829764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/557001142148/TARANJEE\nTKOUR/UCBA/XXX",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 3854764.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/557001142148/TARANJEE\nTKOUR/UCBA/XXX | 25000.00 | 3854764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/557029096440/SONALIDA\nRSENA/UBIN/XXX",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 3859764.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/557029096440/SONALIDA\nRSENA/UBIN/XXX | 5000.00 | 3859764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/868723742687/SONIDEVI/\nUBIN/XXX8539",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 3864764.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/868723742687/SONIDEVI/\nUBIN/XXX8539 | 5000.00 | 3864764.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/193298271619/SONIDEVI/\nUBIN/XXX8539",
+      "type": "credit",
+      "amount": 1200.0,
+      "balance": 3865964.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/193298271619/SONIDEVI/\nUBIN/XXX8539 | 1200.00 | 3865964.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/IMPSI/TRTR/520413891525/FDRL/X\nX504513/",
+      "type": "credit",
+      "amount": 55000.0,
+      "balance": 3920964.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/IMPSI/TRTR/520413891525/FDRL/X\nX504513/ | 55000.00 | 3920964.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/790942148326/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 3921464.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/790942148326/KARTIKSI\nNGHS/PUNB/XXX2 | 500.00 | 3921464.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/019101212114/KARTIKSI\nNGHS/PUNB/XXX2",
+      "type": "credit",
+      "amount": 3200.0,
+      "balance": 3924664.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/019101212114/KARTIKSI\nNGHS/PUNB/XXX2 | 3200.00 | 3924664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/751885151900/SONIDEVI/\nUBIN/XXX8539",
+      "type": "credit",
+      "amount": 5000.0,
+      "balance": 3929664.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/751885151900/SONIDEVI/\nUBIN/XXX8539 | 5000.00 | 3929664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/UPI/TRTR/363580656830/RAZIAHM\nAD/UTIB/XXX7334",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 3979664.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/UPI/TRTR/363580656830/RAZIAHM\nAD/UTIB/XXX7334 | 50000.00 | 3979664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "MPAY/IMPSI/TRTR/520420078232/IDFB/XX\n612930/",
+      "type": "credit",
+      "amount": 30000.0,
+      "balance": 4009664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | MPAY/IMPSI/TRTR/520420078232/IDFB/XX\n612930/ | 30000.00 | 4009664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "description": "RTGS/UNBA0000706/GLOBAL\nMANAGEMENT SERVICES",
+      "type": "credit",
+      "amount": 550000.0,
+      "balance": 4559664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23-07-2025 | RTGS/UNBA0000706/GLOBAL\nMANAGEMENT SERVICES | 550000.00 | 4559664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 180000.0,
+      "balance": 4739664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 180000.00 | 4739664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "RTGS/CSBK0000483/RKB ENTERPRISES",
+      "type": "debit",
+      "amount": 2080000.0,
+      "balance": 2659664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | RTGS/CSBK0000483/RKB ENTERPRISES | 14 | 2080000.00 | 2659664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "MPAY/IMPSI/TRTR/520515703531/IDFB/XX\n612930/",
+      "type": "credit",
+      "amount": 35000.0,
+      "balance": 2694664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | MPAY/IMPSI/TRTR/520515703531/IDFB/XX\n612930/ | 35000.00 | 2694664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "RTGS/KKBK0000958/YASH BANSAL",
+      "type": "credit",
+      "amount": 400000.0,
+      "balance": 3094664.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | RTGS/KKBK0000958/YASH BANSAL | 400000.00 | 3094664.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 3294663.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 199999.00 | 3294663.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "MPAY/IMPSI/TRTR/520600617049/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 499999.0,
+      "balance": 3794662.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | MPAY/IMPSI/TRTR/520600617049/INDB/XX\n337971/ | 499999.00 | 3794662.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "description": "MPAY/IMPSI/TRTR/520600617091/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 3994661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24-07-2025 | MPAY/IMPSI/TRTR/520600617091/INDB/XX\n337971/ | 199999.00 | 3994661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/520619621334/KANISHKA\nBABLA/ICIC/XXX",
+      "type": "credit",
+      "amount": 95858.0,
+      "balance": 4090519.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/520619621334/KANISHKA\nBABLA/ICIC/XXX | 95858.00 | 4090519.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/IMPSI/TRTR/520603619723/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 55000.0,
+      "balance": 4145519.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/IMPSI/TRTR/520603619723/INDB/XX\n337971/ | 55000.00 | 4145519.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/IMPSI/TRTR/520604619975/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 200000.0,
+      "balance": 4345519.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/IMPSI/TRTR/520604619975/INDB/XX\n337971/ | 200000.00 | 4345519.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/520612983651/MANISHTA\nNDON/UTIB/XXX6",
+      "type": "credit",
+      "amount": 90000.0,
+      "balance": 4435519.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/520612983651/MANISHTA\nNDON/UTIB/XXX6 | 90000.00 | 4435519.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/053208111114/JASPREET\nKAUR/YESB/XXX0",
+      "type": "credit",
+      "amount": 44444.0,
+      "balance": 4479963.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/053208111114/JASPREET\nKAUR/YESB/XXX0 | 44444.00 | 4479963.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/IMPSI/TRTR/520605620326/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 30000.0,
+      "balance": 4509963.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/IMPSI/TRTR/520605620326/INDB/XX\n337971/ | 30000.00 | 4509963.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/IMPSI/TRTR/520605620328/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 10000.0,
+      "balance": 4519963.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/IMPSI/TRTR/520605620328/INDB/XX\n337971/ | 10000.00 | 4519963.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/387011635537/JASPREET\nKAUR/UTIB/XXX8",
+      "type": "credit",
+      "amount": 98888.0,
+      "balance": 4618851.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/387011635537/JASPREET\nKAUR/UTIB/XXX8 | 98888.00 | 4618851.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/IMPSI/TRTR/520669479093/YESB/XX\n000280/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 4643851.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/IMPSI/TRTR/520669479093/YESB/XX\n000280/ | 25000.00 | 4643851.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/891410013158/MANISHTA\nNDON/INDB/XXX7",
+      "type": "credit",
+      "amount": 22000.0,
+      "balance": 4665851.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/891410013158/MANISHTA\nNDON/INDB/XXX7 | 22000.00 | 4665851.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/520663095889/MANISHTA\nNDON/UTIB/XXX6",
+      "type": "credit",
+      "amount": 7777.0,
+      "balance": 4673628.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/520663095889/MANISHTA\nNDON/UTIB/XXX6 | 7777.00 | 4673628.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "RTGS/YESB0000002/TIMELESS\nADVENTURES",
+      "type": "debit",
+      "amount": 1500000.0,
+      "balance": 3173628.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | RTGS/YESB0000002/TIMELESS\nADVENTURES | 17 | 1500000.00 | 3173628.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "RTGS/IBKL0000067/NIDHI ENTERPRISES",
+      "type": "debit",
+      "amount": 2500560.0,
+      "balance": 673068.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | RTGS/IBKL0000067/NIDHI ENTERPRISES | 16 | 2500560.00 | 673068.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "MPAY/UPI/TRTR/266542472230/QADEERA\nHAMAD/BARB/XXX8",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 673069.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | MPAY/UPI/TRTR/266542472230/QADEERA\nHAMAD/BARB/XXX8 | 1.00 | 673069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "description": "NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar",
+      "type": "credit",
+      "amount": 150001.0,
+      "balance": 823070.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25-07-2025 | NEFT/MAHB0000262/Mr. Dattu Gangaram\nBhandarwar | 150001.00 | 823070.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520716466274/UTIB/XX\n829738/",
+      "type": "credit",
+      "amount": 200000.0,
+      "balance": 1023070.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520716466274/UTIB/XX\n829738/ | 200000.00 | 1023070.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520704853110/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 499999.0,
+      "balance": 1523069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520704853110/INDB/XX\n337971/ | 499999.00 | 1523069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520704853135/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 490000.0,
+      "balance": 2013069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520704853135/INDB/XX\n337971/ | 490000.00 | 2013069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520705777060/UBIN/XX\n050150/",
+      "type": "credit",
+      "amount": 30000.0,
+      "balance": 2043069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520705777060/UBIN/XX\n050150/ | 30000.00 | 2043069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520705854472/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 2143069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520705854472/INDB/XX\n337971/ | 100000.00 | 2143069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520705854515/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 400000.0,
+      "balance": 2543069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520705854515/INDB/XX\n337971/ | 400000.00 | 2543069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/IMPSI/TRTR/520705855147/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 335000.0,
+      "balance": 2878069.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/IMPSI/TRTR/520705855147/INDB/XX\n337971/ | 335000.00 | 2878069.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "NEFT/INDB0000006/MANISH TANDON",
+      "type": "credit",
+      "amount": 19500.0,
+      "balance": 2897569.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | NEFT/INDB0000006/MANISH TANDON | 19500.00 | 2897569.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "description": "MPAY/UPI/TRTR/466832946356/UMESHBA\nLASAHE/SBIN/XXX",
+      "type": "credit",
+      "amount": 100000.0,
+      "balance": 2997569.02,
+      "category": "upi",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-07-2025 | MPAY/UPI/TRTR/466832946356/UMESHBA\nLASAHE/SBIN/XXX | 100000.00 | 2997569.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "description": "MPAY/IMPSI/TRTR/520905217544/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 41000.0,
+      "balance": 3038569.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28-07-2025 | MPAY/IMPSI/TRTR/520905217544/INDB/XX\n337971/ | 41000.00 | 3038569.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "description": "MPAY/IMPSI/TRTR/520907220124/INDB/XX\n337971/",
+      "type": "credit",
+      "amount": 4100.0,
+      "balance": 3042669.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28-07-2025 | MPAY/IMPSI/TRTR/520907220124/INDB/XX\n337971/ | 4100.00 | 3042669.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "description": "RTGS/IBKL0000067/NIDHI ENTERPRISES",
+      "type": "debit",
+      "amount": 2255000.0,
+      "balance": 787669.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28-07-2025 | RTGS/IBKL0000067/NIDHI ENTERPRISES | 19 | 2255000.00 | 787669.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-07-29",
+      "description": "NEFT/BDBL0002326/Rajinder Kumar",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 787670.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29-07-2025 | NEFT/BDBL0002326/Rajinder Kumar | 1.00 | 787670.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521873099919/UTIB/XX\n939957/",
+      "type": "credit",
+      "amount": 400000.0,
+      "balance": 1187670.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521873099919/UTIB/XX\n939957/ | 400000.00 | 1187670.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521820912859/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1187671.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521820912859/IDFB/XX\n865972/ | 1.00 | 1187671.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826357707/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1212671.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826357707/RATN/X\nX281071/ | 25000.00 | 1212671.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825716832/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1237670.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825716832/RATN/X\nX281071/ | 24999.00 | 1237670.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826358282/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1262668.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826358282/RATN/X\nX281071/ | 24998.00 | 1262668.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825720634/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1287668.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825720634/RATN/X\nX281071/ | 25000.00 | 1287668.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521828360112/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1312667.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521828360112/RATN/X\nX281071/ | 24999.00 | 1312667.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825721408/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1337665.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825721408/RATN/X\nX281071/ | 24998.00 | 1337665.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521828360577/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1362662.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521828360577/RATN/X\nX281071/ | 24997.00 | 1362662.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827361549/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1387661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827361549/RATN/X\nX281071/ | 24999.00 | 1387661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827361894/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1412661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827361894/RATN/X\nX281071/ | 25000.00 | 1412661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521820968653/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1412662.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521820968653/IDFB/XX\n865972/ | 1.00 | 1412662.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827364256/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1437662.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827364256/RATN/X\nX281071/ | 25000.00 | 1437662.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825729401/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1462661.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825729401/RATN/X\nX281071/ | 24999.00 | 1462661.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825729734/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1487659.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825729734/RATN/X\nX281071/ | 24998.00 | 1487659.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521828364682/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1512656.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521828364682/RATN/X\nX281071/ | 24997.00 | 1512656.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521828364870/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1537656.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521828364870/RATN/X\nX900084/ | 25000.00 | 1537656.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825730962/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1562655.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825730962/RATN/X\nX900084/ | 24999.00 | 1562655.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521828365272/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1587653.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521828365272/RATN/X\nX900084/ | 24998.00 | 1587653.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825731587/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1612650.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825731587/RATN/X\nX900084/ | 24997.00 | 1612650.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826365591/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1637650.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826365591/RATN/X\nX900084/ | 25000.00 | 1637650.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827365802/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1662649.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827365802/RATN/X\nX900084/ | 24999.00 | 1662649.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826365911/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1687647.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826365911/RATN/X\nX900084/ | 24998.00 | 1687647.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825732787/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1712644.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825732787/RATN/X\nX900084/ | 24997.00 | 1712644.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825733187/RATN/X\nX900084/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1737644.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825733187/RATN/X\nX900084/ | 25000.00 | 1737644.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521820993508/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1737645.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521820993508/IDFB/XX\n865972/ | 1.00 | 1737645.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826367061/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1762645.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826367061/RATN/X\nX281071/ | 25000.00 | 1762645.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825735099/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1787644.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825735099/RATN/X\nX281071/ | 24999.00 | 1787644.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827367454/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1812642.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827367454/RATN/X\nX281071/ | 24998.00 | 1812642.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826367514/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1837639.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826367514/RATN/X\nX281071/ | 24997.00 | 1837639.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825737277/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 25000.0,
+      "balance": 1862639.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825737277/RATN/X\nX281071/ | 25000.00 | 1862639.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521826368483/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24999.0,
+      "balance": 1887638.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521826368483/RATN/X\nX281071/ | 24999.00 | 1887638.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521825737912/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1912636.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521825737912/RATN/X\nX281071/ | 24998.00 | 1912636.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827368852/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24997.0,
+      "balance": 1937633.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827368852/RATN/X\nX281071/ | 24997.00 | 1937633.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521820020588/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1937634.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521820020588/IDFB/XX\n865972/ | 1.00 | 1937634.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521821026396/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1937635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521821026396/IDFB/XX\n865972/ | 1.00 | 1937635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521821068506/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1937636.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521821068506/IDFB/XX\n865972/ | 1.00 | 1937636.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521821084145/IDFB/XX\n865972/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 1937637.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521821084145/IDFB/XX\n865972/ | 1.00 | 1937637.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "description": "MPAY/IMPSI/TRTR/521827389612/RATN/X\nX281071/",
+      "type": "credit",
+      "amount": 24998.0,
+      "balance": 1962635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "06-08-2025 | MPAY/IMPSI/TRTR/521827389612/RATN/X\nX281071/ | 24998.00 | 1962635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-07",
+      "description": "MPAY/IMPSI/TRTR/521977968876/UTIB/XX\n939957/",
+      "type": "credit",
+      "amount": 291000.0,
+      "balance": 2253635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "07-08-2025 | MPAY/IMPSI/TRTR/521977968876/UTIB/XX\n939957/ | 291000.00 | 2253635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-07",
+      "description": "RTGS/IBKL0000067/NIDHI ENTERPRISES",
+      "type": "debit",
+      "amount": 1500000.0,
+      "balance": 753635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "07-08-2025 | RTGS/IBKL0000067/NIDHI ENTERPRISES | 21 | 1500000.00 | 753635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "MPAY/IMPSI/TRTR/522013361681/IDFB/XX\n525258/",
+      "type": "credit",
+      "amount": 50000.0,
+      "balance": 803635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | MPAY/IMPSI/TRTR/522013361681/IDFB/XX\n525258/ | 50000.00 | 803635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "RTGS/UNBA0000706/DOLPHIN\nENTERPRISE",
+      "type": "credit",
+      "amount": 500000.0,
+      "balance": 1303635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | RTGS/UNBA0000706/DOLPHIN\nENTERPRISE | 500000.00 | 1303635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "RTGS/UNBA0000706/DOLPHIN\nENTERPRISE",
+      "type": "credit",
+      "amount": 2000000.0,
+      "balance": 3303635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | RTGS/UNBA0000706/DOLPHIN\nENTERPRISE | 2000000.00 | 3303635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "RTGS/UNBA0000706/DOLPHIN\nENTERPRISE",
+      "type": "credit",
+      "amount": 2000000.0,
+      "balance": 5303635.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | RTGS/UNBA0000706/DOLPHIN\nENTERPRISE | 2000000.00 | 5303635.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "MPAY/IMPSI/TRTR/522085365817/UTIB/XX\n358167/",
+      "type": "credit",
+      "amount": 500.0,
+      "balance": 5304135.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | MPAY/IMPSI/TRTR/522085365817/UTIB/XX\n358167/ | 500.00 | 5304135.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "MPAY/IMPSI/TRTR/522020597084/IDFB/XX\n525258/",
+      "type": "credit",
+      "amount": 49000.0,
+      "balance": 5353135.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | MPAY/IMPSI/TRTR/522020597084/IDFB/XX\n525258/ | 49000.00 | 5353135.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "MPAY/IMPSI/TRTR/522020734462/UBIN/XX\n003925/",
+      "type": "credit",
+      "amount": 220000.0,
+      "balance": 5573135.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | MPAY/IMPSI/TRTR/522020734462/UBIN/XX\n003925/ | 220000.00 | 5573135.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "description": "NEFT/BDBL0002326/Rajinder Kumar",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 5573136.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "08-08-2025 | NEFT/BDBL0002326/Rajinder Kumar | 1.00 | 5573136.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 2100000.0,
+      "balance": 3473136.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 22 | 2100000.00 | 3473136.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 2300000.0,
+      "balance": 1173136.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 23 | 2300000.00 | 1173136.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "RTGS/YESB0000001/YESBH25223328089",
+      "type": "credit",
+      "amount": 2300000.0,
+      "balance": 3473136.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-08-2025 | RTGS/YESB0000001/YESBH25223328089 | 2300000.00 | 3473136.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "MPAY/IMPSI/TRTR/522322303702/UBIN/XX\n055542/",
+      "type": "credit",
+      "amount": 300001.0,
+      "balance": 3773137.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-08-2025 | MPAY/IMPSI/TRTR/522322303702/UBIN/XX\n055542/ | 300001.00 | 3773137.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "description": "NEFT/UBIN0537365/PARASHAR\nENTERPRISES",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 3973136.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-08-2025 | NEFT/UBIN0537365/PARASHAR\nENTERPRISES | 199999.00 | 3973136.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "description": "MPAY/IMPSI/TRTR/522401313537/UBIN/XX\n055542/",
+      "type": "credit",
+      "amount": 299999.0,
+      "balance": 4273135.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-08-2025 | MPAY/IMPSI/TRTR/522401313537/UBIN/XX\n055542/ | 299999.00 | 4273135.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "description": "NEFT/UBIN0537365/PARASHAR\nENTERPRISES",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 4473134.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-08-2025 | NEFT/UBIN0537365/PARASHAR\nENTERPRISES | 199999.00 | 4473134.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 1500000.0,
+      "balance": 2973134.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 24 | 1500000.00 | 2973134.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 1800000.0,
+      "balance": 1173134.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 25 | 1800000.00 | 1173134.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "description": "RTGS/YESB0000001/YESBH25224389810",
+      "type": "credit",
+      "amount": 1800000.0,
+      "balance": 2973134.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-08-2025 | RTGS/YESB0000001/YESBH25224389810 | 1800000.00 | 2973134.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "description": "MPAY/IMPSI/TRTR/522616522734/UTIB/XX\n838981/",
+      "type": "credit",
+      "amount": 1.0,
+      "balance": 2973135.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-08-2025 | MPAY/IMPSI/TRTR/522616522734/UTIB/XX\n838981/ | 1.00 | 2973135.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 900.0,
+      "balance": 2974035.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 900.00 | 2974035.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "description": "MPAY/IMPSI/TRTR/522930726034/UTIB/XX\n688715/",
+      "type": "credit",
+      "amount": 91419.98,
+      "balance": 3065455.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17-08-2025 | MPAY/IMPSI/TRTR/522930726034/UTIB/XX\n688715/ | 91419.98 | 3065455.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 3067455.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 2000.00 | 3067455.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 980000.0,
+      "balance": 2087455.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 26 | 980000.00 | 2087455.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "description": "RTGS/YESB0000001/YESBH25230650355",
+      "type": "credit",
+      "amount": 980000.0,
+      "balance": 3067455.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-08-2025 | RTGS/YESB0000001/YESBH25230650355 | 980000.00 | 3067455.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "description": "NEFT/MAHB0000262/Mr. Pradip Raju\nRathod",
+      "type": "credit",
+      "amount": 499999.0,
+      "balance": 3567454.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-08-2025 | NEFT/MAHB0000262/Mr. Pradip Raju\nRathod | 499999.00 | 3567454.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "MPAY/IMPSI/TRTR/523100728333/MAHB/X\nX453826/",
+      "type": "credit",
+      "amount": 500000.0,
+      "balance": 4067454.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | MPAY/IMPSI/TRTR/523100728333/MAHB/X\nX453826/ | 500000.00 | 4067454.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "MPAY/IMPSI/TRTR/523100728398/MAHB/X\nX453826/",
+      "type": "credit",
+      "amount": 300000.0,
+      "balance": 4367454.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | MPAY/IMPSI/TRTR/523100728398/MAHB/X\nX453826/ | 300000.00 | 4367454.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "MPAY/IMPSI/TRTR/523101596703/UBIN/XX\n055542/",
+      "type": "credit",
+      "amount": 299999.0,
+      "balance": 4667453.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | MPAY/IMPSI/TRTR/523101596703/UBIN/XX\n055542/ | 299999.00 | 4667453.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "MPAY/IMPSI/TRTR/523135989289/UTIB/XX\n688715/",
+      "type": "credit",
+      "amount": 192727.0,
+      "balance": 4860180.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | MPAY/IMPSI/TRTR/523135989289/UTIB/XX\n688715/ | 192727.00 | 4860180.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "NEFT/MAHB0002296/Mr. MEHBOOB",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 5060179.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | NEFT/MAHB0002296/Mr. MEHBOOB | 199999.00 | 5060179.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "NEFT/UBIN0537365/PARASHAR\nENTERPRISES",
+      "type": "credit",
+      "amount": 199999.0,
+      "balance": 5260178.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | NEFT/UBIN0537365/PARASHAR\nENTERPRISES | 199999.00 | 5260178.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "description": "RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS",
+      "type": "debit",
+      "amount": 985000.0,
+      "balance": 4275178.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19-08-2025 | RTGS/YESB0001182/SHREE SAWARIYA\nTRADERS | 27 | 985000.00 | 4275178.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 103520.0,
+      "balance": 4378698.0,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 103520.00 | 4378698.00 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "description": "MPAY/IMPSI/TRTR/523345509648/UTIB/XX\n688715/",
+      "type": "credit",
+      "amount": 341755.96,
+      "balance": 4720453.96,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20-08-2025 | MPAY/IMPSI/TRTR/523345509648/UTIB/XX\n688715/ | 341755.96 | 4720453.96 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 48734.79,
+      "balance": 4769188.75,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 48734.79 | 4769188.75 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 174000.0,
+      "balance": 4943188.75,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 174000.00 | 4943188.75 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "description": "AMC ATMCRD-Jul25toJun26-6936",
+      "type": "debit",
+      "amount": 354.0,
+      "balance": 4942834.75,
+      "category": "other",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26-08-2025 | AMC ATMCRD-Jul25toJun26-6936 | 354.00 | 4942834.75 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 1005.23,
+      "balance": 4943839.98,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-08-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 1005.23 | 4943839.98 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "description": "NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET",
+      "type": "credit",
+      "amount": 1005.23,
+      "balance": 4944845.21,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-08-2025 | NEFT/YESB0000001/ONE 97\nCOMMUNICATIONS LIMITED SET | 1005.23 | 4944845.21 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 59986.8,
+      "balance": 5004832.01,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 59986.80 | 5004832.01 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 36394.62,
+      "balance": 5041226.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 36394.62 | 5041226.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 38575.0,
+      "balance": 5079801.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 38575.00 | 5079801.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 33710.0,
+      "balance": 5113511.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "30-08-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 33710.00 | 5113511.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "description": "MPAY/IMPSI/TRTR/524396496355/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 20435.0,
+      "balance": 5133946.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "30-08-2025 | MPAY/IMPSI/TRTR/524396496355/UTIB/PH\nONEPELIMITE | 20435.00 | 5133946.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 30000.0,
+      "balance": 5163946.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "01-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 30000.00 | 5163946.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-11",
+      "description": "MPAY/IMPSI/TRTR/525451646633/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 213032.0,
+      "balance": 5376978.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11-09-2025 | MPAY/IMPSI/TRTR/525451646633/UTIB/PH\nONEPELIMITE | 213032.00 | 5376978.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 147832.0,
+      "balance": 5524810.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 147832.00 | 5524810.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "MPAY/IMPSI/TRTR/525554357169/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 323482.0,
+      "balance": 5848292.63,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | MPAY/IMPSI/TRTR/525554357169/UTIB/PH\nONEPELIMITE | 323482.00 | 5848292.63 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "MPAY/IMPSI/TRTR/525555160944/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 115486.66,
+      "balance": 5963779.29,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | MPAY/IMPSI/TRTR/525555160944/UTIB/PH\nONEPELIMITE | 115486.66 | 5963779.29 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "MPAY/IMPSI/TRTR/525556417055/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 133330.62,
+      "balance": 6097109.91,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | MPAY/IMPSI/TRTR/525556417055/UTIB/PH\nONEPELIMITE | 133330.62 | 6097109.91 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "MPAY/IMPSI/TRTR/525557242019/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 170710.0,
+      "balance": 6267819.91,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | MPAY/IMPSI/TRTR/525557242019/UTIB/PH\nONEPELIMITE | 170710.00 | 6267819.91 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "description": "MPAY/IMPSI/TRTR/525657503033/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 176998.0,
+      "balance": 6444817.91,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12-09-2025 | MPAY/IMPSI/TRTR/525657503033/UTIB/PH\nONEPELIMITE | 176998.00 | 6444817.91 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "description": "MPAY/IMPSI/TRTR/525660380950/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 121529.0,
+      "balance": 6566346.91,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13-09-2025 | MPAY/IMPSI/TRTR/525660380950/UTIB/PH\nONEPELIMITE | 121529.00 | 6566346.91 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "description": "MPAY/IMPSI/TRTR/525661779645/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 155167.93,
+      "balance": 6721514.84,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13-09-2025 | MPAY/IMPSI/TRTR/525661779645/UTIB/PH\nONEPELIMITE | 155167.93 | 6721514.84 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "description": "MPAY/IMPSI/TRTR/525662739827/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 89101.89,
+      "balance": 6810616.73,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13-09-2025 | MPAY/IMPSI/TRTR/525662739827/UTIB/PH\nONEPELIMITE | 89101.89 | 6810616.73 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "description": "MPAY/IMPSI/TRTR/525663306405/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 48423.0,
+      "balance": 6859039.73,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13-09-2025 | MPAY/IMPSI/TRTR/525663306405/UTIB/PH\nONEPELIMITE | 48423.00 | 6859039.73 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 2000.0,
+      "balance": 6861039.73,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 2000.00 | 6861039.73 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "description": "MPAY/IMPSI/TRTR/525769311285/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 394912.85,
+      "balance": 7255952.58,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14-09-2025 | MPAY/IMPSI/TRTR/525769311285/UTIB/PH\nONEPELIMITE | 394912.85 | 7255952.58 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 14240.0,
+      "balance": 7270192.58,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 14240.00 | 7270192.58 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 80617.99,
+      "balance": 7350810.57,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 80617.99 | 7350810.57 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "description": "MPAY/IMPSI/TRTR/525875201366/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 135934.94,
+      "balance": 7486745.51,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-09-2025 | MPAY/IMPSI/TRTR/525875201366/UTIB/PH\nONEPELIMITE | 135934.94 | 7486745.51 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "description": "MPAY/IMPSI/TRTR/525976444227/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 135857.62,
+      "balance": 7622603.13,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15-09-2025 | MPAY/IMPSI/TRTR/525976444227/UTIB/PH\nONEPELIMITE | 135857.62 | 7622603.13 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "description": "NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO",
+      "type": "credit",
+      "amount": 44771.0,
+      "balance": 7667374.13,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17-09-2025 | NEFT/UTIB0001506/PHONEPE LIMITED-\nPAYMENT AGGREGATO | 44771.00 | 7667374.13 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "description": "MPAY/IMPSI/TRTR/526186103908/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 226976.99,
+      "balance": 7894351.12,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17-09-2025 | MPAY/IMPSI/TRTR/526186103908/UTIB/PH\nONEPELIMITE | 226976.99 | 7894351.12 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "description": "MPAY/IMPSI/TRTR/526189953543/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 467504.0,
+      "balance": 8361855.12,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-09-2025 | MPAY/IMPSI/TRTR/526189953543/UTIB/PH\nONEPELIMITE | 467504.00 | 8361855.12 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "description": "MPAY/IMPSI/TRTR/526190283543/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 156562.9,
+      "balance": 8518418.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-09-2025 | MPAY/IMPSI/TRTR/526190283543/UTIB/PH\nONEPELIMITE | 156562.90 | 8518418.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "description": "MPAY/IMPSI/TRTR/526190454820/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 77238.0,
+      "balance": 8595656.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-09-2025 | MPAY/IMPSI/TRTR/526190454820/UTIB/PH\nONEPELIMITE | 77238.00 | 8595656.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "description": "MPAY/IMPSI/TRTR/526291081685/UTIB/PH\nONEPELIMITE",
+      "type": "credit",
+      "amount": 126174.0,
+      "balance": 8721830.02,
+      "category": "transfer",
+      "holder_name": "HI TECH TRADERS",
+      "account_number": "20070210003121",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18-09-2025 | MPAY/IMPSI/TRTR/526291081685/UTIB/PH\nONEPELIMITE | 126174.00 | 8721830.02 CR",
+      "audit": {
+        "score": 0.75,
+        "fixable": true,
+        "llm_used": true,
+        "status": "forensic_recovered"
+      }
+    }
+  ],
+  "warnings": [
+    "AI Audit complete. Header Status: needs_review/needs_review"
+  ],
+  "raw_header_text": "UCO Bank\nUCO BANK Account Name : HI TECH TRADERS\nAYODHYA CHOWK ROHINI (2007) A/C No : 20070210003121\nIFSC Code :UCBA0002007 MICR Code :110028061 Report Date : 19-SEP-2025\nF-26/13,SEC7,ROHINI null\nnull null\nnull 110085 null null\nBranch Phone no : Contact No:XXXXXXX66\nToll Free Help Line : 1800 345 0123"
+}

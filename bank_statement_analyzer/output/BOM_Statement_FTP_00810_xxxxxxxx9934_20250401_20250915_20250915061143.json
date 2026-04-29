@@ -1,0 +1,606 @@
+{
+  "source_file": "input files\\BOM_Statement_FTP_00810_xxxxxxxx9934_20250401_20250915_20250915061143.pdf",
+  "extraction_method": "text",
+  "account": {
+    "holder_name": "Mr. VISHAL",
+    "account_number": "60446069934",
+    "bank_name": "Bank of Maharashtra",
+    "statement_period": {
+      "from_date": null,
+      "to_date": null
+    }
+  },
+  "summary": {
+    "opening_balance": 67629.49,
+    "closing_balance": 87369.09,
+    "total_credits": 58314.0,
+    "total_debits": 38574.4
+  },
+  "transactions": [
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509102644783/**/RAHULK\n/NA",
+      "type": "debit",
+      "amount": 9582.0,
+      "balance": 58047.49,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "1 | 01/04/2025 | IMPS/48/509102644783/**/RAHULK\n/NA | 509102644783 | 9,582.00 | - | 58,047.49 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 58042.49,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "2 | 01/04/2025 | IMPS CHG | 5.00 | - | 58,042.49 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 58041.59,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "3 | 01/04/2025 | GST | 0.90 | - | 58,041.59 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 545713983163/BARB/PANKAJ\nTHAKUR/NA",
+      "type": "credit",
+      "amount": 8000.0,
+      "balance": 66041.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "4 | 01/04/2025 | UPI 545713983163/BARB/PANKAJ\nTHAKUR/NA | 545713983163 | - | 8,000.00 | 66,041.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 102399332055/ibkl/PARAMA\nKUMAR/UPI",
+      "type": "debit",
+      "amount": 1562.0,
+      "balance": 64479.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "5 | 01/04/2025 | UPI 102399332055/ibkl/PARAMA\nKUMAR/UPI | 102399332055 | 1,562.00 | - | 64,479.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 108744000639/HDFC/VARDAN\nJUSTA/Payment from Ph",
+      "type": "credit",
+      "amount": 6200.0,
+      "balance": 70679.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "6 | 01/04/2025 | UPI 108744000639/HDFC/VARDAN\nJUSTA/Payment from Ph | 108744000639 | - | 6,200.00 | 70,679.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 102405547666/HDFC/ASHUTOSH\nLAXMAN DAHE/UPI",
+      "type": "credit",
+      "amount": 6100.0,
+      "balance": 76779.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "7 | 01/04/2025 | UPI 102405547666/HDFC/ASHUTOSH\nLAXMAN DAHE/UPI | 102405547666 | - | 6,100.00 | 76,779.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 556983152238/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme",
+      "type": "credit",
+      "amount": 7000.0,
+      "balance": 83779.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "8 | 01/04/2025 | UPI 556983152238/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme | 556983152238 | - | 7,000.00 | 83,779.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 951628212296/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme",
+      "type": "credit",
+      "amount": 7000.0,
+      "balance": 90779.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "9 | 01/04/2025 | UPI 951628212296/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme | 951628212296 | - | 7,000.00 | 90,779.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 926886618061/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme",
+      "type": "credit",
+      "amount": 7000.0,
+      "balance": 97779.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "10 | 01/04/2025 | UPI 926886618061/BARB/KAMLESH\nKUMAR PRAJAPAT/Payme | 926886618061 | - | 7,000.00 | 97,779.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 509148431308/HDFC/ARUN\nGANDHI/Sent using Paytm",
+      "type": "credit",
+      "amount": 1250.0,
+      "balance": 99029.59,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "11 | 01/04/2025 | UPI 509148431308/HDFC/ARUN\nGANDHI/Sent using Paytm | 509148431308 | - | 1,250.00 | 99,029.59 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509113670308/**/PALKI/NA",
+      "type": "debit",
+      "amount": 5000.0,
+      "balance": 94029.59,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "12 | 01/04/2025 | IMPS/48/509113670308/**/PALKI/NA | 509113670308 | 5,000.00 | - | 94,029.59 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 94024.59,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "13 | 01/04/2025 | IMPS CHG | 5.00 | - | 94,024.59 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 94023.69,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "14 | 01/04/2025 | GST | 0.90 | - | 94,023.69 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UPI 102410970555/HDFC/KAMLESH\nPRANJIVANBHAI JETHWA",
+      "type": "credit",
+      "amount": 15764.0,
+      "balance": 109787.69,
+      "category": "other",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "15 | 01/04/2025 | UPI 102410970555/HDFC/KAMLESH\nPRANJIVANBHAI JETHWA | 102410970555 | - | 15,764.00 | 1,09,787.69 | UPI",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509113672310/**\n/MEENAKSHIKKBK/NA",
+      "type": "debit",
+      "amount": 2100.0,
+      "balance": 107687.69,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "16 | 01/04/2025 | IMPS/48/509113672310/**\n/MEENAKSHIKKBK/NA | 509113672310 | 2,100.00 | - | 1,07,687.69 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 107682.69,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "17 | 01/04/2025 | IMPS CHG | 5.00 | - | 1,07,682.69 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 107681.79,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "18 | 01/04/2025 | GST | 0.90 | - | 1,07,681.79 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509113672408/**/SONAUO\n/NA",
+      "type": "debit",
+      "amount": 3000.0,
+      "balance": 104681.79,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "19 | 01/04/2025 | IMPS/48/509113672408/**/SONAUO\n/NA | 509113672408 | 3,000.00 | - | 1,04,681.79 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 104676.79,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "20 | 01/04/2025 | IMPS CHG | 5.00 | - | 1,04,676.79 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 104675.89,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "21 | 01/04/2025 | GST | 0.90 | - | 1,04,675.89 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509114673360/**\n/SURAJHOTAL/NA",
+      "type": "debit",
+      "amount": 3000.0,
+      "balance": 101675.89,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "22 | 01/04/2025 | IMPS/48/509114673360/**\n/SURAJHOTAL/NA | 509114673360 | 3,000.00 | - | 1,01,675.89 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 101670.89,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "23 | 01/04/2025 | IMPS CHG | 5.00 | - | 1,01,670.89 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 101669.99,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "24 | 01/04/2025 | GST | 0.90 | - | 1,01,669.99 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509114673487/**\n/KANCHANBAIMEENA/NA",
+      "type": "debit",
+      "amount": 1490.0,
+      "balance": 100179.99,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "25 | 01/04/2025 | IMPS/48/509114673487/**\n/KANCHANBAIMEENA/NA | 509114673487 | 1,490.00 | - | 1,00,179.99 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 100174.99,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "26 | 01/04/2025 | IMPS CHG | 5.00 | - | 1,00,174.99 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "GST",
+      "type": "debit",
+      "amount": 0.9,
+      "balance": 100174.09,
+      "category": "tax",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "27 | 01/04/2025 | GST | 0.90 | - | 1,00,174.09 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS/48/509114673670/**\n/KAMLESHRI/NA",
+      "type": "debit",
+      "amount": 12800.0,
+      "balance": 87374.09,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "28 | 01/04/2025 | IMPS/48/509114673670/**\n/KAMLESHRI/NA | 509114673670 | 12,800.00 | - | 87,374.09 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "description": "IMPS CHG",
+      "type": "debit",
+      "amount": 5.0,
+      "balance": 87369.09,
+      "category": "transfer",
+      "holder_name": "Mr. VISHAL",
+      "account_number": "60446069934",
+      "has_debit_col": true,
+      "has_credit_col": true,
+      "validation_warning": null,
+      "raw_text": "29 | 01/04/2025 | IMPS CHG | 5.00 | - | 87,369.09 | IMPS",
+      "audit": {
+        "score": 1.0,
+        "fixable": true,
+        "llm_used": false,
+        "status": "clean"
+      }
+    }
+  ],
+  "warnings": [
+    "Page 2: 0 transactions detected after 29 on page 1 \u2014 possible missing or blank page.",
+    "AI Audit complete. Header Status: needs_review/deterministic"
+  ],
+  "raw_header_text": "Account Details\nAccount No 60446069934 Account Open Date 09/05/2023 Nomination Flag Y\nAccount Type PMJDY without Cheque Book Nominee Name KAMAL\nMode of Operation OPERATING SINGLY Total Balance 73,066.49Available Balance 0.00\nQAB Required 1000.000QAB Maintained 73066.490\nAccount Holder Names Mr. VISHAL Primary GSTIN NA\nCustomer Details\nName Mr. VISHAL CIF Number 40262671675\nMobile xxxxxxxxxx73 Email\nKYC Complied Y KYC Expiry Date 04/02/2027 CKYC ID xxxxxxxxxx5767\nPrimary ID Type ADHAR WITH SAME ADDRESS Date of Birth 31xxxxxx97 Statement Date Mon Sep 15 18:11:41 GMT+05:30 2025\nAddress S/O KAMAL BALMIKI, PABU BAARI KE BAHAR, CHOTI GUWAD, BIKANER, RAJASTHAN, 334001"
+}
